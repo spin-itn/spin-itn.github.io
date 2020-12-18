@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="800"
+   height="800"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3452">
+      <stop
+         id="stop3454"
+         style="stop-color:#fda10d;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3468"
+         style="stop-color:#ee4401;stop-opacity:1"
+         offset="0.4999997" />
+      <stop
+         id="stop3456"
+         style="stop-color:#be3d02;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3438">
+      <stop
+         id="stop3440"
+         style="stop-color:#7c8e8c;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3442"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="685.31311"
+       y1="698.32861"
+       x2="752.63977"
+       y2="639.31177"
+       id="linearGradient3450"
+       xlink:href="#linearGradient3438"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       cx="638.45422"
+       cy="668.5946"
+       r="72.738678"
+       fx="638.45422"
+       fy="668.5946"
+       id="radialGradient3458"
+       xlink:href="#linearGradient3452"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.0578305,1.3876366e-2,-1.6184575e-2,-1.2337909,1324.6197,1485.0561)" />
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       width="779.52917"
+       height="782.06006"
+       rx="0"
+       ry="44.765949"
+       x="9.536479"
+       y="12.283048"
+       id="rect3503"
+       style="opacity:1;fill:#30854e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       x="301.22748"
+       y="714.44006"
+       id="text3505"
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+         x="301.22748"
+         y="714.44006"
+         id="tspan3507" /></text>
+    <path
+       d="M 62.343132,737.65035 L 62.343132,467.31771 L 91.311688,467.31771 L 91.311688,713.34174 L 169.24696,713.34174 L 169.24696,737.65035 L 62.343132,737.65035 z M 193.93262,737.65035 L 193.93262,467.31771 L 273.64297,467.31771 L 321.50515,651.71922 L 368.82757,467.31771 L 448.71783,467.31771 L 448.71783,737.65035 L 399.23623,737.65035 L 399.23623,524.85096 L 346.87572,737.65035 L 295.59479,737.65035 L 243.41422,524.85096 L 243.41422,737.65035 L 193.93262,737.65035 z M 636.74143,467.31771 L 729.08164,467.31771 L 729.08164,624.68824 C 729.08135,640.66979 726.70136,655.75998 721.94168,669.9588 C 717.18142,684.15779 709.71826,696.57414 699.55216,707.20794 C 689.38556,717.84179 678.7197,725.31002 667.55456,729.61272 C 652.04036,735.6365 633.41183,737.65035 611.66893,737.65035 C 599.09305,737.65035 585.37142,737.72639 570.50398,735.88238 C 555.6363,734.03835 543.20749,730.38107 533.2175,724.91049 C 523.22739,719.43992 514.08941,711.66431 505.80357,701.58369 C 497.51767,691.50311 491.84684,681.11516 488.79109,670.41982 C 483.85479,653.20909 481.38665,637.96523 481.38669,624.68824 L 481.38669,467.31771 L 573.72686,467.31771 L 573.72686,628.56067 C 574.42422,691.83232 638.35537,686.64065 636.74143,628.56067 L 636.74143,467.31771 z"
+       id="text3509"
+       style="font-size:167.87825012px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial" />
+  </g>
+</svg>
