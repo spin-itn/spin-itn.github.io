@@ -37,11 +37,12 @@ seismic inverse problems.
 Theoretical background to nonclassical nonlinear elasticity. 
 Training on monitoring and understanding of the time-dependent behaviour of the Earth’s crustal materials.
 
-## Attendance and presentation at International Conference: General Assembly of the European Geoscience Union - EGU 
+## Attendance and presentation at International Conference
 
 ## Joint field deployment at CNRS-LSBB
 Field experiment using different sensor types installed at same location (e.g. inside and on surface above laboratory facilities at LSBB, allowing for
-a 3D deployment). Goal: cross-validation of methodology and observations with different instrumentation. 
+a 3D deployment). 
+**Goal**: cross-validation of methodology and observations with different instrumentation. 
 
 # Year 3:
 
@@ -56,7 +57,7 @@ properties? How do novel processing techniques help predict
 dynamic stresses inside the wavefield and their impact on the rock 
 mass (e.g., induced events, poroelastic effects, damage and healing)? 
 
-## Attendance and presentation at the International Conference: European Association of Geoscientists and Engineers - EAGE 
+## Attendance and presentation at the International Conference
 
 # Year 4:
 
@@ -69,7 +70,7 @@ What is the impact of the SPIN developments on specific
 applications in the fields of natural hazards at national 
 observatories, exploration seismics, engineering and beyond? 
 How can SPIN research influence natural hazard policy?
-Goal: develop a new set of best practices for hazard monitoring 
+**Goal**: develop a new set of best practices for hazard monitoring 
 strategies, based on SPIN research results. 
 
-## Convene SPIN session and presentation at International Conference: General Assembly of the European Geoscience Union - EGU
+## Convene SPIN session and presentation at International Conference
