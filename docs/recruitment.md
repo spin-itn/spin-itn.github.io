@@ -23,7 +23,7 @@ Candidates __must not have resided__ or carried out their main activity (work, s
 - There are __no__ exceptions to these rules.
 {: style="text-align: justify;"}
 
-| ESR    | Host Institution | New title                                                                                            | Proposed deadline/(earliest) starting date |
+| ESR    | Host Institution | Project title                                                                                          | Proposed deadline / (earliest) starting date |
 |--------|------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------|
 | [ESR1.1](/esr11/)   | LMU       | Harnessing wavefield gradients: theory, experiment, applications                                    | 1.4.2021 / 1.10.2021                       |
 | [ESR1.2](/esr12/)   | ETH       | Distributed acoustic sensing for natural hazard assessment                                          | 1.4.2021 / 1.5.2021                  |
