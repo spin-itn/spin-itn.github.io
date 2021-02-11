@@ -31,21 +31,21 @@ Candidates __must not have resided__ or carried out their main activity (work, s
 
 | ESR    | Host Institution | Project title                                                                                          | 
 |:--------|:------------------|:-----------------------------------------------------------------------------------------------------|
-| [SPIN ESR 1.1](/esr11/)   | LMU Munich, Germany      | Harnessing wavefield gradients: theory, experiment, applications                                    | 
-| [SPIN ESR 1.2](/esr12/)   | ETH Z&uuml;rich, Switzerland      | Distributed acoustic sensing for natural hazard assessment                                          | 
-| [SPIN ESR 1.3](/esr13/)   | UGA Grenoble, France      | Wavefield gradient methods to monitor the Earth's crust                                             | 
-| [SPIN ESR 1.4](/esr14/)   | IPGP Paris, France     | Ocean floor seismological and environmental monitoring                                              | 
-| [SPIN ESR 2.1](/esr21/)   | GFZ Potsdam, Germany      | Rock mechanics and Seismology                                                                       | 
-| [SPIN ESR 2.2](/esr22/)   | UEDIN Edinburgh, UK    | Understanding Earthquake-Induced Damage & Healing of Crustal Rocks                                  |
-| [SPIN ESR 2.3](/esr23/)   | UKRI-BGS, UK  | Next-Generation Physics-based earthquake forecasts                                                  | 
-| [SPIN ESR 3.1](/esr31/)   | UEDIN Edinburgh, UK    | Optimal Design of Experiments and Surveys for Scientific Interrogation                              | 
-| [SPIN ESR 3.2](/esr32/)   | LMU Munich, Germany      | Numerical models across the scales                                                                  | 
-| [SPIN ESR 3.3](/esr33/)   | UGA Grenoble, France      | Detection and characterization of seismic signals with dense arrays of new seismological instruments | 
-| [SPIN ESR 3.4](/esr34/)   | UHAM Hamburg, Germany     | Ambient signals as a tool to characterize material properties                                       | 
-| [SPIN ESR 4.1](/esr41/)   | DIAS Dublin, Ireland     | Ground motion and unrest triggering on volcanoes                                                    |
-| [SPIN ESR 4.2](/esr42/)   | UHAM Hamburg, Germany     | Nonlinear seismology meets structural health monitoring                                             | 
-| [SPIN ESR 4.3](/esr43/)   | ETH Z&uuml;rich, Switzerland      | Monitoring hazards from a changing alpine environment                                               |
-| [SPIN ESR 4.4](/esr44/)   | GFZ Potsdam, Germany      | Distributed Acoustic Sensing and Volcano-seismology                                                 | 
+| [SPIN ESR 1.1](/esr11/)   | LMU Munich (D) | Harnessing wavefield gradients: theory, experiment, applications                                    | 
+| [SPIN ESR 1.2](/esr12/)   | ETH Z&uuml;rich (CH)      | Distributed acoustic sensing for natural hazard assessment                                          | 
+| [SPIN ESR 1.3](/esr13/)   | Universit&eacute; Grenoble Alpes (F) | Wavefield gradient methods to monitor the Earth's crust                                             | 
+| [SPIN ESR 1.4](/esr14/)   | IPGP Paris (F) | Ocean floor seismological and environmental monitoring                                              | 
+| [SPIN ESR 2.1](/esr21/)   | GFZ Potsdam (D) | Rock mechanics and Seismology                                                                       | 
+| [SPIN ESR 2.2](/esr22/)   | University of Edinburgh (UK)    | Understanding Earthquake-Induced Damage & Healing of Crustal Rocks                                  |
+| [SPIN ESR 2.3](/esr23/)   | British Geological Service (UK) | Next-Generation Physics-based earthquake forecasts                                                  | 
+| [SPIN ESR 3.1](/esr31/)   | University of Edinburgh (UK)    | Optimal Design of Experiments and Surveys for Scientific Interrogation                              | 
+| [SPIN ESR 3.2](/esr32/)   | LMU Munich (D) | Numerical models across the scales                                                                  | 
+| [SPIN ESR 3.3](/esr33/)   | Universit&eacute; Grenoble Alpes (F) | Detection and characterization of seismic signals with dense arrays of new seismological instruments | 
+| [SPIN ESR 3.4](/esr34/)   | University of Hamburg (D) | Ambient signals as a tool to characterize material properties                                       | 
+| [SPIN ESR 4.1](/esr41/)   | DIAS Dublin (IE) | Ground motion and unrest triggering on volcanoes                                                    |
+| [SPIN ESR 4.2](/esr42/)   | University of Hamburg (D) | Nonlinear seismology meets structural health monitoring                                             | 
+| [SPIN ESR 4.3](/esr43/)   | ETH Z&uuml;rich (CH) | Monitoring hazards from a changing alpine environment                                               |
+| [SPIN ESR 4.4](/esr44/)   | GFZ Potsdam (D) | Distributed Acoustic Sensing and Volcano-seismology                                                 | 
 
 
 
