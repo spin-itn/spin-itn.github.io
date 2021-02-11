@@ -66,7 +66,7 @@ We welcome applications from candidates who fulfill the following criteria:
 ## Application procedure
 You may apply to a maximum of __three__ PhD positions within the network. However, you must submit a __separate__ cover letter specifying __motivation for each position__. 
 
-The first __application deadline__ is April 1st, 2021. Application evaluations will start immediately, and will continue until all positions are filled. Selection interviews with shortlisted candidates will be organized by the hiring institutions. Please note that each PhD position has its own earliest __starting date__, check the project descriptions [above](/recruitment/#the-following-15-phd-positions-are-available).
+For most projects, the __application deadline__ is April 1st, 2021. Application evaluations will start immediately, and will continue until all positions are filled. Selection interviews with shortlisted candidates will be organized by the hiring institutions. Please note that each PhD position has its own earliest __starting date__ and may have a different applicaiton deadline. Check the project descriptions [above](/recruitment/#the-following-15-phd-positions-are-available).
 {: style="text-align: justify;"}
 
 We wish to reflect the diversity of society and we welcome applications from all qualified candidates regardless of personal background. The selection will be exclusively based on qualification without regard to gender identity, sexual orientation religion, national origin or age.
