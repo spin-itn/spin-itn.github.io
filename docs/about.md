@@ -9,6 +9,12 @@ nav_order: 1
 <img src="/assets/images/Spin-Logo-main.png" alt="drawing" width="170" style="float:right"/><br><br><br>
 
 # __SPIN-ITN:__ Seismological Parameters and INstrumentation
+
+
+SPIN is an Innovative Training Network (ITN) funded by the European Commission under the Horizon 2020 Marie Sklodowska-Curie Action (MSCA).
+<span style="color:#242fff; text-align: justify; display:block"><b>[We are currently recruiting 15 PhD candidates!](/recruitment/)</b></span>
+{: style="text-align: justify;"}
+
 ## Monitoring a Restless Earth
 
 _The seismic wavefield carries the imprint of material it crossed. We now understand that seismic wavefields alter the
@@ -39,10 +45,13 @@ solid Earth processes, how we interrogate the Earth’s geomechanical behavior, 
 >
 > <span style="color:#242fff; text-align: justify; display:block">**2)** creating a fertile environment to train a **new generation of unique European researchers** who can incorporate new sensor types into widespread, societally-relevant applications. In SPIN, we will educate broad and versatile researchers – in fundamental theory, the forefront of ground motion sensing technology, in monitoring system design, and in the interpretation and mitigation of natural hazards.</span>
 
-SPIN will, for the first time, focus on [training](/training/) [15 Early-Stage Researchers](/recruitment/) (ESRs) in emerging measurement technologies, and the design of monitoring systems for precursory changes in material properties, all while optimizing observation strategies. The unique interdisciplinary and inter-sectoral [network](/consortium/) will enable ESRs to gain international expertise at excellent [research institutions](/beneficiaries/), with a meaningful exposure of each ESR to [other disciplines and sectors](/partners/), thus going far beyond the education at a single PhD school. 
+SPIN will, for the first time, focus on [training](/training/) [15 Early-Stage Researchers](/recruitment/) (ESRs) in emerging measurement technologies, and the design of monitoring systems for precursory changes in material properties, all while optimizing observation strategies. The unique interdisciplinary and inter-sectoral [network](/consortium/) will enable ESRs to gain international expertise at excellent [research institutions](/beneficiaries/), with meaningful exposure of each ESR to [other disciplines and sectors](/partners/), thus going far beyond the education at a single PhD programme. 
 {: style="text-align: justify;"}
 
-SPIN runs from 01.03.2021 to 28.02.2025. 
+SPIN starts on 01.03.2021 and runs for 4 years, until 28.02.2025. 
+The network is coordinated by Prof. Dr. C. Hadziioannou at the <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">University of Hamburg</a>. 
+{: style="text-align: justify;"}
+
 
 --- 
 ![EU acknowledgment](/assets/images/H2020_acknowledgment.png)
