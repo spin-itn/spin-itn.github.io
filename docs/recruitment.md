@@ -19,7 +19,7 @@ The <b>SPIN „Monitoring a Restless Earth"</b> Innovative Training Network (ITN
 Please ensure that you fulfill the following eligibility criteria for ESR (Early Stage Researcher) positions in H2020 MSCA-ITNs, as ineligible candidates cannot be considered: 
 
 - Candidates can be of __any nationality__, and there is __no age limit__.
-- They must have less than __four years of research career__ and __not yet have been awarded a doctoral degree__. 
+- They must have less than __four years of research career__ after obtaining their degree and __not yet have been awarded a doctoral degree__. 
 - Candidates are required to __undertake transnational mobility__ (i.e., move from one country to another) when taking up their appointment. 
 Candidates __must not have resided__ or carried out their main activity (work, studies, etc.) in the country of the recruiting beneficiary __for more than 12 months in the 3 years__ immediately before the recruitment date. Compulsory national service, short stays such as holidays, and time spent as part of a procedure for obtaining refugee status are not taken into account. 
 - For all recruitment, the eligibility and mobility of the candidate will be __determined at the time of their recruitment in the project__.
