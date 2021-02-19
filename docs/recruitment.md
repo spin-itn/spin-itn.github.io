@@ -77,11 +77,17 @@ __Applications must include:__
 - A CV including relevant competences, skills and publication list, if applicable
 - Copies of degree certificate(s) and transcripts of records for previous studies (Bachelor and/or Master). Please indicate expected date of graduation if your Master’s degree is not completed
 - Contact information of two references
-- Completion of the SPIN application form: <a href="http://uhh.de/min-spin-apply" target="_blank" rel="noopener noreferrer">
-http://uhh.de/min-spin-apply</a>
 - Please note that each individual PhD project may have __additional application steps__ and/or qualification criteria. Please __carefully check__ the PhD descriptions: [http://spin-itn.eu/recruitment/](/recruitment/#the-following-15-phd-positions-are-available).
 
-Applications should be sent in __one single pdf file__ with filename `SPIN_YourLastname_YourFirstname.pdf’ to spin-applications.min@uni-hamburg.de
+Applications should be sent in __one single pdf file__ with filename `SPIN_YourLastname_YourFirstname.pdf’ to spin-applications.min@uni-hamburg.de  
+
+
+In addition, you must complete the SPIN application form: <a href="http://uhh.de/min-spin-apply" target="_blank" rel="noopener noreferrer"> http://uhh.de/min-spin-apply</a>.   
+_Please note that you will not immediately receive a confirmation email after completing the form, so please fill it in only once. If you see a message "Thank you for completing the form!", then your information was received._
+{: style="text-align: justify;"}
+
+If you have any questions about the application procedure, please contact [SPIN-management@uni-hamburg.de](mailto:SPIN-management@uni-hamburg.de?subject=Question about SPIN application). 
+{: style="text-align: justify;"}
 
 ## Data handling
 By applying to a PhD position, you agree that all data concerning your application may be stored electronically and distributed among the supervisors involved in the selection procedure within the MSCA ITN SPIN. If you do not agree, your application can not be processed further, due to the project’s centralised recruitment process. The data are used solely for the recruitment process and we do not share information about you with any third party.
