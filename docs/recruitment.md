@@ -82,7 +82,7 @@ __Applications must include:__
 Applications should be sent in __one single pdf file__ with filename `SPIN_YourLastname_YourFirstname.pdf’ to spin-applications.min@uni-hamburg.de  
 
 
-In addition, you must complete the SPIN application form: <a href="http://uhh.de/min-spin-apply" target="_blank" rel="noopener noreferrer"> http://uhh.de/min-spin-apply</a>.   
+In addition, you must __complete the SPIN application form:__ <a href="http://uhh.de/min-spin-apply" target="_blank" rel="noopener noreferrer"> http://uhh.de/min-spin-apply</a>.   
 _Please note that you will not immediately receive a confirmation email after completing the form, so please fill it in only once. If you see a message "Thank you for completing the form!", then your information was received._
 {: style="text-align: justify;"}
 
