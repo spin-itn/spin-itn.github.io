@@ -79,10 +79,11 @@ __Applications must include:__
 - Contact information of two references
 - Please note that each individual PhD project may have __additional application steps__ and/or qualification criteria. Please __carefully check__ the PhD descriptions: [http://spin-itn.eu/recruitment/](/recruitment/#the-following-15-phd-positions-are-available).
 
-Applications should be sent in __one single pdf file__ with filename `SPIN_YourLastname_YourFirstname.pdf’ to spin-applications.min@uni-hamburg.de  
+Applications should be sent in __one single pdf file__ with filename `SPIN_YourLastname_YourFirstname.pdf’ to spin-applications.min@uni-hamburg.de    
+Without the application documents, your application cannot be considered!  
 
-
-In addition, you must __complete the SPIN application form:__ <a href="http://uhh.de/min-spin-apply" target="_blank" rel="noopener noreferrer"> http://uhh.de/min-spin-apply</a>.   
+In addition, you must __complete the SPIN application form:__ <a href="http://uhh.de/min-spin-apply" target="_blank" rel="noopener noreferrer"> http://uhh.de/min-spin-apply</a>.    
+Please fill in the form __only once__. If you submit the application form multiple times, we will consider only the first submission. If you want to correct your information, please __first send an e-mail__ to [SPIN-management@uni-hamburg.de](mailto:SPIN-management@uni-hamburg.de?subject=Correct application information).   
 _Please note that you will not immediately receive a confirmation email after completing the form, so please fill it in only once. If you see a message "Thank you for completing the form!", then your information was received._
 {: style="text-align: justify;"}
 
