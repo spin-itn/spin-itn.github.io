@@ -13,7 +13,7 @@ nav_order: 1
 
 SPIN is an Innovative Training Network (ITN) funded by the European Commission under the Horizon 2020 Marie Sklodowska-Curie Action (MSCA).
 
-### [We are currently recruiting 15 PhD candidates!](/recruitment/)
+### &#129094; [We are currently hiring 15 PhD candidates! Apply now!](/recruitment/) &#129092;
 
 
 ## Monitoring a Restless Earth

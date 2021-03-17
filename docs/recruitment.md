@@ -10,7 +10,7 @@ nav_order: 5
 ---
 
 
-The <b>SPIN „Monitoring a Restless Earth"</b> Innovative Training Network (ITN) is recruiting 15 highly motivated PhD students, or "Early-Stage Researchers" (ESRs). The positions will have staggered starting dates between April-October 2021 for a duration of 3 years. For specifics, please refer to the individual project descriptions by clicking on the links [below](/recruitment/#the-following-15-phd-positions-are-available). 
+The <b>SPIN „Monitoring a Restless Earth"</b> Innovative Training Network (ITN) is recruiting 15 highly motivated PhD students, or "Early-Stage Researchers" (ESRs). The positions will have staggered starting dates between May-October 2021 for a duration of 3 years. For specifics, please refer to the individual project descriptions by clicking on the links [below](/recruitment/#the-following-15-phd-positions-are-available). 
 
 ---
 
@@ -57,16 +57,17 @@ The SPIN project combines training in theory and research methods with key profe
 ## What we’re looking for
 We welcome applications from candidates who fulfill the following criteria:
 
-+ A completed research-oriented university degree, such as a Master's degree or BSc Hons, in a relevant field (e.g. Geophysics, Physics, ..) The PhD enrollment requirements will depend on the hosting institute, please refer to the individual project descriptions and institute webpages.
-+ An outstanding academic track record
-+ A good command of English, both verbal and written
-+ Dedication and enthusiasm for research, combined with scientific curiosity, reliability and the capacity to teamwork in an interdisciplinary environment.
++ A __research-oriented university degree__, such as a Master's degree or BSc Hons, in a relevant field (e.g. Geophysics, Physics, Engineering, Applied Math ..) The PhD enrollment requirements will depend on the hosting institute, please refer to the individual project descriptions and institute webpages.
++ Note that you __may apply if you have not completed your degree yet__, as long as your degree will be completed by the time of recruitment in the project. 
++ An __outstanding academic track record__
++ A __good command of English__, both verbal and written
++ __Dedication and enthusiasm__ for research, combined with scientific curiosity, reliability and the capacity to teamwork in an interdisciplinary environment.
 {: style="text-align: justify;"}
 
 ## Application procedure
 You may apply to a maximum of __three__ PhD positions within the network. However, you must submit a __separate__ cover letter specifying __motivation for each position__. 
 
-For most projects, the __application deadline__ is April 1st, 2021. Application evaluations will start immediately, and will continue until all positions are filled. Selection interviews with shortlisted candidates will be organized by the hiring institutions. Please note that each PhD position has its own earliest __starting date__ and may have a different applicaiton deadline. Check the project descriptions [above](/recruitment/#the-following-15-phd-positions-are-available).
+For most projects, the __application deadline__ is April 5th, 2021. Application evaluations will start immediately, and will continue until all positions are filled. Selection interviews with shortlisted candidates will be organized by the hiring institutions. Please note that each PhD position has its own earliest __starting date__ and may have a different applicaiton deadline. Check the project descriptions [above](/recruitment/#the-following-15-phd-positions-are-available).
 {: style="text-align: justify;"}
 
 We wish to reflect the diversity of society and we welcome applications from all qualified candidates regardless of personal background. The selection will be exclusively based on qualification without regard to gender identity, sexual orientation religion, national origin or age.
