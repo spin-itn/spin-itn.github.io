@@ -79,6 +79,36 @@ management WP.
 
 <img src="/assets/images/Spin_WP_diagram.png" alt="WP diagram" width="350"/>
 
+### Individual projects
+
+The following 15 PhD projects are distributed among the 4 research work packages:
+
+
+
+| Project | Host Institution | Project title                                                                                          | 
+|:--------|:------------------|:-----------------------------------------------------------------------------------------------------|
+|__WP1__|  |  |
+| [SPIN ESR 1.1](/esr11/)   | LMU Munich (D) | Harnessing wavefield gradients: theory, experiment, applications                                    | 
+| [SPIN ESR 1.2](/esr12/)   | ETH Z&uuml;rich (CH)      | Distributed acoustic sensing for natural hazard assessment                                          | 
+| [SPIN ESR 1.3](/esr13/)   | Universit&eacute; Grenoble Alpes (F) | Wavefield gradient methods to monitor the Earth's crust                                             | 
+| [SPIN ESR 1.4](/esr14/)   | IPGP Paris (F) | Ocean floor seismological and environmental monitoring                                              | 
+|__WP2__|  |  |
+| [SPIN ESR 2.1](/esr21/)   | GFZ Potsdam (D) | Rock mechanics and Seismology                                                                       | 
+| [SPIN ESR 2.2](/esr22/)   | University of Edinburgh (UK)    | Understanding Earthquake-Induced Damage & Healing of Crustal Rocks                                  |
+| [SPIN ESR 2.3](/esr23/)   | British Geological Service (UK) | Next-Generation Physics-based earthquake forecasts                                                  | 
+|__WP3__|  |  |
+| [SPIN ESR 3.1](/esr31/)   | University of Edinburgh (UK)    | Optimal Design of Experiments and Surveys for Scientific Interrogation                              | 
+| [SPIN ESR 3.2](/esr32/)   | LMU Munich (D) | Numerical models across the scales                                                                  | 
+| [SPIN ESR 3.3](/esr33/)   | Universit&eacute; Grenoble Alpes (F) | Detection and characterization of seismic signals with dense arrays of new seismological instruments | 
+| [SPIN ESR 3.4](/esr34/)   | University of Hamburg (D) | Ambient signals as a tool to characterize material properties                                       | 
+|__WP4__|  |  |
+| [SPIN ESR 4.1](/esr41/)   | DIAS Dublin (IE) | Ground motion and unrest triggering on volcanoes                                                    |
+| [SPIN ESR 4.2](/esr42/)   | University of Hamburg (D) | Nonlinear seismology meets structural health monitoring                                             | 
+| [SPIN ESR 4.3](/esr43/)   | ETH Z&uuml;rich (CH) | Monitoring hazards from a changing alpine environment                                               |
+| [SPIN ESR 4.4](/esr44/)   | GFZ Potsdam (D) | Distributed Acoustic Sensing and Volcano-seismology                                                 | 
+
+
+
 --- 
 ### References
 

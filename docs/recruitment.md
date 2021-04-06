@@ -12,6 +12,8 @@ nav_order: 5
 
 The <b>SPIN „Monitoring a Restless Earth"</b> Innovative Training Network (ITN) is recruiting 15 highly motivated PhD students, or "Early-Stage Researchers" (ESRs). The positions will have staggered starting dates between May-October 2021 for a duration of 3 years. For specifics, please refer to the individual project descriptions by clicking on the links [below](/recruitment/#the-following-15-phd-positions-are-available). 
 
+__Note:__ the application deadline for the first round of recruitment was on __April 5th, 2021__. A few positions are still open, see the table below. 
+
 ---
 
 ## Eligibility Criteria 
@@ -31,21 +33,9 @@ Candidates __must not have resided__ or carried out their main activity (work, s
 
 | ESR    | Host Institution | Project title                                                                                          | 
 |:--------|:------------------|:-----------------------------------------------------------------------------------------------------|
-| [SPIN ESR 1.1](/esr11/)   | LMU Munich (D) | Harnessing wavefield gradients: theory, experiment, applications                                    | 
-| [SPIN ESR 1.2](/esr12/)   | ETH Z&uuml;rich (CH)      | Distributed acoustic sensing for natural hazard assessment                                          | 
-| [SPIN ESR 1.3](/esr13/)   | Universit&eacute; Grenoble Alpes (F) | Wavefield gradient methods to monitor the Earth's crust                                             | 
 | [SPIN ESR 1.4](/esr14/)   | IPGP Paris (F) | Ocean floor seismological and environmental monitoring                                              | 
-| [SPIN ESR 2.1](/esr21/)   | GFZ Potsdam (D) | Rock mechanics and Seismology                                                                       | 
-| [SPIN ESR 2.2](/esr22/)   | University of Edinburgh (UK)    | Understanding Earthquake-Induced Damage & Healing of Crustal Rocks                                  |
-| [SPIN ESR 2.3](/esr23/)   | British Geological Service (UK) | Next-Generation Physics-based earthquake forecasts                                                  | 
-| [SPIN ESR 3.1](/esr31/)   | University of Edinburgh (UK)    | Optimal Design of Experiments and Surveys for Scientific Interrogation                              | 
-| [SPIN ESR 3.2](/esr32/)   | LMU Munich (D) | Numerical models across the scales                                                                  | 
 | [SPIN ESR 3.3](/esr33/)   | Universit&eacute; Grenoble Alpes (F) | Detection and characterization of seismic signals with dense arrays of new seismological instruments | 
-| [SPIN ESR 3.4](/esr34/)   | University of Hamburg (D) | Ambient signals as a tool to characterize material properties                                       | 
-| [SPIN ESR 4.1](/esr41/)   | DIAS Dublin (IE) | Ground motion and unrest triggering on volcanoes                                                    |
-| [SPIN ESR 4.2](/esr42/)   | University of Hamburg (D) | Nonlinear seismology meets structural health monitoring                                             | 
 | [SPIN ESR 4.3](/esr43/)   | ETH Z&uuml;rich (CH) | Monitoring hazards from a changing alpine environment                                               |
-| [SPIN ESR 4.4](/esr44/)   | GFZ Potsdam (D) | Distributed Acoustic Sensing and Volcano-seismology                                                 | 
 
 
 
@@ -65,9 +55,9 @@ We welcome applications from candidates who fulfill the following criteria:
 {: style="text-align: justify;"}
 
 ## Application procedure
-You may apply to a maximum of __three__ PhD positions within the network. However, you must submit a __separate__ cover letter specifying __motivation for each position__. 
+You may apply to a maximum of __three__ PhD positions within the network. However, you must submit a __separate__ cover letter specifying __motivation for each position__. Please include all three cover letters in the single pdf with your application documents. 
 
-For most projects, the __application deadline__ is April 5th, 2021. Application evaluations will start immediately, and will continue until all positions are filled. Selection interviews with shortlisted candidates will be organized by the hiring institutions. Please note that each PhD position has its own earliest __starting date__ and may have a different applicaiton deadline. Check the project descriptions [above](/recruitment/#the-following-15-phd-positions-are-available).
+For most projects, the __application deadline__ was April 5th, 2021. Application evaluations will start immediately, and will continue until all positions are filled. Selection interviews with shortlisted candidates will be organized by the hiring institutions. Please note that each PhD position has its own earliest __starting date__ and may have a different applicaiton deadline. Check the project descriptions [above](/recruitment/#the-following-15-phd-positions-are-available).
 {: style="text-align: justify;"}
 
 We wish to reflect the diversity of society and we welcome applications from all qualified candidates regardless of personal background. The selection will be exclusively based on qualification without regard to gender identity, sexual orientation religion, national origin or age.
