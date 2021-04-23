@@ -33,7 +33,7 @@ Candidates __must not have resided__ or carried out their main activity (work, s
 
 | Project | Host Institution | Project title                                                                                          |  filled? |
 |:--------|:------------------|:-----------------------------------------------------------------------------------------------------|------|
-| [SPIN ESR 1.1](/esr11/)   | LMU Munich (D) | Harnessing wavefield gradients: theory, experiment, applications                                    | open |
+| [SPIN ESR 1.1](/esr11/)   | LMU Munich (D) | Harnessing wavefield gradients: theory, experiment, applications                                    | filled |
 | [SPIN ESR 1.2](/esr12/)   | ETH Z&uuml;rich (CH)      | Distributed acoustic sensing for natural hazard assessment                                          | filled |
 | [SPIN ESR 1.3](/esr13/)   | Universit&eacute; Grenoble Alpes (F) | Wavefield gradient methods to monitor the Earth's crust                                             | open |
 | [SPIN ESR 1.4](/esr14/)   | IPGP Paris (F) | Ocean floor seismological and environmental monitoring                                              | open |
