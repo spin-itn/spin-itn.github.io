@@ -15,6 +15,7 @@ SPIN is an Innovative Training Network (ITN) funded by the European Commission u
 
 ### &#129094; [We are currently hiring 15 PhD candidates! Apply now!](/recruitment/) &#129092;
 
+### Keep up to date about SPIN activities! [Subscribe to the SPIN-info mailing list here](https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info) &#129092;
 
 ## Monitoring a Restless Earth
 
