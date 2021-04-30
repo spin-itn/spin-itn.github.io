@@ -44,7 +44,7 @@ Candidates __must not have resided__ or carried out their main activity (work, s
 | [SPIN ESR 3.2](/esr32/)   | LMU Munich (D) | Numerical models across the scales                                                                  | open |
 | [SPIN ESR 3.3](/esr33/)   | Universit&eacute; Grenoble Alpes (F) | Detection and characterization of seismic signals with dense arrays of new seismological instruments | open |
 | [SPIN ESR 3.4](/esr34/)   | University of Hamburg (D) | Ambient signals as a tool to characterize material properties                                       | open |
-| [SPIN ESR 4.1](/esr41/)   | DIAS Dublin (IE) | Ground motion and unrest triggering on volcanoes                                                    | open |
+| [SPIN ESR 4.1](/esr41/)   | DIAS Dublin (IE) | Ground motion and unrest triggering on volcanoes                                                    | filled |
 | [SPIN ESR 4.2](/esr42/)   | University of Hamburg (D) | Nonlinear seismology meets structural health monitoring                                             | open |
 | [SPIN ESR 4.3](/esr43/)   | ETH Z&uuml;rich (CH) | Monitoring hazards from a changing alpine environment                                               | open |
 | [SPIN ESR 4.4](/esr44/)   | GFZ Potsdam (D) | Distributed Acoustic Sensing and Volcano-seismology                                                 | open |
