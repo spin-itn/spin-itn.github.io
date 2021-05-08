@@ -41,8 +41,8 @@ Candidates __must not have resided__ or carried out their main activity (work, s
 | [SPIN ESR 2.2](/esr22/)   | University of Edinburgh (UK)    | Understanding Earthquake-Induced Damage & Healing of Crustal Rocks                                  | open |
 | [SPIN ESR 2.3](/esr23/)   | British Geological Service (UK) | Next-Generation Physics-based earthquake forecasts                                                  | open |
 | [SPIN ESR 3.1](/esr31/)   | University of Edinburgh (UK)    | Optimal Design of Experiments and Surveys for Scientific Interrogation                              | open |
-| [SPIN ESR 3.2](/esr32/)   | LMU Munich (D) | Numerical models across the scales                                                                  | open |
-| [SPIN ESR 3.3](/esr33/)   | Universit&eacute; Grenoble Alpes (F) | Detection and characterization of seismic signals with dense arrays of new seismological instruments | open |
+| [SPIN ESR 3.2](/esr32/)   | LMU Munich (D) | Numerical models across the scales                                                                  | filled |
+| [SPIN ESR 3.3](/esr33/)   | Universit&eacute; Grenoble Alpes (F) | Detection and characterization of seismic signals with dense arrays of new seismological instruments | filled |
 | [SPIN ESR 3.4](/esr34/)   | University of Hamburg (D) | Ambient signals as a tool to characterize material properties                                       | open |
 | [SPIN ESR 4.1](/esr41/)   | DIAS Dublin (IE) | Ground motion and unrest triggering on volcanoes                                                    | filled |
 | [SPIN ESR 4.2](/esr42/)   | University of Hamburg (D) | Nonlinear seismology meets structural health monitoring                                             | open |
