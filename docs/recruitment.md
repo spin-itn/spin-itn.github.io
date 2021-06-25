@@ -32,11 +32,11 @@ Candidates __must not have resided__ or carried out their main activity (work, s
 ## SPIN consists of the following 15 PhD positions: 
 
 | Project | Host Institution | Project title                                                                                          |  filled? |
-|:--------|:------------------|:-----------------------------------------------------------------------------------------------------|------|
+|:--------|:------------------|:-----------------------------------------------------------------------------------------------------|:------|
 | [SPIN ESR 1.1](/esr11/)   | LMU Munich (D) | Harnessing wavefield gradients: theory, experiment, applications                                    | filled |
 | [SPIN ESR 1.2](/esr12/)   | ETH Z&uuml;rich (CH)      | Distributed acoustic sensing for natural hazard assessment                                          | filled |
 | [SPIN ESR 1.3](/esr13/)   | Universit&eacute; Grenoble Alpes (F) | Wavefield gradient methods to monitor the Earth's crust                                             | filled |
-| [SPIN ESR 1.4](/esr14/)   | IPGP Paris (F) | Ocean floor seismological and environmental monitoring                                              | open |
+| [SPIN ESR 1.4](/esr14/)   | IPGP Paris (F) | Ocean floor seismological and environmental monitoring                                              | filled |
 | [SPIN ESR 2.1](/esr21/)   | GFZ Potsdam (D) | Rock mechanics and Seismology                                                                       | filled |
 | [SPIN ESR 2.2](/esr22/)   | University of Edinburgh (UK)    | Understanding Earthquake-Induced Damage & Healing of Crustal Rocks                                  | filled |
 | [SPIN ESR 2.3](/esr23/)   | British Geological Service (UK) | Next-Generation Physics-based earthquake forecasts                                                  | open |
@@ -47,7 +47,7 @@ Candidates __must not have resided__ or carried out their main activity (work, s
 | [SPIN ESR 4.1](/esr41/)   | DIAS Dublin (IE) | Ground motion and unrest triggering on volcanoes                                                    | filled |
 | [SPIN ESR 4.2](/esr42/)   | University of Hamburg (D) | Nonlinear seismology meets structural health monitoring                                             | filled |
 | [SPIN ESR 4.3](/esr43/)   | ETH Z&uuml;rich (CH) | Monitoring hazards from a changing alpine environment                                               | filled |
-| [SPIN ESR 4.4](/esr44/)   | GFZ Potsdam (D) | Distributed Acoustic Sensing and Volcano-seismology                                                 | open |
+| [SPIN ESR 4.4](/esr44/)   | GFZ Potsdam (D) | Distributed Acoustic Sensing and Volcano-seismology                                                 | filled |
 
 
 

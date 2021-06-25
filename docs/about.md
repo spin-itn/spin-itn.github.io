@@ -13,7 +13,6 @@ nav_order: 1
 
 SPIN is an Innovative Training Network (ITN) funded by the European Commission under the Horizon 2020 Marie Sklodowska-Curie Action (MSCA).
 
-### &#129094; [We are currently hiring 15 PhD candidates! Apply now!](/recruitment/) &#129092;
 
 ### Keep up to date about SPIN activities! [Subscribe to the SPIN-info mailing list here](https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info) 
 
@@ -50,7 +49,7 @@ solid Earth processes, how we interrogate the Earth’s geomechanical behavior, 
 SPIN will, for the first time, focus on [training](/training/) [15 Early-Stage Researchers](/recruitment/) (ESRs) in emerging measurement technologies, and the design of monitoring systems for precursory changes in material properties, all while optimizing observation strategies. The unique interdisciplinary and inter-sectoral [network](/consortium/) will enable ESRs to gain international expertise at excellent [research institutions](/beneficiaries/), with meaningful exposure of each ESR to [other disciplines and sectors](/partners/), thus going far beyond the education at a single PhD programme. 
 {: style="text-align: justify;"}
 
-SPIN starts on 01.03.2021 and runs for 4 years, until 28.02.2025. 
+SPIN started on 01.03.2021 and runs for 4 years, until 28.02.2025. 
 The network is coordinated by Prof. Dr. C. Hadziioannou at the <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">University of Hamburg</a>. 
 {: style="text-align: justify;"}
 
