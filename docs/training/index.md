@@ -21,7 +21,8 @@ kick off event
 ## Short Course 1 - Instruments & Wave propagation 
 Establish same core background for all ESRs.
 
-## [Workshop 1 - New realms of seismic instrumentation](/ws1/ws1_venue.md)
+## Workshop 1 - New realms of seismic instrumentation
+Workshop 1 in Tutzing: [venue information](/ws1/ws1_venue.md)  
 How can we accurately measure complete ground motion? 
 New sensor concepts and first observations.
 
