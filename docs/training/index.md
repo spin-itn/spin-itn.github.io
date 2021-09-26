@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Training
+title: Training + Workshops
 permalink: /training/
 nav_order: 4
 has_children: true
 ---
 
-# Training
+# Training and Workshops
 
 ---
 Network-wide training will be offered in the form of short courses, workshops and a joint field deployment. More information to follow. 
