@@ -9,7 +9,8 @@ nav_order: 1
 
 
 # SPIN Workshop 1 - New realms of seismic instrumentation 
-_Tutzing, Germany_
+_Tutzing, Germany_  
+_22 - 26 November, 2021_  
 
 ---
 
@@ -40,14 +41,42 @@ We will impose a strict "G2" (genesen, geimpft) policy, meaning that __participa
 
 ## Registration 
 
-Registration costs will be updated soon. 
-
-Due to the restricted capacity of the venue, we can unfortunately only accept registrations by members of the SPIN consortium. Registration information will be distributed by email to SPIN members.
+The exact registration fee will depend on the number of participants, but it will not exceed 200 &euro;. The registration fees can be payed via credit card, via a secure online payment system. Once registration is complete, and we know how many participants will attend, we will send you an email with payment information.
 {: style="text-align: justify;"}
 
 
+Due to the restricted capacity of the venue as a result of the COVID-19 pandemic, __we can unfortunately only accept registrations by members of the SPIN consortium__. Registration information will be distributed by email to SPIN members.
+{: style="text-align: justify;"}
+
+## Accommodation
+
+During the SPIN workshop, you will stay at the [Evangelische Akademie Tutzing](https://www.schloss-tutzing.de/tagen-im-schloss/gastezimmer/). The room prices are as follows: 
+{: style="text-align: justify;"}
+
+- Single room: 80 &euro;   
+- Double room: 60 &euro;/pp 
+- Double room for single person: 99 &euro; 
+
+Note that participants from SPIN Beneficiary institutes will have to pay their accommodation directly to the Akademie reception upon leaving. Accommodation is full-board, so including breakfast, lunch and dinner. Rooms will be assigned by us after registration. Please indicate your preference for single or double room in the registration form.  
+{: style="text-align: justify;"}
+
+## Programme
+
+A preliminary programme can be found [here](/assets/images/ws1/2021_SPIN_Workshop_Tutzing_programme.pdf). During the workshop, there will be structured discussion and brainstorming activities in 'Venture Teams', explicitly involving the SPIN ESRs in the development of new, exciting, (groundbreaking, fun, wacky, ...) research ideas!
+{: style="text-align: justify;"}
+
+## Excursion Schneefernerhaus Thursday November 25, 2021
+
+We will depart from the venue at Tutzing 9am by bus and drive to the  Tiroler Zugspitzbahn south of Garmisch-Partenkirchen (approx. 1.5hrs) , that will take us to the summit of the Zugspitze (2950m), the tallest mountain in Germany. After exploring the views from the summit we will make our way (via two gondolas) to the [Schneefernerhaus](schneefernerhaus.de) environmental science observatory.
+{: style="text-align: justify;"}
+
+<img src="/assets/images/ws1/ws1_zugspitze.png" alt="Tiroler Zugspitzbahn (image source Wikipedia) & Schneefernerhaus environmental science observatory (image source schneefernerhaus.de)" width="700"/>
+
+At the Schneefernerhaus we will get a tour of the observatory and then settle in the conference hall with spectacular view for brief SPIN presentations. We will make our way down from approx. 15:00 using the rack railway from the [Sonnalpin restaurant](zugspitze.de). 
+Note that some time (e.g. waiting for gondola) may be spent outside and the __temperature may be below -10° centigrade. So please bring appropriate clothing and solid shoes__. Beware of the 3000m altitude.
+{: style="text-align: justify;"}
 
 ## Contact
 
-In case of questions, please contact [SPIN-management@uni-hamburg.de](mailto:SPIN-management@uni-hamburg.de?subject=Question about SPIN Workshop Tutzing).
+In case of questions or for clarifications, please contact [SPIN-management@uni-hamburg.de](mailto:SPIN-management@uni-hamburg.de?subject=Question about SPIN Workshop Tutzing).
 {: style="text-align: justify;"}
