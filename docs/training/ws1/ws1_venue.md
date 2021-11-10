@@ -60,7 +60,7 @@ Please bring sufficient medical-grade __masks__ to wear when entering and leavin
 
 ## Registration 
 
-The registration fee is 200 &euro; per participant for the whole meeting. The registration fees can be payed via credit card, via a secure online payment system. If you have registered, you should have received an email with payment information. 
+The registration fee is 50 &euro; per participant for the whole meeting. The registration fees can be payed via credit card, via a secure online payment system. If you have registered, you should have received an email with payment information. 
 {: style="text-align: justify;"}
 
 
