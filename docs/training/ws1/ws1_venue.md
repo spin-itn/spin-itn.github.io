@@ -55,9 +55,12 @@ In Germany Covid rules are imposed by the states (here: Bavaria) and are adapted
 We will impose a strict "G2" (genesen, geimpft) policy, meaning that __participants have to be either fully vaccinated or recovered with appropriate internationally valid documentation__.
 {: style="text-align: justify;"}
 
+Please bring sufficient medical-grade __masks__ to wear when entering and leaving the venue, the restaurant, etc. You will also need to wear masks in most public spaces in Germany (public transport, shops, etc). 
+{: style="text-align: justify;"}
+
 ## Registration 
 
-The exact registration fee will depend on the number of participants, but it will not exceed 200 &euro;. The registration fees can be payed via credit card, via a secure online payment system. Once registration is complete, and we know how many participants will attend, we will send you an email with payment information.
+The registration fee is 200 &euro; per participant for the whole meeting. The registration fees can be payed via credit card, via a secure online payment system. If you have registered, you should have received an email with payment information. 
 {: style="text-align: justify;"}
 
 
@@ -73,7 +76,7 @@ During the SPIN workshop, you will stay at the [Evangelische Akademie Tutzing](h
 - Double room: 60 &euro;/pp 
 - Double room for single person: 99 &euro; 
 
-Note that participants from SPIN [beneficiary](https://spin-itn.eu/beneficiaries) institutes will have to pay their accommodation directly to the Akademie reception upon leaving. Accommodation is full-board, so including breakfast, lunch and dinner. Rooms will be assigned by us after registration. Please indicate your preference for single or double room in the registration form.  
+Note that participants from SPIN [beneficiary](https://spin-itn.eu/beneficiaries) institutes will have to __pay their accommodation directly to the Akademie reception upon leaving__. Accommodation is full-board, so including breakfast, lunch and dinner. Rooms will be assigned by us after registration. Any drinks that covered by the conference fee need to be payed __in cash__. There are a few cash points near the venue. 
 {: style="text-align: justify;"}
 
 ## Contact
