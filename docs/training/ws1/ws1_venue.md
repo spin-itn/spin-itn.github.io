@@ -72,9 +72,9 @@ Due to the restricted capacity of the venue as a result of the COVID-19 pandemic
 During the SPIN workshop, you will stay at the [Evangelische Akademie Tutzing](https://www.schloss-tutzing.de/tagen-im-schloss/gastezimmer/). The room prices are as follows: 
 {: style="text-align: justify;"}
 
-- Single room: 80 &euro;   
-- Double room: 60 &euro;/pp 
-- Double room for single person: 99 &euro; 
+- Single room: 80 &euro; per person, per day.   
+- Double room: 60 &euro; per person, per day. 
+- Double room for single person: 99 &euro; per person, per day. 
 
 Note that participants from SPIN [beneficiary](https://spin-itn.eu/beneficiaries) institutes will have to __pay their accommodation directly to the Akademie reception upon leaving__. Accommodation is full-board, so including breakfast, lunch and dinner. Rooms will be assigned by us after registration. Any drinks that covered by the conference fee need to be payed __in cash__. There are a few cash points near the venue. 
 {: style="text-align: justify;"}
