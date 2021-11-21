@@ -9,14 +9,14 @@ nav_order: 1
 
 
 # SPIN Workshop 1 - New realms of seismic instrumentation 
-_Tutzing, Germany_  
-_22 - 26 November, 2021_  
+_Online_  
+_22 - 23 November, 2021_  
 
 ---
 
 ## Programme
 
-A preliminary programme can be found [here](/assets/images/ws1/2021_SPIN_Workshop_Tutzing_programme.pdf). Throughout the workshop, there will be structured discussion and brainstorming activities in 'Venture Teams', explicitly involving the SPIN ESRs in the development of new, exciting, (groundbreaking, fun, wacky, ...) research ideas!
+Unfortunately, due to the rapid evolution of the Covid situation in Southern Germany, the in-person workshop was cancelled. A virtual workshop will take place instead. The programme can be found [here](/assets/images/ws1/2021_SPIN_vWS1_online_workshop_programme.pdf). 
 {: style="text-align: justify;"}
 
 ## Excursion Schneefernerhaus Thursday November 25, 2021

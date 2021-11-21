@@ -19,10 +19,12 @@ Network-wide training will be offered in the form of short courses, workshops an
 kick off event
 
 ## Short Course 1 - Instruments & Wave propagation 
+29 march - 2 april, 2022; Geodetic Observatory Wettzell, Germany.   
 Establish same core background for all ESRs.
 
 ## Workshop 1 - New realms of seismic instrumentation
-Workshop 1 in Tutzing: [venue information](/ws1/ws1_venue.md)  
+[Workshop 1 in Tutzing:](/ws1/ws1_venue.md)    
+22 - 23 November, 2021  
 How can we accurately measure complete ground motion? 
 New sensor concepts and first observations.
 
