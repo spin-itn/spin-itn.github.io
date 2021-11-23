@@ -24,7 +24,7 @@ Unfortunately, due to the rapid evolution of the Covid situation in Southern Ger
 ### Work Package introductions 
 
 - [Work Package 1 -- New observational methods & techniques](../../assets/images/ws1/2021_SPIN_WP1_introduction.pdf)
-- [Work Package 2 -- New physical models for the restless Earth](../../assets/images/ws1/2021_SPIN_PS2_introduction.pdf)
+- [Work Package 2 -- New physical models for the restless Earth](../../assets/images/ws1/2021_SPIN_WP2_introduction.pdf)
 - [Work Package 3 -- Integration & Optimization](../../assets/images/ws1/2021_SPIN_WP3_introduction.pdf)
 - Work Package 4 -- Applications to monitoring natural hazards (will be updated)
 
