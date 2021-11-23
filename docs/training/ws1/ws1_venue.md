@@ -19,6 +19,18 @@ _22 - 23 November, 2021_
 Unfortunately, due to the rapid evolution of the Covid situation in Southern Germany, the in-person workshop was cancelled. A virtual workshop will take place instead. The programme can be found [here](/assets/images/ws1/2021_SPIN_vWS1_online_workshop_programme.pdf). 
 {: style="text-align: justify;"}
 
+## Presentations
+
+### Work Package introductions 
+
+- [Work Package 1 -- New observational methods & techniques](SPIN_WS1_introduction.pdf)
+- [Work Package 2 -- New physical models for the restless Earth](SPIN_WS2_introduction.pdf)
+- [Work Package 3 -- Integration & Optimization](SPIN_WS3_introduction.pdf)
+- Work Package 4 -- Applications to monitoring natural hazards (will be updated)
+
+
+
+# In-Person workshop canceled: 
 ## Excursion Schneefernerhaus Thursday November 25, 2021
 
 We will depart from the venue at Tutzing 9am by bus and drive to the  Tiroler Zugspitzbahn south of Garmisch-Partenkirchen (approx. 1.5hrs) , that will take us to the summit of the Zugspitze (2950m), the tallest mountain in Germany. After exploring the views from the summit we will make our way (via two gondolas) to the [Schneefernerhaus](schneefernerhaus.de) environmental science observatory.
