@@ -23,10 +23,25 @@ Unfortunately, due to the rapid evolution of the Covid situation in Southern Ger
 
 ### Work Package introductions 
 
+
+- [__SPIN Introduction__](../../assets/images/ws1/2021_SPIN_WS1_introduction.pdf)
 - [Work Package 1 -- New observational methods & techniques](../../assets/images/ws1/2021_SPIN_WP1_introduction.pdf)
 - [Work Package 2 -- New physical models for the restless Earth](../../assets/images/ws1/2021_SPIN_WP2_introduction.pdf)
 - [Work Package 3 -- Integration & Optimization](../../assets/images/ws1/2021_SPIN_WP3_introduction.pdf)
-- Work Package 4 -- Applications to monitoring natural hazards (will be updated)
+- [Work Package 4 -- Applications to monitoring natural hazards](../../assets/images/ws1/2021_SPIN_WP4_introduction.pdf)
+
+### Beneficiary and Partner presentations
+
+Partners and associated institutes: 
+- [LSBB](../../assets/images/ws1/2021_SPIN_WS1_associated_partner_LSBB.pdf)
+- [NGI](../../assets/images/ws1/2021_SPIN_WS1_NGI.pdf)
+- [ScaDS.AI](../../assets/images/ws1/2021_SPIN_WS1_ScaDS_AI_Umlauft.pdf)
+
+Beneficiary introductions by SPIN ESRs: 
+- [ISTerre](../../assets/images/ws1/2021_SPIN_WS1_beneficiary_ISTerre.pdf)
+- [ETH](../../assets/images/ws1/2021_SPIN_WS1_beneficiary_ETH.pdf)
+
+
 
 
 
