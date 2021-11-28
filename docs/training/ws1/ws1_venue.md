@@ -48,11 +48,19 @@ Partners and associated institutes:
 - [ScaDS.AI](../../assets/images/ws1/2021_SPIN_WS1_ScaDS_AI_Umlauft.pdf)
 
 
+### Thank you for a successful workshop!  
+
+
+<img src="../../assets/images/ws1/2021_SPIN_WS1_group_picture_01.png" alt="Group photo zoom" width="700"/>
+
+[Group photo 2](../../assets/images/ws1/2021_SPIN_WS1_group_picture_01.png)   
+[Group photo gather town](../../assets/images/ws1/2021_SPIN_WS1_gathertown.png)
 
 
 
 
-# In-Person workshop canceled: 
+
+# In-Person workshop cancelled: 
 ## Excursion Schneefernerhaus Thursday November 25, 2021
 
 We will depart from the venue at Tutzing 9am by bus and drive to the  Tiroler Zugspitzbahn south of Garmisch-Partenkirchen (approx. 1.5hrs) , that will take us to the summit of the Zugspitze (2950m), the tallest mountain in Germany. After exploring the views from the summit we will make our way (via two gondolas) to the [Schneefernerhaus](schneefernerhaus.de) environmental science observatory.
