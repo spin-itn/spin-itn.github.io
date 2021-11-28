@@ -19,6 +19,15 @@ _22 - 23 November, 2021_
 Unfortunately, due to the rapid evolution of the Covid situation in Southern Germany, the in-person workshop was cancelled. A virtual workshop will take place instead. The programme can be found [here](/assets/images/ws1/2021_SPIN_vWS1_online_workshop_programme.pdf). 
 {: style="text-align: justify;"}
 
+### Thank you for a successful workshop!  
+
+
+<a href="../../assets/images/ws1/2021_SPIN_WS1_group_picture_01.png"><img src="../../assets/images/ws1/2021_SPIN_WS1_group_picture_01.png" alt="Group photo zoom" width="700"/></a>
+
+[Group photo 2](../../assets/images/ws1/2021_SPIN_WS1_group_picture_02.png)   
+[Group photo gather town](../../assets/images/ws1/2021_SPIN_WS1_gathertown.png)
+
+
 ## Presentations
 
 ### Work Package introductions 
@@ -47,14 +56,6 @@ Partners and associated institutes:
 - [NGI](../../assets/images/ws1/2021_SPIN_WS1_NGI.pdf)
 - [ScaDS.AI](../../assets/images/ws1/2021_SPIN_WS1_ScaDS_AI_Umlauft.pdf)
 
-
-### Thank you for a successful workshop!  
-
-
-<img src="../../assets/images/ws1/2021_SPIN_WS1_group_picture_01.png" alt="Group photo zoom" width="700"/>
-
-[Group photo 2](../../assets/images/ws1/2021_SPIN_WS1_group_picture_01.png)   
-[Group photo gather town](../../assets/images/ws1/2021_SPIN_WS1_gathertown.png)
 
 
 
