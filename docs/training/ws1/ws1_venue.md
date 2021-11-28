@@ -29,17 +29,24 @@ Unfortunately, due to the rapid evolution of the Covid situation in Southern Ger
 - [Work Package 2 -- New physical models for the restless Earth](../../assets/images/ws1/2021_SPIN_WP2_introduction.pdf)
 - [Work Package 3 -- Integration & Optimization](../../assets/images/ws1/2021_SPIN_WP3_introduction.pdf)
 - [Work Package 4 -- Applications to monitoring natural hazards](../../assets/images/ws1/2021_SPIN_WP4_introduction.pdf)
+- [Closing Remarks](../../assets/images/ws1/2021_SPIN_WS1_closing_remarks.pdf)  
 
 ### Beneficiary and Partner presentations
+Beneficiary introductions by SPIN ESRs: 
+- [ISTerre](../../assets/images/ws1/2021_SPIN_WS1_beneficiary_ISTerre.pdf)
+- [ETH](../../assets/images/ws1/2021_SPIN_WS1_beneficiary_ETH.pdf)
+- [DIAS](../../assets/images/ws1/2021_SPIN_WS1_beneficiary_DIAS.pdf)
+- [UHH](../../assets/images/ws1/2021_SPIN_WS1_beneficiary_UHH.pdf)  
+
 
 Partners and associated institutes: 
+- [Silixa](../../assets/images/ws1/2021_SPIN_WS1_Silixa.pdf)  
+- [Kinemetrics](../../assets/images/ws1/2021_SPIN_WS1_KMI_kinemetrics.pdf)  
+- [iXblue](https://www.blueseis.com/)  
 - [LSBB](../../assets/images/ws1/2021_SPIN_WS1_associated_partner_LSBB.pdf)
 - [NGI](../../assets/images/ws1/2021_SPIN_WS1_NGI.pdf)
 - [ScaDS.AI](../../assets/images/ws1/2021_SPIN_WS1_ScaDS_AI_Umlauft.pdf)
 
-Beneficiary introductions by SPIN ESRs: 
-- [ISTerre](../../assets/images/ws1/2021_SPIN_WS1_beneficiary_ISTerre.pdf)
-- [ETH](../../assets/images/ws1/2021_SPIN_WS1_beneficiary_ETH.pdf)
 
 
 
