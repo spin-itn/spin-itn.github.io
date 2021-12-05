@@ -10,7 +10,7 @@ nav_order: 1
 
 | | Member                    | Country | Scientist(s) in charge                                      |
 |:---|:------------------------------------|:---------:|:--------------------|
-| <img src="/assets/images/partners-logos/UHH_logo.svg" alt="drawing" width="40"/>| [University of Hamburg](https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html) <br> UHAM                                    |  DE      | C&eacute;line Hadziioannou <br> __Coordinator__                                         |
+| <img src="/assets/images/partners-logos/UHH_logo.svg" alt="drawing" width="40"/>| [University of Hamburg](https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html) <br> UHAM                                    |  DE      | C&eacute;line Hadziioannou <br> __Coordinator__   <br><br> Sven Schippkus                                      |
 | <img src="/assets/images/partners-logos/LMU_logo.svg" alt="drawing" width="40"/> | [Ludwig-Maximilians Universit&auml;t M&uuml;nchen](https://www.geophysik.uni-muenchen.de/research/seismology) <br>LMU                  |  DE      | Heiner Igel, <br>Alice Gabriel                                  |
 | <img src="/assets/images/partners-logos/ETH_logo.svg" alt="drawing" width="110"/>| [Eidgenössische Technische Hochschule Z&uuml;rich](https://geophysics.ethz.ch/) <br> ETH              |  CH      | Cedric Schmelzbach, <br>Johan Olof Robertsson, <br>Andreas Fichtner |
 | <img src="/assets/images/partners-logos/DIAS_logo.png" alt="drawing" width="75"/>| [Dublin Institute for Advanced Studies](https://www.dias.ie/geo-scientific-research/)<br> DIAS                    |  IE      | Chris Bean                                            |
