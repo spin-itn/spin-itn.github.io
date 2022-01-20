@@ -17,6 +17,5 @@ SPIN is a European project funded by the European Union's Horizon 2020 research 
 
 
 
-<img src="assets/wave/Smart_City.png" alt="WAVE seismic network" width="350"/>
 
 

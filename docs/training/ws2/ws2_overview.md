@@ -8,8 +8,8 @@ nav_order: 1
 
 
 
-# SPIN Workshop 2 - 
-_
+# SPIN Workshop 2 
+_Carcans, near Bordeaux, France_   
 _22-28 May, 2022_  
 
 ---
@@ -58,7 +58,7 @@ The workshop will take place near Bordeaux, along the South Atlantic coast of Fr
 {: style="text-align: justify;"}
 
 
-<iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/hadzii/ckym7gs2n20rx14nvtitl8dn0.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#7.82/45.207/-0.926" title="SPIN" style="border:none;"></iframe>
+<iframe width='100%' height='500px' src="https://api.mapbox.com/styles/v1/hadzii/ckym7gs2n20rx14nvtitl8dn0.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#7.82/45.207/-0.926" title="SPIN" style="border:none;"></iframe>
 
 
 The venue is the '[C&eacute;v&eacute;o Village Vacances](https://www.ceveo.com/en/village/holiday-village-of-carcans)'.   
@@ -70,13 +70,13 @@ Transfer to and from Bordeaux [Train station](https://www.sncf.com/en) and Borde
 
 <img src="/assets/images/ws2/vignes.png" alt="SPIN WS2 location: Bordeaux!" width="100%"/>
 
-There will be a half-day excursion, we are figuring out where to. There are many options: surfing at the beach, climbing the [highest Sand dune in Europe](https://en.wikipedia.org/wiki/Dune_of_Pilat), visiting a famous Bordeaux Wine Ch&acirc;teau (including wine tasting), etc etc. Don't worry, whatever we settle on, it will be worth it!   
+There will be a half-day excursion, we are still evaluation our options. There are many possibilities in the region: surfing at the beach, climbing the [highest Sand dune in Europe](https://en.wikipedia.org/wiki/Dune_of_Pilat), visiting a famous Bordeaux Wine Ch&acirc;teau (including wine tasting), etc etc. Don't worry, whatever we settle on, it will be worth it!   
 {: style="text-align: justify;"}
 
 We will also keep some time free in the program to allow for bike rides, strolls through the Landes pine forest, visits to the (lake or ocean) beach, .. 
 {: style="text-align: justify;"}
 
-Of course, it would not be a workshop in France without a delicious gala dinner!
+And of course, it would not be a workshop in France without a delicious gala dinner!
 
 
 ## Accommodation
