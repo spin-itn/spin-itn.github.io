@@ -2,7 +2,6 @@
 layout: page 
 title: WAVE
 permalink: /wave/
-nav_order: 8
 ---
 
 # WAVE

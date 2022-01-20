@@ -15,30 +15,25 @@ Network-wide training will be offered in the form of short courses, workshops an
 
 # Year 1: 
 
-## "SPIN-up" 
-kick off event
-
 ## Short Course 1 - Instruments & Wave propagation 
 29 march - 2 april, 2022; Geodetic Observatory Wettzell, Germany.   
 Establish same core background for all ESRs.
 
 ## Workshop 1 - New realms of seismic instrumentation
-[Workshop 1 in Tutzing:](/ws1/ws1_venue.md)    
-22 - 23 November, 2021  
+[22 - 23 November, 2021;  in Tutzing near Munich, Germany:](/ws1/ws1_venue.md)    
 How can we accurately measure complete ground motion? 
 New sensor concepts and first observations.
 
 # Year 2: 
 
 ## Short Course 2 - Physics & dynamic processes                                                
-Optimizing experiment design, and improving 
-seismic inverse problems. 
+17-22 May, 2022; in Carcans near Bordeaux, France:   
+Optimizing experiment design, and improving seismic inverse problems. 
 
 ## Workshop 2 - NEW physical models for Earth’s interior                     
-Theoretical background to nonclassical nonlinear elasticity. 
+22-28.05.2022; in Carcans near Bordeaux, France:     
+Theoretical background to nonclassical nonlinear elasticity.   
 Training on monitoring and understanding of the time-dependent behaviour of the Earth’s crustal materials.
-
-## Attendance and presentation at International Conference
 
 ## Joint field deployment at CNRS-LSBB
 Field experiment using different sensor types installed at same location (e.g. inside and on surface above laboratory facilities at LSBB, allowing for
@@ -58,7 +53,6 @@ properties? How do novel processing techniques help predict
 dynamic stresses inside the wavefield and their impact on the rock 
 mass (e.g., induced events, poroelastic effects, damage and healing)? 
 
-## Attendance and presentation at the International Conference
 
 # Year 4:
 
@@ -74,4 +68,3 @@ How can SPIN research influence natural hazard policy?
 **Goal**: develop a new set of best practices for hazard monitoring 
 strategies, based on SPIN research results. 
 
-## Convene SPIN session and presentation at International Conference
