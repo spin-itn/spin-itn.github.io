@@ -59,7 +59,7 @@ search:
 
 
 # Build settings
-theme: "just-the-docs"
+#theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: my_color_scheme
 plugins:
