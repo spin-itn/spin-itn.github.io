@@ -54,7 +54,7 @@ We are considering the option of integrating some of the relevant EGU sessions i
 
 <img src="/assets/images/ws2/ceveo.png" alt="SPIN WS2 venue" width="100%"/>
 
-The workshop will take place near Bordeaux, along the South Atlantic coast of France. Besides the More specifically, the venue is located in Carcans, right between the ocean and a lovely lake: 
+The workshop will take place near Bordeaux, along the South Atlantic coast of France. More specifically, the venue is located in Carcans, right between the ocean and a lovely lake: 
 {: style="text-align: justify;"}
 
 
