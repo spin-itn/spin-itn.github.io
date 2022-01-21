@@ -18,7 +18,7 @@ _22-28 May, 2022_
 
 ## Scientific Program
 
-We will have an exciting scientific program, with lectures by experts in the field, and with ample time for discussion! 
+We will have an exciting scientific program, with lectures by experts in the field, and with ample time for in-person discussions! 
 
 The main focus of this workshop will be on the monitoring and understanding of the time-dependent behavior of the Earth's crustal materials. It will include contributions on the theoretical background to nonclassical nonlinear elasticity.  In addition to the scientific focus, training in transferable skills will also be offered. 
 
@@ -29,7 +29,7 @@ We will cover four main topics:
 - __Field observations of changing elasticity__ (volcanoes, fault zones, mountains, hydrology shaking, stress changes, ...)
 - __Modeling non-classical elastic behavior__ (velocity changes, hysteresis, recovery, ...)
 
-Confirmed lecturers include: 
+Confirmed speakers include: 
 
 - [Parisa Shokouhi](https://sites.psu.edu/ultrasonics/pshokouhi/) (Penn State Ultrasonics Lab, USA)
 - [Ian Main](https://blogs.ed.ac.uk/imain/) (University of Edinburgh, UK)
@@ -41,9 +41,12 @@ Confirmed lecturers include:
 - [Celine Hadziioannou](https://celine.hadzii.com/) (University of Hamburg, Germany)
 - [Christoph Sens-Schoenfelder](https://www.gfz-potsdam.de/en/staff/christoph-sens-schoenfelder/sec24/) (GFZ, Germany)
 
+There will be the opportunity for participants to present their work, either in short talks or as a poster. During (pre-)registration, you will be able to provide a title or description of the research you would like to present. 
+{: style="text-align: justify;"}
 
-__Planned to attend EGU?__   
-We are aware that EGU has shifted their "new" dates to overlap with the SPIN  workshop. In order to accommodate for participants who have submitted an abstract to EGU and wish to give their presentation, we will provide a separate room with good internet connection, where you can retreat to give your EGU presentation in online format.     
+
+__You planned to attend EGU?__   
+We are aware that EGU has shifted their "new" dates to overlap with the SPIN  workshop. In order to accommodate participants who have submitted an abstract to EGU and wish to give their presentation, we will provide a separate room with good internet connection, where you can retreat to give your EGU presentation in online format.     
 We are considering the option of integrating some of the relevant EGU sessions into the workshop program, either leaving space in the program or by "attending" a session together.  
 {: style="text-align: justify;"}
 
@@ -57,11 +60,10 @@ We are considering the option of integrating some of the relevant EGU sessions i
 The workshop will take place near Bordeaux, along the South Atlantic coast of France. More specifically, the venue is located in Carcans, right between the ocean and a lovely lake: 
 {: style="text-align: justify;"}
 
+<iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/hadzii/ckym7gs2n20rx14nvtitl8dn0.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#4.62/45.81/1.67" title="SPIN" style="border:none;"></iframe>
 
-<iframe width='100%' height='500px' src="https://api.mapbox.com/styles/v1/hadzii/ckym7gs2n20rx14nvtitl8dn0.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#7.82/45.207/-0.926" title="SPIN" style="border:none;"></iframe>
 
-
-The venue is the '[C&eacute;v&eacute;o Village Vacances](https://www.ceveo.com/en/village/holiday-village-of-carcans)'.   
+The venue is the '[C&eacute;v&eacute;o Village Vacances](https://www.ceveo.com/en/village/holiday-village-of-carcans)', located in the Landes pine forest, on the edge of the lake.   
 Transfer to and from Bordeaux [Train station](https://www.sncf.com/en) and Bordeaux Airport ([Merignac, BOD](https://www.bordeaux.aeroport.fr/en)) will be arranged. 
 {: style="text-align: justify;"}
 
@@ -84,22 +86,21 @@ And of course, it would not be a workshop in France without a delicious gala din
 During the SPIN workshop, you will stay at the [Ceveo Village de Vacances Carcans](https://www.ceveo.com/en/village/holiday-village-of-carcans). The prices for the freshly renovated rooms are as follows: 
 {: style="text-align: justify;"}
 
-- Single room: NN &euro; per person, per day.   
-- Double room: NN &euro; per person, per day. 
-- Double room for single person: NN &euro; per person, per day. 
+- Single room: 459 &euro; per person for the whole stay.   
+- Shared double room: 394 &euro; per person for the whole stay. 
 
-Accommodation is full-board, so including breakfast, lunch and dinner, and will have to be payed together with the registration fee. Rooms will be assigned by us after registration. 
+Accommodation is full-board, so including breakfast, lunch and dinner, and will have to be payed together with the registration fee, before the workshop. Rooms will be assigned by us after registration. 
 {: style="text-align: justify;"}
 
 
 
 ## Registration
 
-The registration fee will be determined when pre-registration is complete, but will be less than NNN&euro; per participant for the whole meeting. The registration fees can be payed via credit card, via a secure online payment system. After registration, you will receive an email with payment information. 
+The registration fee will be determined when pre-registration is complete, but it will be around 150 &euro;, likely less, and in no case more than 200 &euro;, per participant for the whole meeting. The registration fees can be payed via credit card, via a secure online payment system. After registration, you will receive an email with payment information. 
 {: style="text-align: justify;"}
 
-
-Pre-registration information will be distributed by email to the SPIN-info mailing list. If you are interested, please subscribe [here](https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info).
+__Would you like to attend the workshop?__   
+Pre-registration information will be distributed by email to the SPIN-info mailing around mid-february. If you are interested, please subscribe to the mailing list [here](https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info).
 {: style="text-align: justify;"}
 
 ## Covid regulations
@@ -110,8 +111,12 @@ You can find up to date information about the French Covid regulations [here](ht
 We require that __participants have to be either fully vaccinated or recovered with appropriate internationally valid documentation__.
 {: style="text-align: justify;"}
 
-Please bring sufficient medical-grade __masks__ to wear when entering and leaving the venue, the restaurant, etc. You will also need to wear masks in most public spaces in France (public transport, shops, etc). 
+Please be prepared to bring sufficient __FFP2/KN95-grade masks__ to wear when entering and leaving the venue, the restaurant, etc. and potentially even during the workshop. Details will be provided prior to the workshop depending on the course of the pandemic. You will also need to wear masks in most public spaces in France (public transport, shops, etc).
 {: style="text-align: justify;"}
+
+We are committed to organizing this meeting in-person, but of course we are subject to the evolution of the Covid pandemic. You are probably aware that there is always a risk of cancellation, but we are very hopeful that the situation in May 2022 will be such that the workshop can take place. 
+{: style="text-align: justify;"}
+
 
 ## Contact
 

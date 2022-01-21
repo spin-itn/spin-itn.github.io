@@ -31,7 +31,7 @@ New sensor concepts and first observations.
 Optimizing experiment design, and improving seismic inverse problems. 
 
 ## Workshop 2 - NEW physical models for Earth’s interior                     
-22-28.05.2022; in Carcans near Bordeaux, France:     
+[22-28.05.2022; in Carcans near Bordeaux, France:](/ws1/ws2_overview.md)    
 Theoretical background to nonclassical nonlinear elasticity.   
 Training on monitoring and understanding of the time-dependent behaviour of the Earth’s crustal materials.
 
