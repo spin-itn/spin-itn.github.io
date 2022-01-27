@@ -18,7 +18,7 @@ _22-28 May, 2022_
 
 ## Scientific Program
 
-We will have an exciting scientific program, with lectures by experts in the field, and with ample time for in-person discussions! 
+We will have an exciting scientific program, with lectures by experts in the field, and with ample time for in-person discussions! A preliminary schedule can be found [here](https://docs.google.com/document/d/1bBGdRGnIPDmZ-7E8dC5qLr3QOGhANCRbYbsGCj-q2Cg/edit?usp=sharing). 
 
 The main focus of this workshop will be on the monitoring and understanding of the time-dependent behavior of the Earth's crustal materials. It will include contributions on the theoretical background to nonclassical nonlinear elasticity.  In addition to the scientific focus, training in transferable skills will also be offered. 
 
