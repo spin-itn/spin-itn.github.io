@@ -2,7 +2,7 @@
 layout: page
 title: Acknowledgment
 permalink: /acknow/
-nav_order: 6
+nav_order: 7
 ---
 
 # Acknowledgment

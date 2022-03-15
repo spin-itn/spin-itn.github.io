@@ -2,7 +2,7 @@
 layout: page
 title: Recruitment
 permalink: /recruitment/
-nav_order: 5
+nav_order: 6
 ---
 
 # Recruitment 
