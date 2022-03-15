@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SPIN Workshop 2
-parent: Training 
+parent: Training + Workshops
 permalink: /ws2/
 nav_order: 1
 ---
@@ -33,6 +33,7 @@ Confirmed speakers include:
 
 - [Parisa Shokouhi](https://sites.psu.edu/ultrasonics/pshokouhi/) (Penn State Ultrasonics Lab, USA)
 - [Ian Main](https://blogs.ed.ac.uk/imain/) (University of Edinburgh, UK)
+- [Odile Abraham](https://pagespro.univ-gustave-eiffel.fr/odile-abraham) (Universit&eacute; Gustave Eiffel, France)
 - [Ernst Niederleithinger](https://www.bam.de/Navigation/EN/About-us/Organisation/Organisation-Chart/President/Department-8/Division-82/division82.html) (Federal Institute for Materials Research and Testing (BAM), Germany)
 - [Bruno Lombard](http://www.lma.cnrs-mrs.fr/spip/spip.php?auteur30&lang=en) (Laboratoire de Mechanique et d'Acoustique, Marseille, France)
 - [Roel Snieder](https://inside.mines.edu/~rsnieder/) (Colorado School of Mines, USA)
@@ -86,8 +87,8 @@ And of course, it would not be a workshop in France without a delicious gala din
 During the SPIN workshop, you will stay at the [Ceveo Village de Vacances Carcans](https://www.ceveo.com/en/village/holiday-village-of-carcans). The prices for the freshly renovated rooms are as follows: 
 {: style="text-align: justify;"}
 
-- Single room: 459 &euro; per person for the whole stay.   
-- Shared double room: 394 &euro; per person for the whole stay. 
+- Single room: 551 &euro; per person for the whole stay.   
+- Shared double room: 473 &euro; per person for the whole stay. 
 
 Accommodation is full-board, so including breakfast, lunch and dinner, and will have to be payed together with the registration fee, before the workshop. Rooms will be assigned by us after registration. 
 {: style="text-align: justify;"}
@@ -103,6 +104,10 @@ __Would you like to attend the workshop?__
 Pre-registration information will be distributed by email to the SPIN-info mailing around mid-february. If you are interested, please subscribe to the mailing list [here](https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info).
 {: style="text-align: justify;"}
 
+
+Please note that the capacity of the venue in Carcans is limited, and we prioritize participation by researchers who are actively involved in the SPIN project. Therefore we ask you to submit a short statement of your motivation for participation in the workshop as well as your research interests. We will let you know by April 5th whether your registration has been accepted. 
+{: style="text-align: justify;"}
+
 ## Covid regulations
 
 You can find up to date information about the French Covid regulations [here](https://www.diplomatie.gouv.fr/en/coming-to-france/coming-to-france-your-covid-19-questions-answered/article/coming-to-france-your-covid-19-questions-answered?var_mode=calcul). 
@@ -116,6 +121,18 @@ Please be prepared to bring sufficient __FFP2/KN95-grade masks__ to wear when en
 
 We are committed to organizing this meeting in-person, but of course we are subject to the evolution of the Covid pandemic. You are probably aware that there is always a risk of cancellation, but we are very hopeful that the situation in May 2022 will be such that the workshop can take place. 
 {: style="text-align: justify;"}
+
+### Cancellation policy 
+If you need to cancel your participation please inform [SPIN-management@uni-hamburg.de](mailto:SPIN-management@uni-hamburg.de?subject=Cancelling participation SPIN Workshop Bordeaux). as soon as possible. The refund of your accommodation and registration fee is handled as follows
+{: style="text-align: justify;"}
+
+- until April 18, 2022: 	100 % refund 
+- until May 01, 2022: 	    50 % refund 
+- after May 15, 2022: no refund
+
+If the whole workshop needs to be canceled due to Covid-19, we will refund your paid accommodation and registration costs 100%.
+{: style="text-align: justify;"}
+
 
 
 ## Contact

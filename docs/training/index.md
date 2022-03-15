@@ -9,15 +9,16 @@ has_children: true
 # Training and Workshops
 
 ---
-Network-wide training will be offered in the form of short courses, workshops and a joint field deployment. More information to follow. 
+Network-wide training will be offered in the form of short courses, workshops and a joint field deployment. Information about the training is updated regularly. 
+
+Ongoing training and scientific exchange takes place in the form of a bi-weekly Friday Seminar, organized by the SPIN ESRs. 
 
 ---
 
 # Year 1: 
 
-## Short Course 1 - Instruments & Wave propagation 
-29 march - 2 april, 2022; Geodetic Observatory Wettzell, Germany.   
-Establish same core background for all ESRs.
+## Short Course 1 - Wave propagation & Computational Seismology
+30 march - 2 april, 2022; Online
 
 ## Workshop 1 - New realms of seismic instrumentation
 [22 - 23 November, 2021;  in Tutzing near Munich, Germany:](/ws1/ws1_venue.md)    
@@ -26,9 +27,8 @@ New sensor concepts and first observations.
 
 # Year 2: 
 
-## Short Course 2 - Physics & dynamic processes                                                
+## Short Course 2 - Hands-on training with seismic instrumentation
 17-22 May, 2022; in Carcans near Bordeaux, France:   
-Optimizing experiment design, and improving seismic inverse problems. 
 
 ## Workshop 2 - NEW physical models for Earth’s interior                     
 [22-28.05.2022; in Carcans near Bordeaux, France:](/ws2/ws2_overview.md)    
@@ -68,3 +68,6 @@ How can SPIN research influence natural hazard policy?
 **Goal**: develop a new set of best practices for hazard monitoring 
 strategies, based on SPIN research results. 
 
+# Ongoing: 
+
+## SPIN Friday Seminar
