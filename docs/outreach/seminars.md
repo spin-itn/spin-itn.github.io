@@ -2,7 +2,7 @@
 layout: page
 title: SPIN Seminars 
 parent: Outreach 
-permalink: /outreach/
+permalink: /outreach/seminars/
 nav_order: 1
 ---
 

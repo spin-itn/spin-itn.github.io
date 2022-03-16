@@ -11,7 +11,7 @@ has_children: true
 ---
 Network-wide training will be offered in the form of short courses, workshops and a joint field deployment. Information about the training is updated regularly. 
 
-Ongoing training and scientific exchange takes place in the form of a bi-weekly [Friday Seminar](../outreach/seminar.md), organized by the SPIN PhD Fellows. 
+Ongoing training and scientific exchange takes place in the form of a bi-weekly [Friday Seminar](../outreach/seminar/), organized by the SPIN PhD Fellows. 
 
 ---
 

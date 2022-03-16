@@ -2,7 +2,7 @@
 layout: page
 title: SPIN Youtube 
 parent: Outreach 
-permalink: /outreach/
+permalink: /outreach/youtube/
 nav_order: 2
 ---
 
