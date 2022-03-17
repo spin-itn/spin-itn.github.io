@@ -1,14 +1,10 @@
-
 ---
 layout: page
-title: Research Output
+title: Research_Output 
 parent: Research
-permalink: /research_output/
+permalink: /output/
 nav_order: 5
 ---
 
-# Conference Contributions
-.
-
-
+# SPIN Research output
 

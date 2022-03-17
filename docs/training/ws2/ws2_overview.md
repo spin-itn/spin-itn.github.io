@@ -68,7 +68,7 @@ The venue is the '[C&eacute;v&eacute;o Village Vacances](https://www.ceveo.com/e
 Transfer to and from Bordeaux [Train station](https://www.sncf.com/en) and Bordeaux Airport ([Merignac, BOD](https://www.bordeaux.aeroport.fr/en)) will be arranged. 
 At the moment, we are aiming for at least one bus departure at the following times: 
 - 17:30 from Bordeaux St.-Jean Train station
-- 18:00 from Bordeaux Merignac (BOD) Airport
+- 18:00 from Bordeaux Merignac (BOD) Airport   
 More bus transfer times will be added, depending on arrival times of particpants. However, if you can organize your travel to arrive before the 'main' bus transfer time, it facilitates things on our end! 
 {: style="text-align: justify;"}
 
