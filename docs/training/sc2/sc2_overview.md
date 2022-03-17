@@ -9,7 +9,7 @@ nav_order: 4
 
 
 # SPIN Short Course 2 - Seismic Instrumentation 
-_Carcans, near Bordeaux, France_   
+_Carcans, near Bordeaux, France_     
 _17-22 May, 2022_  
 
 ---
@@ -18,22 +18,24 @@ _17-22 May, 2022_
 
 ## Scientific Program
 
+The second SPIN short course will focus on __hands-on experience with seismic instrumentation__, including new types of sensors such as DAS and rotational seismometers. The short course will consist of lectures, deployment of different types of sensors in the field. This will be complemented by computer practicals to work with typical data sets for each type of sensor. Note that these computer practicals will rely heavily on Python and Obspy, so __a solid grasp of programming with these tools is a prerequisite for participation.__ 
+
 A preliminary schedule can be found [here](https://docs.google.com/document/d/16ktLrxG_XcTVW8jz8qM5BStymtsvJwk6aTacP_n1lts/edit?usp=sharing). 
 
 
-Confirmed lecuturers include: 
+__Confirmed lecuturers include:__  
 
 - [Eleonore Stutzmann](https://www.ipgp.fr/fr/stutzmann-eleonore) (IPGP, France)
 - [Jean-Philippe Metaxian](https://www.ipgp.fr/fr/metaxian-jean-philippe) (IPGP, France)
 - [Jean-Paul Montagner](https://www.ipgp.fr/~jpm/) (IPGP, France)
 - [Celine Hadziioannou](https://celine.hadzii.com/) (University of Hamburg, Germany)
 - [Sven Schippkus](https://schipp.github.io/home/) (University of Hamburg, Germany)
+- [Krystyna Smolinski](https://erdw.ethz.ch/en/people/profile.MjY1Njk4.TGlzdC83NzMsOTI0MjA1OTI2.html) (ETH Zurich, Switzerland)
 - [Philippe Jousset](https://www.gfz-potsdam.de/en/staff/philippe.jousset/sec22) (GFZ, Germany)
 - [Christoph Sens-Schoenfelder](https://www.gfz-potsdam.de/en/staff/christoph-sens-schoenfelder/sec24/) (GFZ, Germany)
 - [Felix Bernauer](https://www.geophysik.uni-muenchen.de/Members/fbernauer/publications) (LMU Munich, Germany)
 - [Sabrina Keil](https://www.geophysik.uni-muenchen.de/Members/skeil/?searchterm=sabrina%20keil) (LMU Munich, Germany)
 - [Andreas Brotzer](https://www.geophysik.uni-muenchen.de/Members/brotzer) (LMU Munich, Germany)
-- [Krystyna Smolinski](https://erdw.ethz.ch/en/people/profile.MjY1Njk4.TGlzdC83NzMsOTI0MjA1OTI2.html) (ETH Zurich, Switzerland)
 
 
 ## Location and Venue
