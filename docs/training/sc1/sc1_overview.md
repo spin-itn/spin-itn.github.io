@@ -3,12 +3,12 @@ layout: page
 title: SPIN Short Course 1
 parent: Training + Workshops
 permalink: /sc1/
-nav_order: 1
+nav_order: 2
 ---
 
 
 
-# SPIN Short Course 1 
+# SPIN Short Course 1  - Wave Propagation & Computational Seismology
 _Online_
 _30 March - 1 April, 2022_  
 

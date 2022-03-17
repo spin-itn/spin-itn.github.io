@@ -3,18 +3,18 @@ layout: page
 title: SPIN Workshop 2
 parent: Training + Workshops
 permalink: /ws2/
-nav_order: 1
+nav_order: 3
 ---
 
 
 
-# SPIN Workshop 2 
+# SPIN Workshop 2 - Physics & dynamic processes
 _Carcans, near Bordeaux, France_   
 _22-28 May, 2022_  
 
 ---
 
-<img src="/assets/images/ws2/location.png" alt="SPIN WS2 location: Bordeaux!" width="100%"/>
+<img src="/assets/images/ws2/vignes.png" alt="SPIN WS2 location: Bordeaux!" width="100%"/>
 
 ## Scientific Program
 
@@ -71,9 +71,9 @@ Transfer to and from Bordeaux [Train station](https://www.sncf.com/en) and Borde
 
 ## Excursion and activities
 
-<img src="/assets/images/ws2/vignes.png" alt="SPIN WS2 location: Bordeaux!" width="100%"/>
+<img src="/assets/images/ws2/dune_pilat.png" alt="SPIN WS2 excursion: Dune de Pilat" width="100%"/>
 
-There will be a half-day excursion, we are still evaluation our options. There are many possibilities in the region: surfing at the beach, climbing the [highest Sand dune in Europe](https://en.wikipedia.org/wiki/Dune_of_Pilat), visiting a famous Bordeaux Wine Ch&acirc;teau (including wine tasting), etc etc. Don't worry, whatever we settle on, it will be worth it!   
+There will be a half-day excursion on Tuesday 24.05, to visit and climb the [highest Sand dune in Europe](https://en.wikipedia.org/wiki/Dune_of_Pilat). Afterwards, there will be some time on the Atlantic beach. Bring good walking shoes, your swim suit, and don't forget your towel! 
 {: style="text-align: justify;"}
 
 We will also keep some time free in the program to allow for bike rides, strolls through the Landes pine forest, visits to the (lake or ocean) beach, .. 
@@ -83,6 +83,7 @@ And of course, it would not be a workshop in France without a delicious gala din
 
 
 ## Accommodation
+<img src="/assets/images/ws2/location.png" alt="SPIN WS2 location: Bordeaux!" width="100%"/>
 
 During the SPIN workshop, you will stay at the [Ceveo Village de Vacances Carcans](https://www.ceveo.com/en/village/holiday-village-of-carcans). The prices for the freshly renovated rooms are as follows: 
 {: style="text-align: justify;"}
@@ -101,7 +102,7 @@ The registration fee will be determined when pre-registration is complete, but i
 {: style="text-align: justify;"}
 
 __Would you like to attend the workshop?__   
-Pre-registration information will be distributed by email to the SPIN-info mailing around mid-february. If you are interested, please subscribe to the mailing list [here](https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info).
+Pre-registration information will be distributed by email to the SPIN-info mailing list around mid-march. If you are interested, please subscribe to the mailing list [here](https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info).
 {: style="text-align: justify;"}
 
 
@@ -126,8 +127,9 @@ We are committed to organizing this meeting in-person, but of course we are subj
 If you need to cancel your participation please inform [SPIN-management@uni-hamburg.de](mailto:SPIN-management@uni-hamburg.de?subject=Cancelling participation SPIN Workshop Bordeaux). as soon as possible. The refund of your accommodation and registration fee is handled as follows
 {: style="text-align: justify;"}
 
-- until April 18, 2022: 	100 % refund 
-- until May 01, 2022: 	    50 % refund 
+- until April 22, 2022: 	90 % refund 
+- until May 01, 2022: 	    70 % refund 
+- until May 14, 2022: 	    50 % refund 
 - after May 15, 2022: no refund
 
 If the whole workshop needs to be canceled due to Covid-19, we will refund your paid accommodation and registration costs 100%.
