@@ -3,7 +3,7 @@
 layout: page
 title: Research Output
 parent: Research
-permalink: /wp1/
+permalink: /output/
 nav_order: 5
 ---
 
