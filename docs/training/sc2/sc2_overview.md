@@ -18,7 +18,8 @@ _17-22 May, 2022_
 
 ## Scientific Program
 
-The second SPIN short course will focus on __hands-on experience with seismic instrumentation__, including new types of sensors such as DAS and rotational seismometers. The short course will consist of lectures, deployment of different types of sensors in the field. This will be complemented by computer practicals to work with typical data sets for each type of sensor. Note that these computer practicals will rely heavily on Python and Obspy, so __a solid grasp of programming with these tools is a prerequisite for participation.__ 
+The second SPIN short course will focus on __hands-on experience with seismic instrumentation__, including new types of sensors such as DAS and rotational seismometers. The short course will consist of lectures, deployment of different types of sensors in the field. This will be complemented by computer practicals to work with typical data sets for each type of sensor. Note that these computer practicals will rely heavily on Python and Obspy, so __a solid grasp of programming with these tools is a pre-requisite for participation.__ 
+
 
 A preliminary schedule can be found [here](https://docs.google.com/document/d/16ktLrxG_XcTVW8jz8qM5BStymtsvJwk6aTacP_n1lts/edit?usp=sharing). 
 
