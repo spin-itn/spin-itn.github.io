@@ -66,6 +66,16 @@ The workshop will take place near Bordeaux, along the South Atlantic coast of Fr
 
 The venue is the '[C&eacute;v&eacute;o Village Vacances](https://www.ceveo.com/en/village/holiday-village-of-carcans)', located in the Landes pine forest, on the edge of the lake.   
 Transfer to and from Bordeaux [Train station](https://www.sncf.com/en) and Bordeaux Airport ([Merignac, BOD](https://www.bordeaux.aeroport.fr/en)) will be arranged. 
+At the moment, we are aiming for at least one bus departure at the following times: 
+- 17:30 from Bordeaux St.-Jean Train station
+- 18:00 from Bordeaux Merignac (BOD) Airport
+More bus transfer times will be added, depending on arrival times of particpants. However, if you can organize your travel to arrive before the 'main' bus transfer time, it facilitates things on our end! 
+{: style="text-align: justify;"}
+
+To limit the carbon footprint of the meeting, we encourage you to travel by train if possible. For reference, some train connections are listed:   
+- Trains arrive from Paris/Z&uuml;rich - every hour:17
+- from Grenoble - uneven hour:32
+- from Hamburg/ Berlin - 17:17, 19:17
 {: style="text-align: justify;"}
 
 
