@@ -60,7 +60,8 @@ Beside the installation of seismic instruments in the forest and beach around th
 bike rides, strolls through the Landes pine forest, visits to the (lake or ocean) beach, .. 
 At the moment, we are aiming for at least one bus departure at the following times: 
 - 17:30 from Bordeaux St.-Jean Train station
-- 18:00 from Bordeaux Merignac (BOD) Airport
+- 18:00 from Bordeaux Merignac (BOD) Airport    
+
 More bus transfer times will be added, depending on arrival times of particpants. However, if you can organize your travel to arrive before the 'main' bus transfer time, it facilitates things on our end! 
 {: style="text-align: justify;"}
 
