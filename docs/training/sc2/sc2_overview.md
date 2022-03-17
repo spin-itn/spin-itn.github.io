@@ -2,7 +2,7 @@
 layout: page
 title: SPIN Short Course 2
 parent: Training + Workshops
-permalink: /ws2/
+permalink: /sc2/
 nav_order: 4
 ---
 
