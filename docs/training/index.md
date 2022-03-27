@@ -18,7 +18,7 @@ Ongoing training and scientific exchange takes place in the form of a bi-weekly 
 # Year 1: 
 
 ## Short Course 1 - Wave propagation & Computational Seismology
-30 march - 2 april, 2022; Online
+[30 march - 2 april, 2022; Online](/sc1/sc1_overview.md)
 
 ## Workshop 1 - New realms of seismic instrumentation
 [22 - 23 November, 2021;  in Tutzing near Munich, Germany:](/ws1/ws1_venue.md)    
@@ -28,7 +28,8 @@ New sensor concepts and first observations.
 # Year 2: 
 
 ## Short Course 2 - Hands-on training with seismic instrumentation
-17-22 May, 2022; in Carcans near Bordeaux, France:   
+[17-22 May, 2022; in Carcans near Bordeaux, France](/sc2/sc2_overview.md)  
+Focus on installation and use of classic and new seismic sensor types.   
 
 ## Workshop 2 - NEW physical models for Earth’s interior                     
 [22-28.05.2022; in Carcans near Bordeaux, France:](/ws2/ws2_overview.md)    
