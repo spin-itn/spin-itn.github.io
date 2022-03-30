@@ -113,8 +113,12 @@ The registration fee will be determined when pre-registration is complete, but i
 {: style="text-align: justify;"}
 
 __Would you like to attend the workshop?__   
-Pre-registration information will be distributed by email to the SPIN-info mailing list around mid-march. If you are interested, please subscribe to the mailing list [here](https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info).
+Please fill in the __[pre-registration survey](https://www.conferences.uni-hamburg.de/event/235/surveys/50)__ by April 1st, 2022. 
+
+If you are interested in further SPIN activities, please subscribe to the mailing list [here](https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info).
 {: style="text-align: justify;"}
+
+
 
 
 Please note that the capacity of the venue in Carcans is limited, and we prioritize participation by researchers who are actively involved in the SPIN project. Therefore we ask you to submit a short statement of your motivation for participation in the workshop as well as your research interests. We will let you know by April 5th whether your registration has been accepted. 
