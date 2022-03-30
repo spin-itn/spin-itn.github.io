@@ -38,21 +38,36 @@ __Confirmed speakers include:__
 - [Heiner Igel](https://www.geophysik.uni-muenchen.de/Members/igel/?searchterm=heiner%20igel) (LMU Munich, Germany)
 - [Tarje Nissen-Meyer](https://www.earth.ox.ac.uk/people/tarje-nissen-meyer/) (University of Oxford, UK)
 - [Ben Fernando](https://www.physics.ox.ac.uk/our-people/fernandob) (University of Oxford, UK)
+- [Kuangdai Leng](https://www.scd.stfc.ac.uk/Pages/Dr-Kuangdai-Leng.aspx) (Rutherford Appleton Laboratory, UK)
 - [Alice Gabriel](https://www.geophysik.uni-muenchen.de/Members/gabriel) (LMU Munich, Germany)
 - [Thomas Ulrich](https://scholar.google.com/citations?user=u2xDnosAAAAJ&hl=de&oi=sra) (LMU Munich, Germany)
 - [Anjali Dhabu](https://scholar.google.com/citations?user=JlXHkJoAAAAJ) (University of Hamburg, Germany)
 - [Florian Lepape](https://www.dias.ie/cosmicphysics/geophysics/geo-dr-florian-le-pape/) (DIAS, Ireland)
 
 
+## Practicals 
+
+The Jupyter Notebooks for the practical exercises can be found on the SPIN github [https://github.com/spin-itn/SPIN-SC1](https://github.com/spin-itn/SPIN-SC1). They can also be run in your browser through binder there. 
+
+If you would to run the practicals locally on your own computer, you will need an anaconda install, with a Python version 3+ environment with numpy, scipy and matplotlib.
+
+__SeisSol session:__   
+Please install Docker ([https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)) and visit 
+[https://github.com/SeisSol/Training/](https://github.com/SeisSol/Training/) for the hands-on parts.
+
+__AxiSEM session:__   
+For the AxiSEM(3D) session, we will look at three software packages:
+
+1. [axisem.info](http://seis.earth.ox.ac.uk/axisem/)
+2. [instaseis.net](https://instaseis.net/)
+3. [https://github.com/kuangdai/AxiSEM-3D/wiki](https://github.com/kuangdai/AxiSEM-3D/wiki)
+
+For AxiSEM3D, please refer to the installation instructions. Some of the dependent packages (eigen, boost, netcdf) might not be pre-installed on your systems, and have been known to cause trouble. For the shortcourse, we don't expect participants to have the code running, and can subsequently help with installation, but any prior familiarisation with the dependencies will of course be useful. Much of this wiki and installation (including some code bugs!), as well as user mailing lists are in the making, so please bear with us as we get these tasks up and running smoothly over the next little while.
+
 ## Location 
 
 The short course will take place online, via zoom. A zoom link will be sent after registration. 
 
-## Registration
-
-__Would you like to attend the workshop?__   
-Pre-registration information will be distributed by email to the SPIN-info mailing list mid-march. If you are interested, please subscribe to the mailing list [here](https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info).
-{: style="text-align: justify;"}
 
 
 ## Contact
