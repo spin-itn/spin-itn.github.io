@@ -35,7 +35,7 @@ Confirmed speakers include:
 - [Ian Main](https://blogs.ed.ac.uk/imain/) (University of Edinburgh, UK)
 - [Odile Abraham](https://pagespro.univ-gustave-eiffel.fr/odile-abraham) (Universit&eacute; Gustave Eiffel, France)
 - [Ernst Niederleithinger](https://www.bam.de/Navigation/EN/About-us/Organisation/Organisation-Chart/President/Department-8/Division-82/division82.html) (Federal Institute for Materials Research and Testing (BAM), Germany)
-- [Bruno Lombard](http://www.lma.cnrs-mrs.fr/spip/spip.php?auteur30&lang=en) (Laboratoire de Mechanique et d'Acoustique, Marseille, France)
+- [Harold Benjamin](https://harold-berjamin.github.io) (NUI Galway, Ireland)
 - [Roel Snieder](https://inside.mines.edu/~rsnieder/) (Colorado School of Mines, USA)
 - [Ludovic Margerin](https://omp.academia.edu/LudovicMargerin) (University of Toulouse, France)
 - [Eleonore Stutzmann](https://www.ipgp.fr/fr/stutzmann-eleonore) (IPGP, France)
@@ -51,7 +51,10 @@ We are aware that EGU has shifted their "new" dates to overlap with the SPIN  wo
 We are considering the option of integrating some of the relevant EGU sessions into the workshop program, either leaving space in the program or by "attending" a session together.  
 {: style="text-align: justify;"}
 
-
+## Schedule
+May 22nd: arrival (shuttle times below)
+May 23rd - May 27: workshop program
+May 28th: departure
 
 
 ## Location and Venue
@@ -66,11 +69,15 @@ The workshop will take place near Bordeaux, along the South Atlantic coast of Fr
 
 The venue is the '[C&eacute;v&eacute;o Village Vacances](https://www.ceveo.com/en/village/holiday-village-of-carcans)', located in the Landes pine forest, on the edge of the lake.   
 Transfer to and from Bordeaux [Train station](https://www.sncf.com/en) and Bordeaux Airport ([Merignac, BOD](https://www.bordeaux.aeroport.fr/en)) will be arranged. 
-At the moment, we are aiming for at least one bus departure at the following times: 
+At the moment, we are aiming for at least one bus departure at the following times on May 22nd: 
 - 17:30 from Bordeaux St.-Jean Train station
 - 18:00 from Bordeaux Merignac (BOD) Airport   
 
-More bus transfer times will be added, depending on arrival times of particpants. However, if you can organize your travel to arrive before the 'main' bus transfer time, it facilitates things on our end! 
+For departure on May 28th, we aim for a bus transfer from the venue which arrives:
+- 10:00 at Bordeaux Merignac (BOD) Airport
+- 10:30 at Bordeaux St.-Jean Train station. 
+
+More bus transfer times will be added, depending on arrival times of particpants. However, if you can organize your travel to to correspond to one of the 'main' bus transfer times, it facilitates things on our end! 
 {: style="text-align: justify;"}
 
 To limit the carbon footprint of the meeting, we encourage you to travel by train if possible. For reference, some train connections are listed:   
@@ -131,6 +138,8 @@ You can find up to date information about the French Covid regulations [here](ht
 
 We require that __participants have to be either fully vaccinated or recovered with appropriate internationally valid documentation__.
 {: style="text-align: justify;"}
+
+Note that we will __require all participants to perform a lateral flow test__ before arrival, and we will provide further lateral flow tests to perform during the workshop. 
 
 Please be prepared to bring sufficient __FFP2/KN95-grade masks__ to wear when entering and leaving the venue, the restaurant, etc. and potentially even during the workshop. Details will be provided prior to the workshop depending on the course of the pandemic. You will also need to wear masks in most public spaces in France (public transport, shops, etc).
 {: style="text-align: justify;"}

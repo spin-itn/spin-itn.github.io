@@ -16,6 +16,8 @@ SPIN is an Innovative Training Network (ITN) funded by the European Commission u
 
 ### Keep up to date about SPIN activities! [Subscribe to the SPIN-info mailing list here](https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info) 
 
+### Subscribe to the [SPIN Youtube channel](https://www.youtube.com/channel/UCcsvKNYDSbeGuOVRhHZobIA) to know when new training videos are uploaded. 
+
 ## Monitoring a Restless Earth
 
 _The seismic wavefield carries the imprint of material it crossed. We now understand that seismic wavefields alter the

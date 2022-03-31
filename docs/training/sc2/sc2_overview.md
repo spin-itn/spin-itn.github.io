@@ -34,9 +34,18 @@ __Confirmed lecuturers include:__
 - [Krystyna Smolinski](https://erdw.ethz.ch/en/people/profile.MjY1Njk4.TGlzdC83NzMsOTI0MjA1OTI2.html) (ETH Zurich, Switzerland)
 - [Philippe Jousset](https://www.gfz-potsdam.de/en/staff/philippe.jousset/sec22) (GFZ, Germany)
 - [Christoph Sens-Schoenfelder](https://www.gfz-potsdam.de/en/staff/christoph-sens-schoenfelder/sec24/) (GFZ, Germany)
+- [Fr&eacute;deric Guattari](https://www.researchgate.net/profile/Frederic-Guattari) (iXBlue, France)
 - [Felix Bernauer](https://www.geophysik.uni-muenchen.de/Members/fbernauer/publications) (LMU Munich, Germany)
 - [Sabrina Keil](https://www.geophysik.uni-muenchen.de/Members/skeil/?searchterm=sabrina%20keil) (LMU Munich, Germany)
 - [Andreas Brotzer](https://www.geophysik.uni-muenchen.de/Members/brotzer) (LMU Munich, Germany)
+
+
+## Schedule 
+
+May 17th: arrival (shuttle times below)
+May 18th - May 21: workshop program
+May 22nd: departure
+
 
 
 ## Location and Venue
@@ -51,12 +60,15 @@ The short course will take place near Bordeaux, along the South Atlantic coast o
 
 The venue is the '[C&eacute;v&eacute;o Village Vacances](https://www.ceveo.com/en/village/holiday-village-of-carcans)', located in the Landes pine forest, on the edge of the lake.   
 Transfer to and from Bordeaux [Train station](https://www.sncf.com/en) and Bordeaux Airport ([Merignac, BOD](https://www.bordeaux.aeroport.fr/en)) will be arranged. 
-At the moment, we are aiming for at least one bus departure at the following times: 
-- 17:30 from Bordeaux St.-Jean Train station
-- 18:00 from Bordeaux Merignac (BOD) Airport    
-{: style="text-align: justify;"}
+At the moment, we are aiming for at least one bus departure at the following times on May 17th: 
+- 14:30 from Bordeaux St.-Jean Train station
+- 15:00 from Bordeaux Merignac (BOD) Airport   
 
-More bus transfer times will be added, depending on arrival times of particpants. However, if you can organize your travel to arrive before the 'main' bus transfer time, it facilitates things on our end! 
+For departure on May 22nd, we aim for a bus transfer from the venue which arrives:
+- 10:00 at Bordeaux Merignac (BOD) Airport
+- 10:30 at Bordeaux St.-Jean Train station. 
+
+More bus transfer times will be added, depending on arrival times of particpants. However, if you can organize your travel to to correspond to one of the 'main' bus transfer times, it facilitates things on our end! 
 {: style="text-align: justify;"}
 
 To limit the carbon footprint of the meeting, we encourage you to travel by train if possible. For reference, some train connections are listed:   
@@ -104,6 +116,9 @@ You can find up to date information about the French Covid regulations [here](ht
 
 We require that __participants have to be either fully vaccinated or recovered with appropriate internationally valid documentation__.
 {: style="text-align: justify;"}
+
+Note that we will __require all participants to perform a lateral flow test__ before arrival, and we will provide further lateral flow tests to perform during the workshop. 
+
 
 Please be prepared to bring sufficient __FFP2/KN95-grade masks__ to wear when entering and leaving the venue, the restaurant, etc. and potentially even during the short course. Details will be provided prior to the short course depending on the course of the pandemic. You will also need to wear masks in most public spaces in France (public transport, shops, etc).
 {: style="text-align: justify;"}
