@@ -21,7 +21,6 @@ _17-22 May, 2022_
 The second SPIN short course will focus on __hands-on experience with seismic instrumentation__, including new types of sensors such as DAS and rotational seismometers. The short course will consist of lectures, deployment of different types of sensors in the field. This will be complemented by computer practicals to work with typical data sets for each type of sensor. Note that these computer practicals will rely heavily on Python and Obspy, so __a solid grasp of programming with these tools is a pre-requisite for participation.__ 
 
 
-A preliminary schedule can be found [here](https://docs.google.com/document/d/16ktLrxG_XcTVW8jz8qM5BStymtsvJwk6aTacP_n1lts/edit?usp=sharing). 
 
 
 __Confirmed lecuturers include:__  
@@ -42,10 +41,11 @@ __Confirmed lecuturers include:__
 
 ## Schedule 
 
-May 17th: arrival (shuttle times below)
-May 18th - May 21: workshop program
-May 22nd: departure
+May 17th: arrival (shuttle times below)   
+May 18th - May 21: workshop program   
+May 22nd: departure   
 
+A preliminary schedule can be found [here](https://docs.google.com/document/d/16ktLrxG_XcTVW8jz8qM5BStymtsvJwk6aTacP_n1lts/edit?usp=sharing). 
 
 
 ## Location and Venue
@@ -114,10 +114,8 @@ The registration fee will be determined when pre-registration is complete, but i
 You can find up to date information about the French Covid regulations [here](https://www.diplomatie.gouv.fr/en/coming-to-france/coming-to-france-your-covid-19-questions-answered/article/coming-to-france-your-covid-19-questions-answered?var_mode=calcul). 
 {: style="text-align: justify;"}
 
-We require that __participants have to be either fully vaccinated or recovered with appropriate internationally valid documentation__.
-{: style="text-align: justify;"}
 
-Note that we will __require all participants to perform a lateral flow test__ before arrival, and we will provide further lateral flow tests to perform during the workshop. 
+Note that we __require all participants to perform a lateral flow test before traveling to the venue__. If that test is positive, please contact us, so that we can cancel your participation. We will provide further lateral flow tests to perform during the short course at regular intervals. 
 
 
 Please be prepared to bring sufficient __FFP2/KN95-grade masks__ to wear when entering and leaving the venue, the restaurant, etc. and potentially even during the short course. Details will be provided prior to the short course depending on the course of the pandemic. You will also need to wear masks in most public spaces in France (public transport, shops, etc).

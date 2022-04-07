@@ -16,6 +16,13 @@ _22-28 May, 2022_
 
 <img src="/assets/images/ws2/vignes.png" alt="SPIN WS2 location: Bordeaux!" width="100%"/>
 
+
+## Schedule
+May 22nd: arrival (shuttle times below)   
+May 23rd - May 27: workshop program   
+May 28th: departure   
+
+
 ## Scientific Program
 
 We will have an exciting scientific program, with lectures by experts in the field, and with ample time for in-person discussions! A preliminary schedule can be found [here](https://docs.google.com/document/d/1bBGdRGnIPDmZ-7E8dC5qLr3QOGhANCRbYbsGCj-q2Cg/edit?usp=sharing). 
@@ -50,11 +57,6 @@ __You planned to attend EGU?__
 We are aware that EGU has shifted their "new" dates to overlap with the SPIN  workshop. In order to accommodate participants who have submitted an abstract to EGU and wish to give their presentation, we will provide a separate room with good internet connection, where you can retreat to give your EGU presentation in online format.     
 We are considering the option of integrating some of the relevant EGU sessions into the workshop program, either leaving space in the program or by "attending" a session together.  
 {: style="text-align: justify;"}
-
-## Schedule
-May 22nd: arrival (shuttle times below)
-May 23rd - May 27: workshop program
-May 28th: departure
 
 
 ## Location and Venue
@@ -136,10 +138,7 @@ Please note that the capacity of the venue in Carcans is limited, and we priorit
 You can find up to date information about the French Covid regulations [here](https://www.diplomatie.gouv.fr/en/coming-to-france/coming-to-france-your-covid-19-questions-answered/article/coming-to-france-your-covid-19-questions-answered?var_mode=calcul). 
 {: style="text-align: justify;"}
 
-We require that __participants have to be either fully vaccinated or recovered with appropriate internationally valid documentation__.
-{: style="text-align: justify;"}
-
-Note that we will __require all participants to perform a lateral flow test__ before arrival, and we will provide further lateral flow tests to perform during the workshop. 
+Note that we __require all participants to perform a lateral flow test before traveling to the venue__. If that test is positive, please contact us, so that we can cancel your participation. We will provide further lateral flow tests to perform during the workshop at regular intervals. 
 
 Please be prepared to bring sufficient __FFP2/KN95-grade masks__ to wear when entering and leaving the venue, the restaurant, etc. and potentially even during the workshop. Details will be provided prior to the workshop depending on the course of the pandemic. You will also need to wear masks in most public spaces in France (public transport, shops, etc).
 {: style="text-align: justify;"}
