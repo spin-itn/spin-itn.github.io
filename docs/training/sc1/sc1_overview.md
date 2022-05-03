@@ -29,9 +29,9 @@ We will cover the following topics:
 
 In addition to lectures and discussions, there will be practical exercises using Jupyer notebooks and Python. A solid grasp of Python and Obspy is therefore a prerequisite for participation in the short course. 
 
-A preliminary schedule can be found [here](https://docs.google.com/document/d/1AKUDYZ9qPLaF7V_br0qdGbrn-JYmIrpjBh1FlNUulX0/edit?usp=sharing).
+The short course schedule can be found [here](https://docs.google.com/document/d/1AKUDYZ9qPLaF7V_br0qdGbrn-JYmIrpjBh1FlNUulX0/edit?usp=sharing).
 
-The lectures will be recorded and posted to the [SPIN Youtube channel](https://www.youtube.com/channel/UCcsvKNYDSbeGuOVRhHZobIA). 
+The lectures have been recorded and are posted to the [SPIN Youtube channel](https://www.youtube.com/playlist?list=PLPtuMAD7dea--dO_dPiIH-ZWtumlEslEu). 
 
 __Confirmed speakers include:__  
 
@@ -44,6 +44,8 @@ __Confirmed speakers include:__
 - [Anjali Dhabu](https://scholar.google.com/citations?user=JlXHkJoAAAAJ) (University of Hamburg, Germany)
 - [Florian Lepape](https://www.dias.ie/cosmicphysics/geophysics/geo-dr-florian-le-pape/) (DIAS, Ireland)
 
+
+Thanks to Dominik Strutz and Sebastian Noe for their support during the short course! 
 
 ## Practicals 
 
