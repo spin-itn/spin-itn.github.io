@@ -19,6 +19,7 @@ _17-22 May, 2022_
 ## Scientific Program
 
 The second SPIN short course will focus on __hands-on experience with seismic instrumentation__, including new types of sensors such as DAS and rotational seismometers. The short course will consist of lectures, deployment of different types of sensors in the field. This will be complemented by computer practicals to work with typical data sets for each type of sensor. Note that these computer practicals will rely heavily on Python and Obspy, so __a solid grasp of programming with these tools is a pre-requisite for participation.__ 
+{: style="text-align: justify;"}
 
 
 
@@ -37,6 +38,11 @@ __Confirmed lecuturers include:__
 - [Felix Bernauer](https://www.geophysik.uni-muenchen.de/Members/fbernauer/publications) (LMU Munich, Germany)
 - [Sabrina Keil](https://www.geophysik.uni-muenchen.de/Members/skeil/?searchterm=sabrina%20keil) (LMU Munich, Germany)
 - [Andreas Brotzer](https://www.geophysik.uni-muenchen.de/Members/brotzer) (LMU Munich, Germany)
+
+## Practical exercises
+During the short course, we will work on the data that is recorded by the different instruments during practical exercise sessions. For this, please bring your laptop, with sufficient free disk space, or an external disk, for storing and processing data.   
+Specific information about what to install on your laptop beforehand will follow by email. In any case, you will need a Python setup (at least 3.6), e.g. in an anaconda environment. 
+{: style="text-align: justify;"}
 
 
 ## Schedule 
@@ -116,6 +122,7 @@ You can find up to date information about the French Covid regulations [here](ht
 
 
 Note that we __require all participants to perform a lateral flow test before traveling to the venue__. If that test is positive, please contact us, so that we can cancel your participation. We will provide further lateral flow tests to perform during the short course at regular intervals. 
+{: style="text-align: justify;"}
 
 
 Please be prepared to bring sufficient __FFP2/KN95-grade masks__ to wear when entering and leaving the venue, the restaurant, etc. and potentially even during the short course. Details will be provided prior to the short course depending on the course of the pandemic. You will also need to wear masks in most public spaces in France (public transport, shops, etc).

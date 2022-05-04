@@ -42,7 +42,7 @@ Confirmed speakers include:
 - [Ian Main](https://blogs.ed.ac.uk/imain/) (University of Edinburgh, UK)
 - [Odile Abraham](https://pagespro.univ-gustave-eiffel.fr/odile-abraham) (Universit&eacute; Gustave Eiffel, France)
 - [Ernst Niederleithinger](https://www.bam.de/Navigation/EN/About-us/Organisation/Organisation-Chart/President/Department-8/Division-82/division82.html) (Federal Institute for Materials Research and Testing (BAM), Germany)
-- [Harold Benjamin](https://harold-berjamin.github.io) (NUI Galway, Ireland)
+- [Harold Berjamin](https://harold-berjamin.github.io) (NUI Galway, Ireland)
 - [Roel Snieder](https://inside.mines.edu/~rsnieder/) (Colorado School of Mines, USA)
 - [Ludovic Margerin](https://omp.academia.edu/LudovicMargerin) (University of Toulouse, France)
 - [Eleonore Stutzmann](https://www.ipgp.fr/fr/stutzmann-eleonore) (IPGP, France)
@@ -97,6 +97,9 @@ There will be a half-day excursion on Tuesday 24.05, to visit and climb the [hig
 {: style="text-align: justify;"}
 
 We will also keep some time free in the program to allow for bike rides, strolls through the Landes pine forest, visits to the (lake or ocean) beach, .. 
+{: style="text-align: justify;"}
+
+There will be some musical activities during the workshop as well, so if you play an instrument that is halfway portable, please bring it along! 
 {: style="text-align: justify;"}
 
 And of course, it would not be a workshop in France without a delicious gala dinner!
