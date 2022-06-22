@@ -16,41 +16,67 @@ _22-28 May, 2022_
 
 <img src="/assets/images/ws2/vignes.png" alt="SPIN WS2 location: Bordeaux!" width="100%"/>
 
-
-## Schedule
-May 22nd: arrival (shuttle times below)   
-May 23rd - May 27: workshop program   
-May 28th: departure   
-
-
 ## Scientific Program
 
 We will have an exciting scientific program, with lectures by experts in the field, and with ample time for in-person discussions! A preliminary schedule can be found [here](https://docs.google.com/document/d/1bBGdRGnIPDmZ-7E8dC5qLr3QOGhANCRbYbsGCj-q2Cg/edit?usp=sharing). 
 
 The main focus of this workshop will be on the monitoring and understanding of the time-dependent behavior of the Earth's crustal materials. It will include contributions on the theoretical background to nonclassical nonlinear elasticity.  In addition to the scientific focus, training in transferable skills will also be offered. 
 
-We will cover four main topics: 
+Four main topics were coved: 
 
 - __The Earth’s elastic wavefield__ (seismic interferometry, wave scattering, ambient seismic noise generation)
 - __Nonlinear and time dependent elasticity__ (experimental evidence from laboratory)
 - __Field observations of changing elasticity__ (volcanoes, fault zones, mountains, hydrology shaking, stress changes, ...)
 - __Modeling non-classical elastic behavior__ (velocity changes, hysteresis, recovery, ...)
 
-Confirmed speakers include: 
-
-- [Parisa Shokouhi](https://sites.psu.edu/ultrasonics/pshokouhi/) (Penn State Ultrasonics Lab, USA)
-- [Ian Main](https://blogs.ed.ac.uk/imain/) (University of Edinburgh, UK)
-- [Odile Abraham](https://pagespro.univ-gustave-eiffel.fr/odile-abraham) (Universit&eacute; Gustave Eiffel, France)
-- [Ernst Niederleithinger](https://www.bam.de/Navigation/EN/About-us/Organisation/Organisation-Chart/President/Department-8/Division-82/division82.html) (Federal Institute for Materials Research and Testing (BAM), Germany)
-- [Harold Berjamin](https://harold-berjamin.github.io) (NUI Galway, Ireland)
-- [Roel Snieder](https://inside.mines.edu/~rsnieder/) (Colorado School of Mines, USA)
-- [Ludovic Margerin](https://omp.academia.edu/LudovicMargerin) (University of Toulouse, France)
-- [Eleonore Stutzmann](https://www.ipgp.fr/fr/stutzmann-eleonore) (IPGP, France)
-- [Celine Hadziioannou](https://celine.hadzii.com/) (University of Hamburg, Germany)
-- [Christoph Sens-Schoenfelder](https://www.gfz-potsdam.de/en/staff/christoph-sens-schoenfelder/sec24/) (GFZ, Germany)
-
-There will be the opportunity for participants to present their work, either in short talks or as a poster. During (pre-)registration, you will be able to provide a title or description of the research you would like to present. 
+Following are the the presentations done by the lectures during the workshop.
 {: style="text-align: justify;"}
+
+
+ Lecturer                    | Affiliation                                                 | Presentation                                                                                                                                                 
+-----------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Eleonore Stutzmann          | Paris Cité University                                       | [Seismic noise sources on Earth and Mars](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Eleonore_Stutzmann.pdf?api=v2)                                                                                                                      
+ Roel Snieder                | Colorado School of Mines                                    |  [Noise as a source for detecting time-lapse changes](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Roel_Snieder.pdf?api=v2)                                                                                                          
+ Ludovic Margerin            | Institut de Recherche en Astrophysique et Planétologie      | [Transport models for seismic scattering](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Ludovic_Margerin.pdf?api=v2)                                                                                                                      
+ Celine Hadziioannou         | University of Hamburg                                       | [Monitoring material changes](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_hadzii_monitoring.pdf?api=v2)                                                                                                                                  
+ Ernst Niederleithinger      | German Federal Institute for Materials Research and Testing | [Assessment of concrete constructions using wave base methods - introduction, standard methods and advanced imaging](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Ernst_Niederleithinger.pdf?api=v2)                                           
+ Odile Abraham               | University Gustave Eiffel                                   | [Coda waves, surface waves, Fiber Optics.... Some challenges and results about the monitoring of concrete structures with ultrasonic waves](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Odile_Abraham.pdf?api=v2)                    
+ Christoph Sens-Schoenfelder | German Research Centre for Geosciences                      | [Field Observations of Material Changes in the Shallow Subsurface](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Christoph_Sens-Schoenfelder.pdf?api=v2)                                                                                             
+ Parisa Shokouhi             | Los Alamos National Laboratory                              | [Laboratory-Scale Investigation of Intact and Fractured Rocks’ Nonlinear Elastic Behavior under Different Stress, Saturation and Relative Humidity Conditions](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Parisa_Shokouhi.pdf?api=v2) 
+ Laura Ermert                | University of Washington                                    | Subsurface monitoring with urban noise in Mexico City                                                                                                        
+ Anjali Dhabu                | University of Hamburg                                       | [Simulation of Translational and Rotational ground motion](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Anjali_Dhabu.pdf?api=v2)                                                                                                     
+ Ian Main                    | University of Edinburgh                                     | Catastrophic failure in porous materials: sound and vision                                                                                                   
+ Tarje Nissen-Meyer          | University of Oxford                                        | [Born to diffuse: Assessing transitional scattering regimes by waveform complexity](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Tarje_Nissen-Meyer.pdf?api=v2)                                                                            
+ Jack Muir                   | University of Oxford                                        | Curvelet based wavefield reconstruction - theory and applications to DAS / nodal integration                                                                 
+ Harold Berjamin             | National University of Ireland                              | [Non-classical elastic behavior: A continuum mechanics perspective](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Harold_Berjamin.pdf?api=v2)                                                                                            
+ Michel Campillo             | Grenoble Alpes University                                   | [Characterizing and monitoring fault structures with continuous seismic records](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Michel_Campillo.pdf?api=v2)                                                                               
+ Jean-Paul Montagner         | Paris Cité University                                       | [Principles of a seismometer](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_SC2_Jean-Paul_Montagner.pdf?api=v2)                                                                                                             
+ Andreas Brotzer             | Ludwig Maximilian University of Munich                      | Theoretical Low Noise Model for Rotational Ground Motions                                                                                                    
+ Mohammad Amin Aminian       | Paris Cité University                                       | [Tilt Correction & Compliance Removal from Ocean Bottom Data](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Mohammad-Amin.pdf?api=v2)                                                                                                  
+ Tjeerd Kiers                | Swiss Federal Institute of Technology in Zurich             | [Landslide Characterization and Monitoring Using Fiber-Optics and Dense Nodal Arrays](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Tjeerd_Kiers.pdf?api=v2)                                                                          
+ Marco Dominguez             | University of Hamburg                                       | [Nonlinear seismology meets Structural Health Monitoring](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Marco_Dominguez.pdf?api=v2)                                                                                                      
+ Leila Ehsaninezhad          | German Research Centre for Geosciences                      | [Urban Exploration and Monitoring Along Fibre Optics Infrastructure](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Leila_Ehsaninezahd.pdf?api=v2)                                                                                           
+ Julius Grimm                | Grenoble Alpes University                                   | [Making sense of urban DAS data with clustering of coherence-based array features](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Julius_Grimm.pdf?api=v2)                                                                             
+ Dominik Strutz              | University of Edinburgh                                     | Bayesian Optimal Experimental Design                                                                                                                         
+ Sergio Diaz                 | German Research Centre for Geosciences                      | [Distributed Acoustic Sensing and Volcano Seismology](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Sergio_Diaz.pdf?api=v2)                                                                                                          
+ Jozef Müller                | Friedrich Schiller University Jena                          | [Turning seismometers into strainmeters using tidal strain and ambient noise – a feasibility study](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Jozef_Mueller.pdf?api=v2)                                                            
+ Peter Makus                 | German Research Centre for Geosciences                      | [Deciphering the Whisper of Volcanoes](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Peter_Makus.pdf?api=v2)                                                                                                                         
+ Eleanor Dunn                | Dublin Institute for Advanced Studies                       | Early Results on Dynamic Triggering of Seismicity at Sierra Negra volcano, Galapagos                                                                         
+ Eldert Fokker               | Utrecht University                                          | 4D physics-based pore pressure monitoring in the shallow subsurface of Groningen, the Netherlands                                                            
+ Sebastian Noe               | Swiss Federal Institute of Technology in Zurich             | [Towards Full-Waveform Inversion with Distributed Acoustic Sensing](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Sebastian_Noe.pdf?api=v2)                                                                                            
+ Mahsa Safarkhani            | University of Hamburg                                       | [Ambient signals as a tool to characterize material properties](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Mahsa_Safarkhani.pdf?api=v2)                                                                                                
+ Manuel Asnar                | German Research Centre for Geosciences                      | [Exploring new experimental possibilities for the investigation of Nonlinear Mesoscopic Elasticity](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Manuel_Asnar.pdf?api=v2)                                                            
+ Declan Andrew               | University of Edinburgh                                     | Understanding Earthquake-Induced Damage and Healing of Crustal Rocks                                                                                         
+ Sabrina Keil                | Ludwig Maximilian University of Munich                      | [Comparing single-station 6C measurements and array measurements for seismic microzonation](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Sabrina_Keil.pdf?api=v2)                                                                    
+ Mirko Bracale               | Grenoble Alpes University                                   | [Effect of shallow heterogeneities on wavefield gradients measurements](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Mirko_Bracale.pdf?api=v2)                                                                                        
+ Rene Steinmann              | Grenoble Alpes University                                   | [Exploring seismic time series with artificial intelligence: applications of blind source separation](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Rene_Steinmann.pdf?api=v2)                                                          
+ Le Tang                     | Ludwig Maximilian University of Munich                      | [Rotational motions of surface waves in weakly anisotropic media](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Le_Tang.pdf?api=v2)                                                                                              
+ Haleh Karbala Ali           | Dublin Institute for Advanced Studies                       | [Locating Flowing Conduits in Karst using Passive Seismic Approach](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Haleh_Karbala-Ali.pdf?api=v2)                                                                                            
+ Richard Kramer              | University of Vienna                                        | [Monitoring of hard rock environment using ambient seismic noise](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Richard_Kramer.pdf?api=v2)                                                                                              
+ Ssu-Ting Lai                | Paris Cité University                                       | [Time-lapse rock deformation monitoring using waveform inversion](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Ssu-Ting_Lai.pdf?api=v2)                                                                                                                                                            
+ Zihua Niu                   | Ludwig Maximilian University of Munich                      | [Nonlinear model for non-classical nonlinearity observed from lab to global scales](https://collaboration.cen.uni-hamburg.de/download/attachments/66388063/2022_SPIN_WS2_Lightning_talk_Zihua_Niu.pdf?api=v2)                                                                            
+
+
 
 
 __You planned to attend EGU?__   
