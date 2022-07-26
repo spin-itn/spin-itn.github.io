@@ -79,6 +79,13 @@ div.sections p {
 
 /* +++++++++++ */
 
+img.img-hoover:hover {
+    -webkit-transform: scale(2,2);
+  }
+
+/* +++++++++++ */
+
+
 pre {
     border: 1px dotted gray;
     background-color: #e2fdff;
