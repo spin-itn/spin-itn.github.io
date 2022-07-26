@@ -1,9 +1,9 @@
 ---
 layout: page
-title: SPIN Workshop 2
+title: SPIN Workshop 2 Gallery
 parent: Training + Workshops
 permalink: /ws2/
-nav_order: 3
+nav_order: 
 ---
 
 

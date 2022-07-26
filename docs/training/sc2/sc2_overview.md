@@ -3,7 +3,7 @@ layout: page
 title: SPIN Short Course 2
 parent: Training + Workshops
 permalink: /sc2/
-nav_order: 4
+nav_order: 5
 ---
 
 
