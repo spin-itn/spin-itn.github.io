@@ -16,10 +16,8 @@ _22-28 May, 2022_
 
 ## Images
 
-<div class="column">
+<div>
     <img src="/assets/images/ws2/images/20220523_11_50_12_SPIN22.JPG" width="50%"/>
-</div>
-<div class="column">
     <img src="/assets/images/ws2/images/20220523_11_50_21_SPIN22.JPG" width="50%"/>
 </div>
 
