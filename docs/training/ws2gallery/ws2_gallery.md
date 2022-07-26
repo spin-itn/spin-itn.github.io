@@ -16,15 +16,11 @@ _22-28 May, 2022_
 
 ## Images
 
-<div>
-    <img src="/assets/images/ws2/images/20220523_11_50_12_SPIN22.JPG" width="50%"/>
-    <img src="/assets/images/ws2/images/20220523_11_50_21_SPIN22.JPG" width="50%"/>
-</div>
+<img src="/assets/images/ws2/images/20220523_11_50_12_SPIN22.JPG" width="45%"/> <img src="/assets/images/ws2/images/20220523_11_50_21_SPIN22.JPG" width="45%"/>
 
+<img src="/assets/images/ws2/images/20220523_13_56_30_SPIN22.JPG" width="45%"/><img src="/assets/images/ws2/images/20220523_17_32_32_SPIN22.JPG" width="45%"/>
 
-<img src="/assets/images/ws2/images/20220523_13_56_30_SPIN22.JPG" width="50%"/><img src="/assets/images/ws2/images/20220523_17_32_32_SPIN22.JPG" width="50%"/>
-
-<img src="/assets/images/ws2/images/20220523_17_32_37_SPIN22.JPG" width="50%"/><img src="/assets/images/ws2/images/20220523_17_32_44_SPIN22.JPG" width="50%"/>
+<img src="/assets/images/ws2/images/20220523_17_32_37_SPIN22.JPG" width="45%"/><img src="/assets/images/ws2/images/20220523_17_32_44_SPIN22.JPG" width="45%"/>
 
 
 ## SPIN WS2 excursion
