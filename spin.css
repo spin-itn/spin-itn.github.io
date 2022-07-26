@@ -81,6 +81,7 @@ div.sections p {
 
 img.img-hoover:hover {
     -webkit-transform: scale(2,2);
+    transform: scale(2,2);
   }
 
 /* +++++++++++ */
