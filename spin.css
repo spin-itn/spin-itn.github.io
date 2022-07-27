@@ -79,14 +79,6 @@ div.sections p {
 
 /* +++++++++++ */
 
-.img-hoover:hover {
-    -webkit-transform: scale(2,2);
-    transform: scale(2,2);
-  }
-
-/* +++++++++++ */
-
-
 pre {
     border: 1px dotted gray;
     background-color: #e2fdff;
@@ -229,3 +221,11 @@ dd p {
         color: gray;
         text-align: center;
         }
+
+/* Hoover Images */
+
+#main-content-wrap #main-content .img-hoover:hover {
+    -webkit-transform: scale(2,2);
+    transform: scale(2,2);
+}
+
