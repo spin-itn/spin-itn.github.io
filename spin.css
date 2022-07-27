@@ -73,6 +73,15 @@ div.sections img {
     /*border-bottom: 3px solid black;*/
 }
 
+    /*border-bottom: 3px solid black;*/
+
+div.sections img.img-hover:hover {
+    -webkit-transform: scale(2,2);
+    transform: scale(2,2);
+}
+    /*border-bottom: 3px solid black;*/    
+    
+    
 div.sections p {
 	text-align: right;
 }
@@ -221,11 +230,3 @@ dd p {
         color: gray;
         text-align: center;
         }
-
-/* Hoover Images */
-
-#main-content-wrap #main-content .img-hoover:hover {
-    -webkit-transform: scale(2,2);
-    transform: scale(2,2);
-}
-
