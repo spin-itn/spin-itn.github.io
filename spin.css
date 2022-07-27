@@ -71,21 +71,15 @@ div.sections img {
 	display:block;
 	padding-bottom: 4em;
     /*border-bottom: 3px solid black;*/
-}
+}    
 
-    /*border-bottom: 3px solid black;*/
-
-div.sections img.img-hover:hover {
-    -webkit-transform: scale(2,2);
-    transform: scale(2,2);
-}
-    /*border-bottom: 3px solid black;*/    
-    
-    
 div.sections p {
 	text-align: right;
 }
 
+img.img-hover:hover {
+    width:80%; 
+}
 /* +++++++++++ */
 
 pre {
@@ -202,8 +196,6 @@ a:visited {color: #242fff;}
 a:hover {color: #242fff;}
 
 a:active {color: #242fff;}
-
-
 
 dt code {
         font-weight: bold;
