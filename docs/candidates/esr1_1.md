@@ -4,7 +4,7 @@ title: ESR1.1
 parent: PhD Candidates
 permalink: /candidates/ESR1_1
 nav_order: 1
-has_children: true
+has_children: false
 ---
 
 ## SPIN ESR 1.1: Harnessing wavefield gradients: theory, experiment, applications
