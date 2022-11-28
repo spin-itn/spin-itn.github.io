@@ -10,7 +10,7 @@ has_children: true
 ## SPIN ESR 1.1: Harnessing wavefield gradients: theory, experiment, applications
 ----
 
-__Name__: Le Tang            <img src="/assets/images/partners-logos/LMU_logo.svg" alt="drawing" width="300" style="float:right"/>
+__Name__: Le Tang            <img src="/candidates/file/Le.jpg" alt="drawing" width="300" style="float:right"/>
 
 __Institution__: Ludwig-Maximilians-University of Munich (Germany)
 
