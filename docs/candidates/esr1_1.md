@@ -34,17 +34,4 @@ Rotational motions in anisotropic media
 
  <img src="/candidates/files/Le1.jpg" alt="drawing" width="150" style="float:left"/>
  
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
+ ---
