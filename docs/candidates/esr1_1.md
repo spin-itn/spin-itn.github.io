@@ -19,7 +19,7 @@ __Contact information__: ltang@geophysik.uni-muenchen.de
 ---
 __Introduction__
 
-I am from Anhui, China, and am a geophysics PhD student at LMU. I am very interested in the emerging seismological observation technology, especially the theory of rotational seismology. The current research mainly uses the surface wave theory to study the earth's internal structure and anisotropy.
+I am from Anhui, China, a geophysics PhD student at LMU. I am very interested in the emerging seismological observation technology, especially the theory of rotational seismology. The current research mainly uses the surface wave theory to study the earth's internal structure and anisotropy.
 
 ---
 __Publication__
@@ -32,6 +32,4 @@ __Research progress__
 
 Rotational motions in anisotropic media
 
- <img src="/candidates/files/Le1.jpg" alt="drawing" width="150" style="float:left"/>
- 
- ---
+<img src="/candidates/files/Le1.jpg" alt="drawing" width="300" style="float:left"/>
