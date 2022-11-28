@@ -11,11 +11,14 @@ has_children: true
 ----
 
 __Name__: Le Tang  <img src="/assets/images/partners-logos/LMU_logo.svg" alt="drawing" width="250" style="float:right"/>
+
 __Institution__: Ludwig-Maximilians-University of Munich (Germany)
+
 __Contact information__: ltang@geophysik.uni-muenchen.de
 
 ---
 __Introduction__
+
 I come from Anhui, China, and am a geophysics PhD student at LMU. I am very interested in the emerging seismological observation technology, especially the theory of rotational seismology. The current research mainly uses the surface wave theory to study the earth's internal structure and anisotropy.
 
 ---
