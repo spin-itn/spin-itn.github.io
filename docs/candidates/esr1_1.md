@@ -12,9 +12,7 @@ has_children: true
 
 __Name__: Le Tang            <img src="/assets/images/partners-logos/LMU_logo.svg" alt="drawing" width="300" style="float:right"/>
 
-
 __Institution__: Ludwig-Maximilians-University of Munich (Germany)
-
 
 __Contact information__: ltang@geophysik.uni-muenchen.de
 
@@ -28,6 +26,15 @@ __Publication__
 
 1. Tang, L., & Fang, X. (2021). Generation of 6-C synthetic seismograms in stratified vertically transversely isotropic media using a generalized reflection and transmission coefficient method. Geophysical Journal International, 225(3), 1554-1585.
 2. ...
+
+---
+__Research progress__
+
+
+
+
+
+
 
 
 
