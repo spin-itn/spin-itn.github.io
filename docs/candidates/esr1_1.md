@@ -7,17 +7,25 @@ nav_order: 1
 has_children: true
 ---
 
-# __ESR1.1:__ Harnessing wavefield gradients: theory, experiment, applications
+# SPIN ESR 1.1: Harnessing wavefield gradients: theory, experiment, applications
+----
 
-Name: Le Tang                                            Fig
+__Name__: Le Tang  <img src="/assets/images/partners-logos/LMU_logo.svg" alt="drawing" width="150" style="float:right"/>
 
-Introduction:
-test....
+__Supervisors__: 
+		  
+main supervisor:| Heiner Igel (LMU, D)
+co-supervisors:| C&eacute;dric Schmelzbach (ETHZ, CH)
+
+## Introduction
+
+This PhD position is one of the 15 Early Stage Researcher (ESR) positions within the SPIN project.  SPIN is an Innovative Training Network (ITN) funded by the European Commission under the Horizon 2020 Marie Sklodowska-Curie Action (MSCA). 
 
 
-Publication:
-test......
+__Publication__
 
+1. test....
+{: style="text-align: justify;"}
 
 
 
