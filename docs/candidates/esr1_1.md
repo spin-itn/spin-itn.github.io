@@ -2,7 +2,7 @@
 layout: page
 title: WP1
 parent: PhD Candidates
-permalink: /esr11People/
+permalink: /candidates/WP1
 nav_order: 1
 has_children: true
 ---
