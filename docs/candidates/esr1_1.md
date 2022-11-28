@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WP1
+title: test
 parent: PhD Candidates
 permalink: /candidates/WP1
 nav_order: 1
