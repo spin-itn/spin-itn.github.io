@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recruitment
+title: PhD Candidates
 permalink: /PhD Candidates/
 nav_order: 9
 ---
