@@ -1,8 +1,8 @@
 ---
 layout: page
-title: test
+title: ESR1.1
 parent: PhD Candidates
-permalink: /candidates/WP1
+permalink: /candidates/ESR1.1
 nav_order: 1
 has_children: true
 ---
