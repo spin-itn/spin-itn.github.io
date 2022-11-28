@@ -1,0 +1,40 @@
+---
+layout: page
+title: ESR1.1 LMU
+parent: WP1
+permalink: /esr11People/
+grand_parent: PhD Candidates
+nav_order: 1
+---
+
+# SPIN ESR 1.1: Harnessing wavefield gradients: theory, experiment, applications
+----
+
+__Host institution__: Ludwig-Maximilian-University Munich, Germany (LMU)  <img src="/assets/images/partners-logos/LMU_logo.svg" alt="drawing" width="90" style="float:right"/>
+
+__Supervisors__: 
+		  
+main supervisor:| Heiner Igel (LMU, D)
+co-supervisors:| C&eacute;dric Schmelzbach (ETHZ, CH)
+
+__This position is filled__
+
+## General information
+
+This PhD position is one of the 15 Early Stage Researcher (ESR) positions within the SPIN project.  SPIN is an Innovative Training Network (ITN) funded by the European Commission under the Horizon 2020 Marie Sklodowska-Curie Action (MSCA). 
+{: style="text-align: justify;"}
+
+SPIN will focus on training 15 PhD candidates in emerging measurement technologies in seismology. We will research the design of monitoring systems for precursory changes in material properties, all while optimizing observation strategies. The unique interdisciplinary and inter-sectoral network will enable PhDs to gain international expertise at excellent research institutions, with a meaningful exposure of each PhD to other disciplines and sectors, thus going far beyond the education at a single PhD programme.
+{: style="text-align: justify;"}
+
+__Project description__
+
+The wave propagation physics we study requires the highest possible quality of seismic ground motion observations. Several partners of SPIN (LMU, ETH, UHH, iXblue) have pioneered the concepts of 6 DoF ground motion observations in combination with emerging technologies to measure rotational ground motions. This project aims at developing (automated) data analysis tools for single station and networks of 6 DoF ground motion observations to increase the resolving power of seismic inverse problems for both structure and source. The project shall involve the design and organization of field experiments with multiple rotation sensors (and DAS if possible) with the aim of demonstrating the potential of multicomponent seismology in the field. In addition, the highly successful noise-based cross-correlation methodology shall be extended to the new rotation (and strain) observations, with the aim to further constrain time-dependent structural and nonlinear effects. The methodology shall be applied to field data at 1) active seismic faults, 2) volcanoes, 3) ocean-bottom observations, 4) teleseismic observations using ring lasers, and 5) laboratory data (tilt correction). This project is tightly linked to other SPIN work packages developing wave simulation techniques and through the non-academic partner (iXBlue) who develops rotation sensors. We are seeking candidates with an interest in both seismic instrumentation, field and laboratory studies, as well as theoretical seismology. 
+{: style="text-align: justify;"}
+
+Expected results:
+
+- Open source synthetic 6 DoF benchmark data for processing, data analysis, and inverse problems 
+- Processing toolbox (Full 6 DoF ) with documentation, embedded in Jupyter notebooks 
+- Case studies on field and laboratory data, demonstrate improvement in inverse problem resolution 
+
