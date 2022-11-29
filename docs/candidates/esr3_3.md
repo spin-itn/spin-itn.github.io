@@ -14,7 +14,7 @@ __Name__:
 
 __Institution__: ISTerre, University of Grenoble Alpes (UGA)
 
-__Contact information__: 
+__Email__: 
 
 ---
 __Introduction__
