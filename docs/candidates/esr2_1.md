@@ -9,6 +9,7 @@ has_children: false
 
 ## SPIN ESR 2.1: Rock Mechanics and Seismology
 
+---
 __Name__:           
 
 __Institution__: GFZ (GeoForschungszentrum) Helmholtz Centre Potsdam
