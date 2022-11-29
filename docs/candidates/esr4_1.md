@@ -10,7 +10,7 @@ has_children: false
 ## SPIN ESR 4.1: Ground motion and unrest triggering on volcanoes
 
 ---
-__Name__: Eleanor Dunn         
+__Name__: Eleanor Dunn         <img src="/candidates/files/esr4_1.jpeg" alt="drawing" width="300" style="float:right"/>
 
 __Institution__: Dublin Institute of Advanced Studies (DIAS)
 
@@ -27,14 +27,14 @@ __Publication__
 ---
 __Research progress__
 
+Description: An STA/LTA detection algorithm to detect local triggering events on Sierra Negra. This ‘dynamic triggering’ occurred following the Mw10/01/2018 earthquake north of Honduras. 
+
+<img src="/candidates/files/esr4_1_1.jpg" alt="drawing" width="300" style="float:right"/>
 
 
+Description: The dynamic strain calculated for a Mw7.6 Mexican earthquake that occurred on 19/09/22. The dynamic strain calculated using the vector norm of all three components can be used as a threshold to work out when dynamic triggering will occur. 
 
-
-
-
-
-
+<img src="/candidates/files/esr4_1_2.jpg" alt="drawing" width="300" style="float:right"/>
 
 
 
