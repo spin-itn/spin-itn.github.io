@@ -33,7 +33,7 @@ Description: An STA/LTA detection algorithm to detect local triggering events on
 
 
 
-<img src="/candidates/files/esr4_1_2_update.jpg" alt="drawing" width="350" style="float:left"/>
+<img src="/candidates/files/esr4_1_2_update.jpg" alt="drawing" width="380" style="float:left"/>
 
 Description: The dynamic strain calculated for a Mw7.6 Mexican earthquake that occurred on 19/09/22. The dynamic strain calculated using the vector norm of all three components can be used as a threshold to work out when dynamic triggering will occur. 
 
