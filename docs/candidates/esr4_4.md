@@ -14,7 +14,7 @@ __Name__:
 
 __Institution__: GFZ Helmholtz Centre Potsdam
 
-__Contact information__: 
+__Email__: 
 
 ---
 __Introduction__
