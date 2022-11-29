@@ -14,7 +14,7 @@ __Name__:
 
 __Institution__: University of Edinburgh (UEDIN, U.K.)
 
-__Contact information__: 
+__Email__: 
 
 ---
 __Introduction__
