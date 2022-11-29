@@ -9,7 +9,7 @@ has_children: false
 
 ## SPIN ESR 2.3: Next-Generation Physics-based earthquake forecasts
 
-__Name__: Foteini Dervisi           
+__Name__: Foteini Dervisi           <img src="/candidates/files/esr2_3.jpg" alt="drawing" width="300" style="float:right"/>
 
 __Institution__: British Geological Survey (BGS)
 
