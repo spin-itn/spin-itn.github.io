@@ -9,6 +9,7 @@ has_children: false
 
 ## SPIN ESR 4.1: Ground motion and unrest triggering on volcanoes
 
+---
 __Name__: Eleanor Dunn         
 
 __Institution__: Dublin Institute of Advanced Studies (DIAS)
