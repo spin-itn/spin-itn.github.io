@@ -14,7 +14,7 @@ __Name__:
 
 __Institution__: University of Hamburg (UHH)
 
-__Contact information__: 
+__Email__: 
 
 ---
 __Introduction__
