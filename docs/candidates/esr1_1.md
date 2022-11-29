@@ -14,7 +14,7 @@ __Name__: Le Tang            <img src="/candidates/files/Le.jpg" alt="drawing" w
 
 __Institution__: Ludwig-Maximilians-University of Munich (Germany)
 
-__Contact information__: ltang@geophysik.uni-muenchen.de
+__Email__: ltang@geophysik.uni-muenchen.de
 
 ---
 __Introduction__
