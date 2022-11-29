@@ -24,8 +24,15 @@ I am from Anhui, China, a geophysics PhD student at LMU. I am very interested in
 ---
 __Publication__
 
-1. Tang, L., & Fang, X. (2021). Generation of 6-C synthetic seismograms in stratified vertically transversely isotropic media using a generalized reflection and transmission coefficient method. Geophysical Journal International, 225(3), 1554-1585.
-2. ...
+Tang, L., & Fang, X. (2022). Application of six-component ambient seismic noise data for high-resolution imaging of lateral heterogeneities. Geophysical Journal International, 232(3), 1756-1784.
+
+Sun, Y., Xu, X., & Tang, L. (2022). Gradient normalized least-squares reverse-time migration imaging technology. The State-of-Art Techniques of Seismic Imaging for the Deep and Ultra-deep Hydrocarbon Reservoirs.
+
+Tang, L., & Fang, X. (2021). Generation of 6-C synthetic seismograms in stratified vertically transversely isotropic media using a generalized reflection and transmission coefficient method. Geophysical Journal International, 225(3), 1554-1585.
+
+Tang, L., & Fang, X. (2021). Numerical study of the application of six-component ambient seismic noise data for high-resolution imaging of lateral heterogeneities. In SEG/AAPG/SEPM First International Meeting for Applied Geoscience & Energy. OnePetro.
+
+Fang, X., & Tang, L. (2021). A single station approach for subsurface anomaly detection. In SEG/AAPG/SEPM First International Meeting for Applied Geoscience & Energy. OnePetro.
 
 ---
 __Research progress__
@@ -33,3 +40,6 @@ __Research progress__
 Rotational motions in anisotropic media
 
 <img src="/candidates/files/Le1.jpg" alt="drawing" width="300" style="float:left"/>
+
+
+---
