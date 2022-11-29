@@ -14,7 +14,7 @@ __Name__: Mohammad Amin Aminian
 
 __Institution__: Institut de Physique du Globe de Paris (IPGP)
 
-__Contact information__: aminian@ipgp.fr
+__Email__: aminian@ipgp.fr
 
 ---
 __Introduction__
