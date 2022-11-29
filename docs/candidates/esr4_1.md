@@ -14,7 +14,7 @@ __Name__: Eleanor Dunn         <img src="/candidates/files/esr4_1.jpeg" alt="dra
 
 __Institution__: Dublin Institute of Advanced Studies (DIAS)
 
-__Contact information__: edunn@cp.dias.ie
+__Email__: edunn@cp.dias.ie
 
 ---
 __Introduction__
