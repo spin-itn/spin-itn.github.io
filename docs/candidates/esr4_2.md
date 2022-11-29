@@ -10,7 +10,7 @@ has_children: false
 ## SPIN ESR 4.2: Nonlinear seismology meets structural health monitoring
 
 ---
-__Name__: Marco Dominguez-Bureos         <img src="/candidates/files/esr4_2.jpeg" alt="drawing" width="300" style="float:right"/>
+__Name__: Marco Dominguez-Bureos         <img src="/candidates/files/esr4_2.jpeg" alt="drawing" width="260" style="float:right"/>
 
 __Institution__: University of Hamburg (UHH)
 
