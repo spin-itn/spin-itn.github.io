@@ -9,6 +9,7 @@ has_children: false
 
 ## SPIN ESR 3.3: Detection and characterization of seismic signals with dense arrays of new seismological instruments
 
+---
 __Name__:          
 
 __Institution__: ISTerre, University of Grenoble Alpes (UGA)
