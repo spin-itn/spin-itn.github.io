@@ -24,6 +24,7 @@ I am an Electrical, Telecommunication and Computer Engineer from Thessaloniki, G
 ---
 __Publication__
 
+
 F. Dervisi, G. Kyriakides, and K. Margaritis, “Evaluating Acceleration Techniques for Genetic Neural Architecture Search,” in Engineering Applications of Neural Networks, L. Iliadis, C. Jayne, A. Tefas, and E. Pimenidis, Eds. Cham: Springer International Publishing, 2022, pp. 3–14. [Online]. Available: https://link.springer.com/chapter/10.1007/978-3-031-08223-8_1
 
 A. K. Vavouris, F. D. Dervisi, V. K. Papanikolaou, P. D. Diamantoulakis, G. K. Karagiannidis, and S. K. Goudos, “An Energy Efficient Modulation Scheme for Body-Centric Terahertz (THz) Nanonetworks,” Technologies, vol. 7, no. 1, 2019. [Online]. Available: https://www.mdpi.com/2227-7080/7/1/14
