@@ -36,6 +36,5 @@ Description: The dynamic strain calculated for a Mw7.6 Mexican earthquake that o
 
 <img src="/candidates/files/esr4_1_2.jpg" alt="drawing" width="300" style="float:right"/>
 
----
 
 
