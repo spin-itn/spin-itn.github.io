@@ -26,7 +26,7 @@ __Publication__
 
 Tang, L., & Fang, X. (2022). Application of six-component ambient seismic noise data for high-resolution imaging of lateral heterogeneities. Geophysical Journal International, 232(3), 1756-1784.
 
-Sun, Y., Xu, X., & Tang, L. (2022). Gradient normalized least-squares reverse-time migration imaging technology. The State-of-Art Techniques of Seismic Imaging for the Deep and Ultra-deep Hydrocarbon Reservoirs.
+Sun, Y., Xu, X., & Tang, L. (2022). Gradient normalized least-squares reverse-time migration imaging technology. Frontiers in Earth Science, 10, 893445.
 
 Tang, L., & Fang, X. (2021). Generation of 6-C synthetic seismograms in stratified vertically transversely isotropic media using a generalized reflection and transmission coefficient method. Geophysical Journal International, 225(3), 1554-1585.
 
