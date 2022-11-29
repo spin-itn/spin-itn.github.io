@@ -9,6 +9,7 @@ has_children: false
 
 ## SPIN ESR 1.4: Ocean floor seismological and environmental monitoring
 
+---
 __Name__: Mohammad Amin Aminian           
 
 __Institution__: Institut de Physique du Globe de Paris (IPGP)
