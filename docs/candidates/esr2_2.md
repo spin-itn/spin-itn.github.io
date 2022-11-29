@@ -9,6 +9,7 @@ has_children: false
 
 ## SPIN ESR 2.2: Understanding Earthquake-Induced Damage & Healing of Crustal Rocks
 
+---
 __Name__:           
 
 __Institution__: University of Edinburgh (UEDIN, U.K.)
