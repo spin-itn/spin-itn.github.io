@@ -45,7 +45,7 @@ __Research progress__
 
 This figure provides a summary and map overview of all sensors that have been installed at the active Cuolm da Vi landslide since the May – August 2022 field campaign. This involves several kilometres of fibre-optic cable (yellow) including various loops. The dashed yellow line denotes the cable part which already existed before our field campaign for the local skiing area telecommunication purposes. The 1046 deployed Stryde nodes and 144 active dynamite shots are illustrated by the green triangles and red stars, respectively. Additionally, five long-term 3C-geophones were installed as well as two Trillion compact sensors.
 
-<img src="/candidates/files/esr4_3_1.jpg" alt="drawing" width="400" style="float:left"/>
+<img src="/candidates/files/esr4_3_1.jpg" alt="drawing" width="500" style="float:left"/>
 
 
 
