@@ -14,7 +14,7 @@ __Name__: Zihua Niu
 
 __Institution__: Ludwig-Maximilian-University Munich, Germany (LMU)
 
-__Contact information__: zniu@geophysik.uni-muenchen.de
+__Email__: zniu@geophysik.uni-muenchen.de
 
 
 ---
