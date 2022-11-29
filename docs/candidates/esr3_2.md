@@ -9,6 +9,7 @@ has_children: false
 
 ## SPIN ESR 3.2: Numerical models across the scales
 
+---
 __Name__: Zihua Niu          
 
 __Institution__: Ludwig-Maximilian-University Munich, Germany (LMU)
