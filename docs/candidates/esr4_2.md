@@ -35,6 +35,7 @@ In the initial stage of this project, the study of the time-dependent elastic pr
 
 <img src="/candidates/files/esr4_2_1.jpg" alt="drawing" width="300" style="float:left"/>
 
+---
 
 
 
