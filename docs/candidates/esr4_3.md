@@ -14,7 +14,7 @@ __Name__: Tjeerd Kiers         <img src="/candidates/files/esr4_3.jpg" alt="draw
 
 __Institution__: ETH Zürich (ETHZ), Department of Earth Sciences
 
-__Contact information__: tjeerd.kiers@erdw.ethz.ch
+__Email__: tjeerd.kiers@erdw.ethz.ch
 
 ---
 __Introduction__
