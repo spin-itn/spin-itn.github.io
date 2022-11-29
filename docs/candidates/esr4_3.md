@@ -47,7 +47,7 @@ This figure provides a summary and map overview of all sensors that have been in
 
 <img src="/candidates/files/esr4_3_1.jpg" alt="drawing" width="300" style="float:left"/>
 
-
+---
 
 
 
