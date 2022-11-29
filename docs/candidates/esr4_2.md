@@ -14,7 +14,7 @@ __Name__: Marco Dominguez-Bureos         <img src="/candidates/files/esr4_2.jpeg
 
 __Institution__: University of Hamburg (UHH)
 
-__Contact information__: marco.dominguez.bureos@uni-hamburg.de
+__Email__: marco.dominguez.bureos@uni-hamburg.de
 
 ---
 __Introduction__
