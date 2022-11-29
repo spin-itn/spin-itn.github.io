@@ -33,9 +33,8 @@ __Research progress__
 
 In the initial stage of this project, the study of the time-dependent elastic properties of civil structures is carried out under controlled conditions (i.e. mechanical and thermal stresses), and the BLEIB structure at BAM is a suitable place to perform experiments using cutting-edge sensors in close collaboration with scientists there. With sensors working at different band frequencies, we are able to measure the dynamical properties of this reference structure at different scales under different stress conditions.
 
-<img src="/candidates/files/esr4_2_1.jpg" alt="drawing" width="300" style="float:left"/>
+<img src="/candidates/files/esr4_2_1.jpg" alt="drawing" width="400" style="float:left"/>
 
----
 
 
 
