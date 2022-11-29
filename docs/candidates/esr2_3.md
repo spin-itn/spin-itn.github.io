@@ -14,7 +14,7 @@ __Name__: Foteini Dervisi           <img src="/candidates/files/esr2_3.jpg" alt=
 
 __Institution__: British Geological Survey (BGS)
 
-__Contact information__: 
+__Email__: 
 
 ---
 __Introduction__
