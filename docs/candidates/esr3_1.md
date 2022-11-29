@@ -9,6 +9,7 @@ has_children: false
 
 ## SPIN ESR 3.1: Optimal Design of Experiments and Surveys for Scientific Interrogation
 
+---
 __Name__:           
 
 __Institution__: University of Edinburgh, U.K.
