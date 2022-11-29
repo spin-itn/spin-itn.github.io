@@ -14,7 +14,7 @@ __Name__: Sebastian Noe
 
 __Institution__: ETH Zürich
 
-__Contact information__: sebastian.noe@erdw.ethz.ch
+__Email__: sebastian.noe@erdw.ethz.ch
 
 ---
 __Introduction__
