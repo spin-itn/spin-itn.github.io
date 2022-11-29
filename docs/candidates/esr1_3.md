@@ -14,7 +14,7 @@ __Name__: Mirko Bracale
 
 __Institution__: University of Grenoble Alpes (UGA)
 
-__Contact information__: Mirko.Bracale@univ-grenoble-alpes.fr
+__Email__: Mirko.Bracale@univ-grenoble-alpes.fr
 
 ---
 __Introduction__
