@@ -47,8 +47,9 @@ Implementation and verification of nonlinear models for solid wave propagation w
 <span>*Inversion of model parameters with the Markov chain Monte Carlo method.*</span>
 {: style="text-align: justify;"}
 
+{: style="text-align: justify;"}
 ![](/candidates/files/esr3_2_3.png)
-
+{: style="text-align: justify;"}
 
 
 
