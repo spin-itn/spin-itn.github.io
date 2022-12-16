@@ -10,7 +10,7 @@ has_children: false
 ## SPIN ESR 3.1: Optimal Design of Experiments and Surveys for Scientific Interrogation
 
 ---
-__Name__: Dominik Strutz           
+__Name__: Dominik Strutz           <img src="/candidates/files/esr3_1_1.jpg" alt="drawing" width="300" style="float:right"/>
 
 __Institution__: University of Edinburgh, U.K.
 
