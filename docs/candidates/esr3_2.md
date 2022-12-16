@@ -30,8 +30,6 @@ Niu, Z., Gabriel, A. A., May, D., Sens-Schönfelder, C., & Igel, H. (2022). A Di
 
 Niu, Z. (2021). Experimental study on the seismic and aseismic deformation during the failure of granitic rock ([Master's thesis](https://www.research-collection.ethz.ch/handle/20.500.11850/516187)).
 
-Meng, M., Frash, L., Carey, J. W., Niu, Z., Zhang, W., Guy, N., ... & Welch, N. (2021). Predicting cement-sheath integrity with consideration of initial state of stress and thermoporoelastic effects. SPE Journal, 26(06), 3505-3528.
-
 Niu, Z., Shen, J., Wang, L., & Yang, R. (2019). Thermo-poroelastic modelling of cement sheath: pore pressure response, thermal effect and thermo-osmotic effect. European Journal of Environmental and Civil Engineering, 26(2), 657-682.
 
 ---
@@ -39,15 +37,15 @@ __Research progress__
 
 Implementation and verification of nonlinear models for solid wave propagation with the discontinuous Galerkin method.
 
-<img src="/candidates/files/esr3_2_2.jpg" alt="drawing" width="400" style="float:left"/>
+<img src="/candidates/files/esr3_2_2.png" alt="drawing" width="400" style="float:left"/>
 
 Comparing modelling results of two nonlinear models with the lab data.
 
-<img src="/candidates/files/esr3_2_3.jpg" alt="drawing" width="400" style="float:left"/>
+<img src="/candidates/files/esr3_2_3.png" alt="drawing" width="400" style="float:left"/>
 
 Inversion of model parameters with the Markov chain Monte Carlo method.
 
-<img src="/candidates/files/esr3_2_4.jpg" alt="drawing" width="400" style="float:left"/>
+<img src="/candidates/files/esr3_2_4.png" alt="drawing" width="400" style="float:left"/>
 
 
 
