@@ -39,13 +39,17 @@ Implementation and verification of nonlinear models for solid wave propagation w
 
 <img src="/candidates/files/esr3_2_2.png" alt="drawing" width="400" style="float:left"/>
 
-Comparing modelling results of two nonlinear models with the lab data.
-
-<img src="/candidates/files/esr3_2_3.png" alt="drawing" width="400" style="float:left"/>
-
-Inversion of model parameters with the Markov chain Monte Carlo method.
+{: style="text-align: justify;"}
+<span>*Comparing modelling results of two nonlinear models with the lab data.*</span>
+{: style="text-align: justify;"}
 
 <img src="/candidates/files/esr3_2_4.png" alt="drawing" width="400" style="float:left"/>
+
+{: style="text-align: justify;"}
+<span>*Inversion of model parameters with the Markov chain Monte Carlo method.*</span>
+{: style="text-align: justify;"}
+
+<img src="/candidates/files/esr3_2_3.png" alt="drawing" width="400" style="float:left"/>
 
 
 
