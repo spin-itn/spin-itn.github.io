@@ -10,7 +10,7 @@ has_children: false
 ## SPIN ESR 2.1: Rock Mechanics and Seismology
 
 ---
-__Name__: Manuel Asnar           <img src="/candidates/files/ESR3_2_1.png" alt="drawing" width="300" style="float:right"/>
+__Name__: Manuel Asnar           <img src="/candidates/files/esr2_1_1.png" alt="drawing" width="300" style="float:right"/>
 
 __Institution__: GFZ (GeoForschungszentrum) Helmholtz Centre Potsdam
 
