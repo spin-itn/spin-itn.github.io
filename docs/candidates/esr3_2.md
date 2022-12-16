@@ -24,7 +24,7 @@ I come from China with a Bachelor in Geotechnical engineering. Afterwards, I wen
 ---
 __Publication__
 
-Niu, Z., Li, O., Moradian, O. (2023), Moment Tensor and Stress Inversion Solutions of Acoustic Emissions during Compression and Tensile Fracturing in Crystalline Rocks. Journal of Rock Mechanics and Geotechnical Engineering (Accepted).
+Niu, Z., Li, Q., Moradian, O. (2023), Moment Tensor and Stress Inversion Solutions of Acoustic Emissions during Compression and Tensile Fracturing in Crystalline Rocks. Journal of Rock Mechanics and Geotechnical Engineering (Accepted).
 
 Niu, Z., Gabriel, A. A., May, D., Sens-Schönfelder, C., & Igel, H. (2022). A Discontinuous-Galerkin approach to model non-classical nonlinearity observed from lab to global scales (No. EGU22-10523). Copernicus Meetings.
 
@@ -37,19 +37,17 @@ __Research progress__
 
 Implementation and verification of nonlinear models for solid wave propagation with the discontinuous Galerkin method.
 
-<img src="/candidates/files/esr3_2_2.png" alt="drawing" width="400" style="float:left"/>
-
 {: style="text-align: justify;"}
+![](/candidates/files/esr3_2_2.png)
 <span>*Comparing modelling results of two nonlinear models with the lab data.*</span>
 {: style="text-align: justify;"}
 
-<img src="/candidates/files/esr3_2_4.png" alt="drawing" width="400" style="float:left"/>
-
 {: style="text-align: justify;"}
+![](/candidates/files/esr3_2_4.png)
 <span>*Inversion of model parameters with the Markov chain Monte Carlo method.*</span>
 {: style="text-align: justify;"}
 
-<img src="/candidates/files/esr3_2_3.png" alt="drawing" width="400" style="float:left"/>
+![](/candidates/files/esr3_2_3.png)
 
 
 
