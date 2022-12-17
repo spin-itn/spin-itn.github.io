@@ -19,7 +19,11 @@ __Email__: zniu@geophysik.uni-muenchen.de
 ---
 __Introduction__
 
-I come from China with a Bachelor in Geotechnical engineering. Afterwards, I went to ETH in Zurich for a MSc in Geophysics. I joined LMU Munich in 2021 as a PhD student in Computational Seismology under the supervision of Prof. Heiner Igel and Prof. Alice-Agnes Gabriel. I enjoy learning different theories in solid and fluid mechanics and numerical methods for Partial Differential Equations. My current research concerns the propagation of seismic waves in nonlinear materials. May you get to know more about my research [here](https://aangniu.github.io/).
+I come from China with a Bachelor in Geotechnical engineering. There I gained my special interests in different fields of continuum mechanics, e.g. elasticity, plasticity, viscosity, fluid mechanics, soil mechanics, thermo-poro-elasticity, fracture mechanics etc.. 
+
+Afterwards, I went to ETH Zurich for a MSc in Geophysics. I took the time in Zurich for different numerical methods for solving different types of Partial Differential Equations (PDE), e.g. FDM, FEM, FVM, LBM. I also got the chance to work in the lab to understand better how the models may be constrained in practice. The specific techniques employed were Acoustic Emission (for seismic source inversion) and Fiber Opitics (for distributed strain measurement).
+
+I joined LMU Munich in 2021 as a PhD student in Computational Seismology under the supervision of Prof. Heiner Igel and Prof. Alice-Agnes Gabriel. My current research concerns the propagation of seismic waves in nonlinear materials (a type of nonlinear hyperbolic PDEs). The principal method that I may use is the Discontinuous Galerkin Method. The major goal of my research is to develop a parallelized code for large scale wave propagation in nonlinear rheology. May you get to know more about my research [here](https://aangniu.github.io/).
 
 ---
 __Publication__
