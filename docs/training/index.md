@@ -42,17 +42,17 @@ a 3D deployment).
 **Goal**: cross-validation of methodology and observations with different instrumentation. 
 
 # Year 3:
-
-## Short Course 3 - “SPIN-off”  
-Propel the network into the future. ESRs will team up with 
-supervisors and invited key scientists to develop ideas for their 
-own future postdoctoral research.
-
-## Workshop 3 - Interrogating the restless Earth
+## Short Course 3 - Interrogating the restless Earth
 How can we sharpen our images of changing subsurface 
 properties? How do novel processing techniques help predict 
 dynamic stresses inside the wavefield and their impact on the rock 
 mass (e.g., induced events, poroelastic effects, damage and healing)? 
+
+## Workshop 3 - “SPIN-off”  
+Propel the network into the future. ESRs will team up with 
+supervisors and invited key scientists to develop ideas for their 
+own future postdoctoral research.
+
 
 
 # Year 4:
