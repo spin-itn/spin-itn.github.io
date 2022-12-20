@@ -43,12 +43,12 @@ Implementation and verification of nonlinear models for solid wave propagation w
 
 {: style="text-align: justify;"}
 ![](/candidates/files/esr3_2_2.png)
-<span>*Comparing modelling results of two nonlinear models with the lab data.*</span>
+<span>*Amplitude- and frequency-dependent damage from the current model and from measurements by Manogharan et al. (2021).*</span>
 {: style="text-align: justify;"}
 
 {: style="text-align: justify;"}
 ![](/candidates/files/esr3_2_5.png)
-<span>*Amplitude- and frequency-dependent damage from the current model and from measurements by Manogharan et al. (2021).*</span>
+<span>*Comparing modelling results of two nonlinear models with the lab data.*</span>
 {: style="text-align: justify;"}
 
 {: style="text-align: justify;"}
