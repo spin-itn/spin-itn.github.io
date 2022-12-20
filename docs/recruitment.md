@@ -8,8 +8,6 @@ nav_order: 6
 # Recruitment 
 
 ---
-
-
 The <b>SPIN „Monitoring a Restless Earth"</b> Innovative Training Network (ITN) has recruited 15 highly motivated PhD students, or "Early-Stage Researchers" (ESRs). The positions had staggered starting dates between May-October 2021 for a duration of 3 years. For specifics, please refer to the individual project descriptions by clicking on the links [below](/recruitment/#the-following-15-phd-positions-are-available). 
 
 __All positions are now filled!__

@@ -3,7 +3,7 @@ layout: page
 title: SPIN Workshop 3
 parent: Training + Workshops
 permalink: /ws3/
-nav_order: 5
+nav_order: 7
 ---
 
 
