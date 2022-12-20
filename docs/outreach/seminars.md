@@ -11,8 +11,12 @@ nav_order: 1
 The SPIN-ITN PhD fellows organize a bi-weekly seminar, with topics ranging from recent scientific results to scientific and transferable skills. A schedule of the seminars can be found [here](https://docs.google.com/document/d/1RG_EKlTnwqeV1ovWvbaG3KaZY_bVY0-tuwZmxSet3Pg/edit?usp=sharing), or seen below. 
 {: style="text-align: justify;"}
 
-Recordings of the seminars are posted on the [SPIN Youtube](https://www.youtube.com/channel/UCcsvKNYDSbeGuOVRhHZobIA) channel (please subscribe!)
+Recordings of the seminars are posted on the [SPIN Youtube](https://www.youtube.com/@spin-itn) channel (please subscribe!)
 {: style="text-align: justify;"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLPtuMAD7dea-ge50y8EwAQqJ0yq9gfFvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 If you wish to receive announcements for upcoming seminars, please [subscribe to the SPIN-info mailing list here](https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info).  
 {: style="text-align: justify;"}

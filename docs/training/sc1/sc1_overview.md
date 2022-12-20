@@ -33,6 +33,8 @@ The short course schedule can be found [here](https://docs.google.com/document/d
 
 The lectures have been recorded and are posted to the [SPIN Youtube channel](https://www.youtube.com/playlist?list=PLPtuMAD7dea--dO_dPiIH-ZWtumlEslEu). 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLPtuMAD7dea--dO_dPiIH-ZWtumlEslEu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 __Confirmed speakers include:__  
 
 - [Heiner Igel](https://www.geophysik.uni-muenchen.de/Members/igel/?searchterm=heiner%20igel) (LMU Munich, Germany)

@@ -29,8 +29,10 @@ Four main topics were covered:
 - __Field observations of changing elasticity__ (volcanoes, fault zones, mountains, hydrology shaking, stress changes, ...)
 - __Modeling non-classical elastic behavior__ (velocity changes, hysteresis, recovery, ...)
 
-Following are the the presentations done by the lectures during the workshop.
+The presentations by the lecturers during the workshop were uploaded to our Youtube channel (@spin-itn). 
 {: style="text-align: justify;"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLPtuMAD7dea8hIJmcnR634pO9jIWqVTc-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  Lecturer                    | Affiliation                                                 | Presentation Title                                                                                                                                                                                                                                  | Presentation Slides                                                                                                                         | Presentation Video 
 -----------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------
