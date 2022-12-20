@@ -47,6 +47,11 @@ Implementation and verification of nonlinear models for solid wave propagation w
 {: style="text-align: justify;"}
 
 {: style="text-align: justify;"}
+![](/candidates/files/esr3_2_5.png)
+<span>*Amplitude- and frequency-dependent damage from the current model and from measurements by Manogharan et al. (2021).*</span>
+{: style="text-align: justify;"}
+
+{: style="text-align: justify;"}
 ![](/candidates/files/esr3_2_4.png)
 <span>*Inversion of model parameters with the Markov chain Monte Carlo method.*</span>
 {: style="text-align: justify;"}
