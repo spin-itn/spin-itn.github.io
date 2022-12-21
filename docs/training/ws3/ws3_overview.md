@@ -14,7 +14,7 @@ _24-29 March, 2023_
 
 ---
 
-<img src="/assets/images/ws2/location.png" alt="SPIN WS2 location: Bordeaux!" width="100%"/>
+<img src="/assets/images/ws3/pitlochry_banner.svg" alt="SPIN WS3 location: Pitlochry!" width="100%"/>
 
 ## Scientific Program
 
@@ -37,7 +37,7 @@ A preliminary schedule can be found [here](https://docs.google.com/document/d/16
 
 ## Location and Venue
 
-<img src="/assets/images/ws2/ceveo.png" alt="SPIN WS2 venue" width="100%"/>
+<img src="/assets/images/ws3/pitlochry_banner.svg" alt="SPIN WS3 location: Pitlochry!" width="100%"/>
 
 ..
 {: style="text-align: justify;"}
