@@ -14,7 +14,7 @@ _24-29 March, 2023_
 
 ---
 
-<img src="/assets/images/ws3/pitlochry_banner.svg" alt="SPIN WS3 location: Pitlochry!" width="100%"/>
+<img src="/assets/images/ws3/scotland_banner.svg" alt="SPIN WS3 location: Pitlochry!" width="100%"/>
 
 ## Scientific Program
 
@@ -37,7 +37,7 @@ A preliminary schedule can be found [here](https://docs.google.com/document/d/1J
 
 ## Location and Venue
 
-<img src="/assets/images/ws3/pitlochry_banner.svg" alt="SPIN WS3 location: Pitlochry!" width="100%"/>
+<img src="/assets/images/ws3/venue_banner.svg" alt="SPIN WS3 location: Pitlochry!" width="100%"/>
 
 The short course will take place north of Edinburgh, in the Scottish Highlands. More specifically, the venue is located in Pitlochry, right at a river next to the Cairngorms National Park.
 
