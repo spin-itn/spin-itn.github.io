@@ -42,10 +42,15 @@ A preliminary schedule can be found [here](https://docs.google.com/document/d/1J
 ..
 {: style="text-align: justify;"}
 
+The short course will take place north of Edinburgh, in the Scottish Highlands. More specifically, the venue is located in Pitlochry, right at a river next to the Cairngorms National Park.
+
 <iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/hadzii/clbw7dptv000u16ms9380l9pg.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#4.48/54.67/-2.66" title="SPIN-WS3" style="border:none;"></iframe>
 
 ...
 {: style="text-align: justify;"}
+
+The venue is the '[Atholl Palace Hotel
+](https://www.athollpalace.com/)' located in the small village of Pitlochry.
 
 To limit the carbon footprint of the meeting, we encourage you to travel by train and/or ferry if possible. For reference, some train connections are listed:   
 - Trains arrive from Paris/Z&uuml;rich - every hour:17
