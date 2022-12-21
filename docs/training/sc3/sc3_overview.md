@@ -14,7 +14,7 @@ _18-24 March, 2023_
 
 ---
 
-<img src="/assets/images/ws3/pitlochry_banner.svg" alt="SPIN WS3 location: Pitlochry! width="100%"/>
+<img src="/assets/images/ws3/pitlochry_banner.svg" alt="SPIN WS3 location: Pitlochry!" width="100%"/>
 
 ## Scientific Program
 

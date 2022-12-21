@@ -32,7 +32,7 @@ _24-29 March, 2023_
 ## Schedule 
 
 
-A preliminary schedule can be found [here](https://docs.google.com/document/d/16ktLrxG_XcTVW8jz8qM5BStymtsvJwk6aTacP_n1lts/edit?usp=sharing). 
+A preliminary schedule can be found [here](https://docs.google.com/document/d/1Jng7qQ339FD4B1JpRUmaxh-MuBijVFSZxtEfL_H5dqE/edit?usp=sharing). 
 
 
 ## Location and Venue
