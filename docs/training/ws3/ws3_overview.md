@@ -24,15 +24,10 @@ _24-29 March, 2023_
 
 
 
-## Practical exercises
-...
-{: style="text-align: justify;"}
-
 
 ## Schedule 
 
 
-A preliminary schedule can be found [here](https://docs.google.com/document/d/1Jng7qQ339FD4B1JpRUmaxh-MuBijVFSZxtEfL_H5dqE/edit?usp=sharing). 
 
 
 ## Location and Venue
@@ -49,10 +44,7 @@ The short course will take place north of Edinburgh, in the Scottish Highlands. 
 The venue is the '[Atholl Palace Hotel
 ](https://www.athollpalace.com/)' located in the small village of Pitlochry.
 
-To limit the carbon footprint of the meeting, we encourage you to travel by train and/or ferry if possible. For reference, some train connections are listed:   
-- Trains arrive from Paris/Z&uuml;rich - every hour:17
-- from Grenoble - uneven hour:32
-- from Hamburg/ Berlin - 17:17, 19:17
+To limit the carbon footprint of the meeting, we encourage you to travel by train and/or ferry if possible. 
 {: style="text-align: justify;"}
 
 
@@ -63,7 +55,7 @@ To limit the carbon footprint of the meeting, we encourage you to travel by trai
 
 ## Accommodation
 
-During the SPIN workshop, you will stay at ...
+During the SPIN workshop, you will stay at hotel rooms in the conference venue.  You do not need to reserve the rooms yourself, this will be part of the registration process. 
 {: style="text-align: justify;"}
 
 
