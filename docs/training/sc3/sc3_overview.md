@@ -9,7 +9,7 @@ nav_order: 6
 
 
 # SPIN Short Course 3 - Interrogating the Restless Earth
-_Pitlochry, Scotland, UK 
+_Pitlochry, Scotland, UK_  
 _18-24 March, 2023_  
 
 ---
@@ -33,7 +33,9 @@ Attendees will be expected to bring their own laptops on which to conduct the pr
 
 ## Schedule 
 
-
+A preliminary schedule can be found [here](https://docs.google.com/document/d/e/2PACX-1vRnVVrqbAweIfi9HEUZTfPievUtAGVz666Be9DJC64t3289pbHKBHGDygwdIuGN9fOVqNL-_0ZVrkcq/pub).   
+Note that the short course program in Pitlochry starts on 19.03. A coach leaves from Edinburgh to the conference venue on 19.03 at 9:00 am. It therefore makes sense to arrive in Edinburgh on the 18.03 already. 
+{: style="text-align: justify;"}
 
 
 ## Location and Venue
