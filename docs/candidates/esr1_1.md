@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ESR1.1
+title: Le
 parent: PhD Candidates
 permalink: /candidates/ESR1_1
 nav_order: 1
