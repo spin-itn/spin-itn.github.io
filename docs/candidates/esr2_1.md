@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ESR2.1
+title: Manuel
 parent: PhD Candidates
 permalink: /candidates/ESR2_1
 nav_order: 5
