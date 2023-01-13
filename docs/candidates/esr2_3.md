@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ESR2.3
+title: Foteini
 parent: PhD Candidates
 permalink: /candidates/ESR2_3
 nav_order: 7
