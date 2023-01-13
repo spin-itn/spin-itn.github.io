@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ESR3.1
+title: Dominik
 parent: PhD Candidates
 permalink: /candidates/ESR3_1
 nav_order: 8
