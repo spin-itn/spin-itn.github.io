@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ESR3.3
+title: Julius
 parent: PhD Candidates
 permalink: /candidates/ESR3_3
 nav_order: 10
