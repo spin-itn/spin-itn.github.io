@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ESR3.2
+title: Zihua Niu
 parent: PhD Candidates
 permalink: /candidates/ESR3_2
 nav_order: 9
