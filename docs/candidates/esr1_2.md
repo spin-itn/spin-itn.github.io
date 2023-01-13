@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ESR1.2
+title: Sebastian
 parent: PhD Candidates
 permalink: /candidates/ESR1_2
 nav_order: 2
