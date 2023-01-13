@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ESR1.3
+title: Mirko
 parent: PhD Candidates
 permalink: /candidates/ESR1_3
 nav_order: 3
