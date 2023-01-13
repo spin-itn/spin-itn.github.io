@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ESR4.1
+title: Eleanor
 parent: PhD Candidates
 permalink: /candidates/ESR4_1
 nav_order: 12
