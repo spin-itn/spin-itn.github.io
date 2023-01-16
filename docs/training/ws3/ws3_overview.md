@@ -17,18 +17,14 @@ _24-29 March, 2023_
 <img src="/assets/images/ws3/scotland_banner.svg" alt="SPIN WS3 location: Pitlochry!" width="100%"/>
 
 ## Scientific Program
-
-...
+The SPIN Highland Retreat is a structured workshop designed to inspire new ideas in Earth dynamics and how to observe them. The workshop will create <b><i>ventures</i></b> (combined ideas, teams and plans), and we will start to work on those ventures in our venture teams during the workshop. Ventures could develop new research, businesses, public engagement, proposals or any other useful outcome from our combined scientific knowledge and experience. This should lead to a range of new and exciting directions and achievements from the SPIN Innovative Training Network and our collaborators.
 {: style="text-align: justify;"}
-
-
 
 
 
 ## Schedule 
 
-
-
+A preliminary schedule can be found [here](https://docs.google.com/document/d/e/2PACX-1vSS-RywiUR_a8RSkEdlrn-j2lHp6GoAQNpqKsSySPqFIHbepwqCNz6n0PaxjBN-kBJGmFJQWsi23Hw-/pub). 
 
 ## Location and Venue
 
@@ -50,7 +46,7 @@ To limit the carbon footprint of the meeting, we encourage you to travel by trai
 
 ## Excursion and activities
 
-...
+Bring warm & water-proof clothes & sturdy walking boots/shoes! 
 {: style="text-align: justify;"}
 
 ## Accommodation
