@@ -65,14 +65,20 @@ Vacation / Free Days: If you would like to make a holiday of it, or do something
 
 ## Accommodation
 
-During the SPIN Short Course, you will stay at the hotel rooms in the conference venue. You do not need to reserve the rooms yourself, this will be part of the registration process. 
+During the SPIN Short Course, you will stay at the hotel rooms in the conference venue. You do not need to reserve the rooms yourself, this will be part of the registration process.
+Accommodation is all full board (the price includes breakfast, lunch and dinner), and both lunch and dinner will be vegetarian for everybody to reduce the climate impact of the event. There is an option to share a twin room or have a room to yourself.
+The registration fee for the short course will be approximately £170 (or £345 if you attend both the short course and the workshop). In addition, the cost of rooms for the entire short course is £497.50 for sharing a twin room and £745 for a room to yourself. We will inform you about the exact amount when the final registration opens.
+
+Coach transport (included in the registration fee) will be provided from Edinburgh to Pitlochry and back. The coach will be departing at 15.00 from Edinburgh Waverly (central Edinburgh) on the 19th and will go via the airport to collect anyone from there (it will only wait for a maximum of 20 minutes). The return coach will leave from Pitlochry at 09:00 on the 24th and will drop anyone off at the airport before arriving at Edinburgh Waverly at ~11.00.
+
+
 {: style="text-align: justify;"}
 
 
 
 ## Registration
 
-Registration will open in January 2023. 
+Registration will open in January 2023. Note that the number of places for the short course is limited, and will preferentially go to Early-Career Researchers (PhD or early Postdoc) who are able to provide a convincing motivation for participation. If you are selected for the short course, you will also have priority for participation in the SPIN workshop that follows on after the short course if you pre-register for both
 {: style="text-align: justify;"}
 
 __Would you like to attend the short course?__   
