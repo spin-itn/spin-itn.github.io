@@ -24,7 +24,7 @@ The SPIN Highland Retreat is a structured workshop designed to inspire new ideas
 
 ## Schedule 
 
-A preliminary schedule can be found [here](https://docs.google.com/document/d/e/2PACX-1vSS-RywiUR_a8RSkEdlrn-j2lHp6GoAQNpqKsSySPqFIHbepwqCNz6n0PaxjBN-kBJGmFJQWsi23Hw-/pub). 
+A preliminary schedule can be found [here](https://docs.google.com/document/d/1Jng7qQ339FD4B1JpRUmaxh-MuBijVFSZxtEfL_H5dqE/edit#). 
 
 ## Location and Venue
 
