@@ -33,7 +33,7 @@ Attendees will be expected to bring their own laptops on which to conduct the pr
 
 ## Schedule 
 
-A preliminary schedule can be found [here](https://docs.google.com/document/d/e/2PACX-1vRnVVrqbAweIfi9HEUZTfPievUtAGVz666Be9DJC64t3289pbHKBHGDygwdIuGN9fOVqNL-_0ZVrkcq/pub).   
+A preliminary schedule can be found [here](https://docs.google.com/document/d/1DcfPWzSwqqhhH1ZFYfdOCANxjzUST5-Ikg274SABGw0/edit#).   
 Note that the short course program in Pitlochry starts early morning on 20.03. A coach leaves from Edinburgh to the conference venue on 19.03 in the afternoon. It therefore makes sense to arrive in Edinburgh the morning of the 19.03. 
 {: style="text-align: justify;"}
 
