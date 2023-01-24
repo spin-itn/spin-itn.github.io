@@ -32,8 +32,12 @@ Attendees will be expected to bring their own laptops on which to conduct the pr
 
 
 ## Schedule 
+Sunday March 19th: Arrival
+March 19th - March 24th: Short Course program
+March 24th Departure
 
-A preliminary schedule can be found [here](https://docs.google.com/document/d/e/2PACX-1vRnVVrqbAweIfi9HEUZTfPievUtAGVz666Be9DJC64t3289pbHKBHGDygwdIuGN9fOVqNL-_0ZVrkcq/pub).   
+A preliminary schedule can be found [here](https://docs.google.com/document/d/1DcfPWzSwqqhhH1ZFYfdOCANxjzUST5-Ikg274SABGw0/edit#).
+
 Note that the short course program in Pitlochry starts early morning on 20.03. A coach leaves from Edinburgh to the conference venue on 19.03 in the afternoon. It therefore makes sense to arrive in Edinburgh the morning of the 19.03. 
 {: style="text-align: justify;"}
 
@@ -49,13 +53,19 @@ The short course will take place north of Edinburgh, in the Scottish Highlands. 
 
 The venue is the '[Atholl Palace Hotel](https://www.athollpalace.com/)' located in the small village of Pitlochry.
 
-To limit the carbon footprint of the meeting, we encourage you to travel by train and/or ferry if possible. 
+To limit the carbon footprint of the meeting, we encourage you to travel by train and/or ferry if possible.
+
+Transport between Edinburgh and Pitlochry is arranged and will follow the times below:
+- March 19th: 15:00 From Edinburgh Waverley train station to Pitlochry via the airport
+- March 24th: 09:00 From Pitlochry to Edinburgh Waverley train station via the airport
+
 {: style="text-align: justify;"}
 
 
 ## Excursion and activities
+There is an optional excursion offered on both the short course and workshop to a local whisky distillery: [Blair Athol Distillery](https://www.malts.com/en-gb/distilleries/blair-athol). On the short course this will be in the afternoon on the 23rd of March and on the workshop this will be on the afternoon of the 25th March. Attending the tour of the distillery will cost an additional £10.
 
-Information about excursions and activities during the short course will follow soon. 
+More information about excursions and activities during the short course will follow soon. 
 {: style="text-align: justify;"}
 
 Vacation / Free Days: If you would like to make a holiday of it, or do something special on your day off, please have a look here: [https://www.visitscotland.com/see-do/](https://www.visitscotland.com/see-do/). 
@@ -65,14 +75,20 @@ Vacation / Free Days: If you would like to make a holiday of it, or do something
 
 ## Accommodation
 
-During the SPIN Short Course, you will stay at the hotel rooms in the conference venue. You do not need to reserve the rooms yourself, this will be part of the registration process. 
+During the SPIN Short Course, you will stay at the hotel rooms in the conference venue. You do not need to reserve the rooms yourself, this will be part of the registration process.
+Accommodation is all full board (the price includes breakfast, lunch and dinner), and both lunch and dinner will be vegetarian for everybody to reduce the climate impact of the event. There is an option to share a twin room or have a room to yourself.
+The registration fee for the short course will be approximately £170 (or £345 if you attend both the short course and the workshop). 
+
+The cost of rooms for the entire short course is 
+- £497.50 for sharing a twin room 
+- £745 for a room to yourself
+
+
 {: style="text-align: justify;"}
-
-
 
 ## Registration
 
-Registration will open in January 2023. 
+Registration will open in January 2023. Note that the number of places for the short course is limited, and will preferentially go to Early-Career Researchers (PhD or early Postdoc) who are able to provide a convincing motivation for participation. If you are selected for the short course, you will also have priority for participation in the SPIN workshop that follows on after the short course if you pre-register for both
 {: style="text-align: justify;"}
 
 __Would you like to attend the short course?__   

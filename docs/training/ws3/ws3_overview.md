@@ -23,14 +23,16 @@ The SPIN Highland Retreat is a structured workshop designed to inspire new ideas
 
 
 ## Schedule 
-
-A preliminary schedule can be found [here](https://docs.google.com/document/d/e/2PACX-1vSS-RywiUR_a8RSkEdlrn-j2lHp6GoAQNpqKsSySPqFIHbepwqCNz6n0PaxjBN-kBJGmFJQWsi23Hw-/pub). 
+Sunday March 24th: Arrival
+March 24th - March 29th: Workshop program
+March 29th Departure
+A preliminary schedule can be found [here](https://docs.google.com/document/d/1Jng7qQ339FD4B1JpRUmaxh-MuBijVFSZxtEfL_H5dqE/edit#). 
 
 ## Location and Venue
 
 <img src="/assets/images/ws3/venue_banner.svg" alt="SPIN WS3 location: Pitlochry!" width="100%"/>
 
-The short course will take place north of Edinburgh, in the Scottish Highlands. More specifically, the venue is located in Pitlochry, right at a river next to the Cairngorms National Park.
+The workshop will take place north of Edinburgh, in the Scottish Highlands. More specifically, the venue is located in Pitlochry, right at a river next to the Cairngorms National Park.
 
 {: style="text-align: justify;"}
 
@@ -40,25 +42,33 @@ The short course will take place north of Edinburgh, in the Scottish Highlands. 
 The venue is the '[Atholl Palace Hotel
 ](https://www.athollpalace.com/)' located in the small village of Pitlochry.
 
+Transport between Edinburgh and Pitlochry is arranged and will follow the times below:
+- March 24th: 15:00 From Edinburgh Waverley train station to Pitlochry via the airport
+- March 29th: 09:00 From Pitlochry to Edinburgh Waverley train station via the airport
+
 To limit the carbon footprint of the meeting, we encourage you to travel by train and/or ferry if possible. 
 {: style="text-align: justify;"}
 
 
 ## Excursion and activities
-
 Bring warm & water-proof clothes & sturdy walking boots/shoes! 
 {: style="text-align: justify;"}
 
 ## Accommodation
+During the SPIN Short Course, you will stay at the hotel rooms in the conference venue. You do not need to reserve the rooms yourself, this will be part of the registration process.
+Accommodation is all full board (the price includes breakfast, lunch and dinner), and both lunch and dinner will be vegetarian for everybody to reduce the climate impact of the event. There is an option to share a twin room or have a room to yourself.
+The registration fee for the workshop will be approximately £175 (or £345 if you attend both the short course and the workshop).
 
-During the SPIN workshop, you will stay at hotel rooms in the conference venue.  You do not need to reserve the rooms yourself, this will be part of the registration process. 
+The cost of rooms for the entire workshop is 
+- £497.50 for sharing a twin room 
+- £745 for a room to yourself
+
 {: style="text-align: justify;"}
 
-
-
 ## Registration
+Registration will open in January 2023.
 
-Registration will open in January 2023. 
+Registration will open in January 2023. Note that the number of places for the short course is limited, and will preferentially go to Early-Career Researchers (PhD or early Postdoc) who are able to provide a convincing motivation for participation.
 {: style="text-align: justify;"}
 
 __Would you like to attend the workshop?__   
