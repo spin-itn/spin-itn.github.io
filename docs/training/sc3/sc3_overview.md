@@ -32,9 +32,9 @@ Attendees will be expected to bring their own laptops on which to conduct the pr
 
 
 ## Schedule 
-Sunday March 19th: Arrival
-March 19th - March 24th: Short Course program
-March 24th Departure
+- Sunday March 19th: Arrival
+- March 19th - March 24th: Short Course program
+- March 24th Departure
 
 A preliminary schedule can be found [here](https://docs.google.com/document/d/1DcfPWzSwqqhhH1ZFYfdOCANxjzUST5-Ikg274SABGw0/edit#).
 
@@ -65,7 +65,7 @@ Transport between Edinburgh and Pitlochry is arranged and will follow the times 
 ## Excursion and activities
 There is an optional excursion offered on both the short course and workshop to a local whisky distillery: [Blair Athol Distillery](https://www.malts.com/en-gb/distilleries/blair-athol). On the short course this will be in the afternoon on the 23rd of March and on the workshop this will be on the afternoon of the 25th March. Attending the tour of the distillery will cost an additional £10.
 
-More information about excursions and activities during the short course will follow soon. 
+There will be an opportunity for a free day on the last day of the short course to explore surrounding Pitlochry. Activities can include fishing, cycling, and a visit to Blair Atholl Castle or the Killiecrankie battle site.  
 {: style="text-align: justify;"}
 
 Vacation / Free Days: If you would like to make a holiday of it, or do something special on your day off, please have a look here: [https://www.visitscotland.com/see-do/](https://www.visitscotland.com/see-do/). 
@@ -88,7 +88,7 @@ The cost of rooms for the entire short course is
 
 ## Registration
 
-Registration will open in January 2023. Note that the number of places for the short course is limited, and will preferentially go to Early-Career Researchers (PhD or early Postdoc) who are able to provide a convincing motivation for participation. If you are selected for the short course, you will also have priority for participation in the SPIN workshop that follows on after the short course if you pre-register for both
+Registration will open in January 2023. Note that the number of places for the short course is limited, and will preferentially go to Early-Career Researchers (PhD or early Postdoc) who are able to provide a convincing motivation for participation. If you are selected for the short course, you will also have priority for participation in the SPIN workshop that follows on after the short course if you pre-register for both.
 {: style="text-align: justify;"}
 
 __Would you like to attend the short course?__   

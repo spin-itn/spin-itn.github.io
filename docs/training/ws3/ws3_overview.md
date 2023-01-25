@@ -22,11 +22,12 @@ The SPIN Highland Retreat is a structured workshop designed to inspire new ideas
 
 
 
-## Schedule 
-Sunday March 24th: Arrival
-March 24th - March 29th: Workshop program
-March 29th Departure
+## Schedule
 A preliminary schedule can be found [here](https://docs.google.com/document/d/1Jng7qQ339FD4B1JpRUmaxh-MuBijVFSZxtEfL_H5dqE/edit#). 
+- Sunday March 24th: Arrival
+- March 24th - March 29th: Workshop program
+- March 29th Departure
+
 
 ## Location and Venue
 
@@ -51,7 +52,13 @@ To limit the carbon footprint of the meeting, we encourage you to travel by trai
 
 
 ## Excursion and activities
-Bring warm & water-proof clothes & sturdy walking boots/shoes! 
+Bring warm & water-proof clothes & sturdy walking boots/shoes!
+
+There is an optional excursion offered on both the short course and workshop to a local whisky distillery: [Blair Athol Distillery](https://www.malts.com/en-gb/distilleries/blair-athol). On the short course this will be in the afternoon on the 23rd of March and on the workshop this will be on the afternoon of the 25th March. Attending the tour of the distillery will cost an additional £10.
+
+There will be an opportunity for a free afternoon towards the end of the workshop to explore surrounding Pitlochry. Activities can include fishing, cycling, and a visit to Blair Atholl Castle or the Killiecrankie battle site.
+
+
 {: style="text-align: justify;"}
 
 ## Accommodation
