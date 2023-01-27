@@ -92,7 +92,9 @@ Registration will open in January 2023. Note that the number of places for the s
 {: style="text-align: justify;"}
 
 __Would you like to attend the short course?__
-Please pre-register for the short course by filling in the survey here: [https://tinyurl.com/register-spin-sc3](https://tinyurl.com/register-spin-sc3). Only pre-registered participants will receive a payment link to register and attend. 
+Please pre-register for the short course by filling in the survey here: [https://tinyurl.com/register-spin-sc3](https://tinyurl.com/register-spin-sc3). Only pre-registered participants will receive a payment link to register and attend.
+
+_Pre-registration closes on __February 8th__, and is necessary for all attendees._
 
 We welcome participants from outside the SPIN network! However, note that the number of places for the short course is limited, and will preferentially go to Early-Career Researchers (PhD or early Postdoc) who are able to provide a convincing motivation for participation.
 
