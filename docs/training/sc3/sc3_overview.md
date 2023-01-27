@@ -91,8 +91,14 @@ The cost of rooms for the entire short course is
 Registration will open in January 2023. Note that the number of places for the short course is limited, and will preferentially go to Early-Career Researchers (PhD or early Postdoc) who are able to provide a convincing motivation for participation. If you are selected for the short course, you will also have priority for participation in the SPIN workshop that follows on after the short course if you pre-register for both.
 {: style="text-align: justify;"}
 
-__Would you like to attend the short course?__   
-Pre-registration information will be distributed by email to the SPIN-info mailing list in January. If you are interested, please subscribe to the mailing list [here](https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info).
+__Would you like to attend the short course?__
+Please pre-register for the short course by filling in the survey here: [https://tinyurl.com/register-spin-sc3](https://tinyurl.com/register-spin-sc3). Only pre-registered participants will receive a payment link to register and attend.
+
+_Pre-registration closes on __February 8th__, and is necessary for all attendees._
+
+We welcome participants from outside the SPIN network! However, note that the number of places for the short course is limited, and will preferentially go to Early-Career Researchers (PhD or early Postdoc) who are able to provide a convincing motivation for participation.
+
+If you would like to keep up to date on SPIN activities and future training events, please subscribe to the SPIN-info mailing list [here](https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info).
 {: style="text-align: justify;"}
 
 
