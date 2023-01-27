@@ -24,7 +24,7 @@ The SPIN Highland Retreat is a structured workshop designed to inspire new ideas
 
 ## Schedule
 A preliminary schedule can be found [here](https://docs.google.com/document/d/1Jng7qQ339FD4B1JpRUmaxh-MuBijVFSZxtEfL_H5dqE/edit#). 
-- Sunday March 24th: Arrival
+- Friday March 24th: Arrival
 - March 24th - March 29th: Workshop program
 - March 29th Departure
 
