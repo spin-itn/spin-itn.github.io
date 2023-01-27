@@ -76,7 +76,7 @@ The cost of rooms for the entire workshop is
 Registration will open in January 2023.
 
 __Would you like to attend the workshop?__   
-Please pre-register for the workshop by filling in the survey here: [https://tinyurl.com/schedule-spin-ws3](https://tinyurl.com/schedule-spin-ws3)). Only pre-registered participants will receive a payment link to register and attend. 
+Please pre-register for the workshop by filling in the survey here: [https://tinyurl.com/schedule-spin-ws3](https://tinyurl.com/schedule-spin-ws3). Only pre-registered participants will receive a payment link to register and attend. 
 
 We welcome participants from outside the SPIN network! However, note that the number of places for the workshop is limited, and will preferentially go to Early-Career Researchers (PhD or early Postdoc) who are able to provide a convincing motivation for participation.
 
