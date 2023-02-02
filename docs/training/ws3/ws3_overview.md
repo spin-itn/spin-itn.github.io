@@ -76,7 +76,8 @@ The cost of rooms for the entire workshop is
 Registration will open in January 2023.
 
 __Would you like to attend the workshop?__   
-Please pre-register for the workshop by filling in the survey here: [https://tinyurl.com/schedule-spin-ws3](https://tinyurl.com/schedule-spin-ws3). Only pre-registered participants will receive a payment link to register and attend.
+Please pre-register for the workshop by filling in the survey here: [https://tinyurl.com/register-spin-ws3](https://tinyurl.com/register-spin-ws3).<br> 
+Only pre-registered participants will receive a payment link to register and attend.
 
 _Pre-registration closes on __February 8th__, and is necessary for all attendees._
 
