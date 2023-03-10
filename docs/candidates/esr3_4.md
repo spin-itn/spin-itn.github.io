@@ -10,7 +10,7 @@ has_children: false
 ## SPIN ESR 3.4: Ambient signals as a tool to characterize material properties
 
 ---
-__Name__: Mahsa Safarkhani
+__Name__: Mahsa Safarkhani    <img src="/candidates/files/ESR3_4_1.jpg" alt="drawing" width="300" style="float:right"/>
 
 __Institution__: University of Hamburg (UHH)
 
