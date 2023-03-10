@@ -27,11 +27,17 @@ I am Mahsa Safarkhani, PhD student of SPIN-ITN at the University of Hamburg. I c
 __Publication__
 
 [1] M. Safarkhani*, S. Schippkus, C. Hadziioannou [2023]. “Array beamforming on ambient seismic noise correlations reveals repeating direct waves in the coda”. EGU23-7003, EGU General Assembly 2023 
+
 [2] S. Schippkus*, R. Snieder, M. Safarkhani, and C. Hadziioannou [2023]. “The impact of isolated noise sources on correlation wavefields”. EGU23-124, EGU General Assembly 2023
+
 [3] T. Shirzad*, M. Safarkhani, M. Assumpção [2022]. “Extracting reliable empirical Green's functions using weighted cross-correlation functions of ambient seismic noise in west-central and southern Brazil”. Geophysical Journal International, 230(2), 1441–1464,  doi: 10.1093/gji/ggac126 
+
 [4] M. Safarkhani*, T. Shirzad [2021]. “Improvement in the Empirical Green's function Extraction using Root Mean Square Ratio Stacking”. Journal of the Earth and Space Physics, 46, 39-48. doi:10.22059/jesphys.2020.281801.1007119 
+
 [5] M. Safarkhani*, T. Shirzad [2019]. “Improving C1 and C3 Empirical Green's Functions from ambient seismic noise in NW Iran using RMS ratio stacking method”. Journal of Seismology, 23, 787-799. doi: 10.1007/s10950- 019-09834-1 
+
 [6] M. Safarkhani*, T. Shirzad [2019]. “The Weighted RMS stacking to retrieve empirical Green's functions from ambient seismic noise”. International Conferences of Seismology and Earthquake Engineering (SEE8)
+
 [7] M. Safarkhani, T. Shirzad* [2017]. “Investigation of scattered coda correlation functions from noise correlation functions, in retrieving optimized empirical Green's functions in Azerbaijan Region, Iran”. Journal of the Earth and Space Physics, 43, 323-337. doi:10.22059/jesphys.2017.60286
 
 ---
