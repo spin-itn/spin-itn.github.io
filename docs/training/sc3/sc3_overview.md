@@ -32,7 +32,7 @@ Attendees will be expected to bring their own laptops on which to conduct the pr
 
 
 ## Schedule 
-A preliminary schedule can be found [here](https://docs.google.com/document/d/1DcfPWzSwqqhhH1ZFYfdOCANxjzUST5-Ikg274SABGw0/edit#).
+[A schedule can be found here](https://docs.google.com/document/d/1DcfPWzSwqqhhH1ZFYfdOCANxjzUST5-Ikg274SABGw0/edit#).
 
 - Sunday March 19th: Arrival
 - March 19th - March 24th: Short Course program
