@@ -28,7 +28,9 @@ I joined LMU Munich in 2021 as a PhD student in Computational Seismology under t
 ---
 __Publication__
 
-Niu, Z., Li, Q., Moradian, O. (2023), Moment Tensor and Stress Inversion Solutions of Acoustic Emissions during Compression and Tensile Fracturing in Crystalline Rocks. Journal of Rock Mechanics and Geotechnical Engineering (Accepted).
+Niu, Z., Gabriel, A. A., & Igel, H. (2023). Numerical Simulation and Uncertainty Quantification of Models for Coseismic Damage and Healing of Rocks in 1D, 2D and 3D (No. EGU23-4450). Copernicus Meetings.
+
+Niu, Z., Li, B. Q., & Moradian, O. (2023). Moment tensor and stress inversion solutions of acoustic emissions during compression and tensile fracturing in crystalline rocks. Journal of Rock Mechanics and Geotechnical Engineering.
 
 Niu, Z., Gabriel, A. A., May, D., Sens-Schönfelder, C., & Igel, H. (2022). A Discontinuous-Galerkin approach to model non-classical nonlinearity observed from lab to global scales (No. EGU22-10523). Copernicus Meetings.
 
