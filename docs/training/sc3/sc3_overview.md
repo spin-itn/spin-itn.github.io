@@ -42,6 +42,14 @@ Note that the short course program in Pitlochry starts early morning on 20.03. A
 {: style="text-align: justify;"}
 
 
+## Arrival into Edinburgh
+For arrivals by train into Edinburgh, the final destination will be <b>Edinburgh Waverley Train Station</b>, located in the centre of the city. If you are making your own way from Edinburgh to Pitlochry, there are connecting trains that can take you directly from Waverley. See [scotrail.co.uk](https://www.scotrail.co.uk/) for details on departures and ticket prices.
+
+For those arriving via the airport, a bus or tram can be taken to reach the city centre. Both the tram and the Airlink 100 bus depart every 10 minutes from just outside the airport terminal exit and arrive at St. Andrew Square, just a few minutes walk from Edinburgh Waverley Train Station. Tickets can be bought from vending machines next to the tram station if taking the tram, or directly from the bus driver if taking the Airlink 100.
+
+More information about the provided bus from Edinburgh to Pitlochry will be provided soon.
+
+
 ## Location and Venue
 
 <img src="/assets/images/ws3/atholl-palace-hotel.jpg" alt="SPIN WS3 venue: Atholl Palace Hotel" width="80%"/>
