@@ -29,7 +29,7 @@ The SPIN Highland Retreat is a structured workshop designed to inspire new ideas
 - March 29th Departure
 
 ## Arrival into Edinburgh
-For arrivals by train into Edinburgh, the final destination will be <b>Edinburgh Waverley Train Station<b>, located in the centre of the city. If you are making your own way from Edinburgh to Pitlochry, there are connecting trains that can take you directly from Waverley. See [scotrail.co.uk](https://www.scotrail.co.uk/) for details on departures and ticket prices.
+For arrivals by train into Edinburgh, the final destination will be <b>Edinburgh Waverley Train Station</b>, located in the centre of the city. If you are making your own way from Edinburgh to Pitlochry, there are connecting trains that can take you directly from Waverley. See [scotrail.co.uk](https://www.scotrail.co.uk/) for details on departures and ticket prices.
 
 For those arriving via the airport, a bus or tram can be taken to reach the city centre. Both the tram and the Airlink 100 bus depart every 10 minutes from just outside the airport terminal exit and arrive at St. Andrew Square, just a few minutes walk from Edinburgh Waverley Train Station. Tickets can be bought from vending machines next to the tram station if taking the tram, or directly from the bus driver if taking the Airlink 100.
 
