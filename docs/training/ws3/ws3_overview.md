@@ -61,10 +61,13 @@ To limit the carbon footprint of the meeting, we encourage you to travel by trai
 Bring warm & water-proof clothes & sturdy walking boots/shoes!
 
 There is an optional excursion offered on both the short course and workshop to a local whisky distillery: [Blair Athol Distillery](https://www.malts.com/en-gb/distilleries/blair-athol). On the short course this will be in the afternoon on the 23rd of March and on the workshop this will be on the afternoon of the 25th March. Attending the tour of the distillery will cost an additional £10.
+You can find a map with the route to the distillery [here](/assets/images/ws3/Maps/Map_HotelGarden_EdradourDistillery.pdf). 
+{: style="text-align: justify;"}
 
 There will be an opportunity for a free afternoon towards the end of the workshop to explore surrounding Pitlochry. Activities can include fishing, cycling, and a visit to Blair Atholl Castle or the Killiecrankie battle site.
+{: style="text-align: justify;"}
 
-
+You will  find maps for two walks up nearby hills: [Faskally](/assets/images/ws3/Maps/Map_Faskally.pdf) and [Ben-Y-Vrackie](/assets/images/ws3/Maps/Map_Ben-Y-Vrackie.pdf).  
 {: style="text-align: justify;"}
 
 ## Accommodation
