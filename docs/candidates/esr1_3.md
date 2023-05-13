@@ -39,17 +39,17 @@ The seismological community has recently shown a growing interest in using rotat
 1. In homogeneous mediums with localized shallow velocity changes. I examined two case studies where I introduced a velocity anomaly causing a 10% and 70% decrease in velocity, respectively. I evaluated the sensitivity of these new observables in terms of phase shift and amplitude change. My results indicate that the wavefield gradients exhibit a highly localized effect, with larger amplitudes near the interface between the medium and the anomaly, whereas further away from it, they behave similarly to the wavefield itself.
 
 {: style="text-align: justify;"}
-![](/candidates/files/esr1_3_2.pdf)
+![](/candidates/files/esr1_3_2.png)
 <span>*Scattered field εxx vs dx/dt, a seismic anomaly is located beneath the 9th receiver.*</span>
 {: style="text-align: justify;"}
 
 {: style="text-align: justify;"}
-![](/candidates/files/esr1_3_3.pdf)
+![](/candidates/files/esr1_3_3.png)
 <span>*Energy decay in the late coda.*</span>
 {: style="text-align: justify;"}
 
 {: style="text-align: justify;"}
-![](/candidates/files/esr1_3_4.pdf)
+![](/candidates/files/esr1_3_4.png)
 <span>*Ratio of the longitudinal and shear wave energy, comparison between SEM and MC computations.*</span>
 {: style="text-align: justify;"}
 
