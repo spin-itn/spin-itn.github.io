@@ -43,6 +43,8 @@ The seismological community has recently shown a growing interest in using rotat
 <span>*Scattered field εxx vs dx/dt, a seismic anomaly is located beneath the 9th receiver.*</span>
 {: style="text-align: justify;"}
 
+2. In high scattering medium. In this case I have successfully concluded a preliminary phase dedicated to understand if my simulations are able to correctly represent the propagation of seismic waves in scattering mediums.
+
 {: style="text-align: justify;"}
 ![](/candidates/files/esr1_3_3.png)
 <span>*Energy decay in the late coda.*</span>
