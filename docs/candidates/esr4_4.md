@@ -10,7 +10,7 @@ has_children: false
 ## SPIN ESR 4.4: Distributed Acoustic Sensing and Volcano-seismology
 
 ---
-__Name__: Sergio Diaz-Meza    <img src="/candidates/files/ESR4_4_1.png" alt="drawing" width="300" style="float:right"/>
+__Name__: Sergio Diaz-Meza    <img src="/candidates/files/esr4_4_1.png" alt="drawing" width="300" style="float:right"/>
 
 __Institution__: GFZ Helmholtz Centre Potsdam
 
