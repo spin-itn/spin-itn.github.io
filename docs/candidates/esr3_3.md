@@ -15,7 +15,7 @@ __Name__: Julius Grimm      <img src="/candidates/files/esr3_3_1.jpg" alt="drawi
 
 __Institution__: ISTerre, University of Grenoble Alpes (UGA)
 
-__Email__: 
+__Email__: julius.grimm@univ-grenoble-alpes.fr
 
 ---
 __Introduction__
