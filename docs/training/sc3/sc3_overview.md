@@ -42,7 +42,7 @@ Note that the short course program in Pitlochry starts early morning on 20.03. A
 {: style="text-align: justify;"}
 
 ## Group photo
-<img src="/assets/images/ws3/SPIN_SC3_group_photo_compressed.JPG" width="100%" alt="Group photo Short Course 3" /> 
+<img src="/assets/images/ws3/SPIN_SC3_group_photo_compressed.jpg" width="100%" alt="Group photo Short Course 3" /> 
 
 ## Arrival into Edinburgh
 For arrivals by train into Edinburgh, the final destination will be <b>Edinburgh Waverley Train Station</b>, located in the centre of the city. If you are making your own way from Edinburgh to Pitlochry, there are connecting trains that can take you directly from Waverley. See [scotrail.co.uk](https://www.scotrail.co.uk/) for details on departures and ticket prices.

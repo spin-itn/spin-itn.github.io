@@ -29,7 +29,7 @@ The SPIN Highland Retreat is a structured workshop designed to inspire new ideas
 - March 29th Departure
 
 ## Group photo
-<img src="/assets/images/ws3/SPIN_WS3_group_picture_compressed.JPG" width="100%" alt="Group photo Workshop 3" />
+<img src="/assets/images/ws3/SPIN_WS3_group_picture_compressed.jpg" width="100%" alt="Group photo Workshop 3" />
 
 ## Arrival into Edinburgh
 For arrivals by train into Edinburgh, the final destination will be <b>Edinburgh Waverley Train Station</b>, located in the centre of the city. If you are making your own way from Edinburgh to Pitlochry, there are connecting trains that can take you directly from Waverley. See [scotrail.co.uk](https://www.scotrail.co.uk/) for details on departures and ticket prices.
