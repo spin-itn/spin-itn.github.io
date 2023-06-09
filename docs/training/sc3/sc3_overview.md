@@ -41,6 +41,8 @@ Attendees will be expected to bring their own laptops on which to conduct the pr
 Note that the short course program in Pitlochry starts early morning on 20.03. A coach leaves from Edinburgh to the conference venue on 19.03 in the afternoon. It therefore makes sense to arrive in Edinburgh the morning of the 19.03. 
 {: style="text-align: justify;"}
 
+## Group photo
+<img src="/assets/images/ws3/SPIN_SC3_group_photo_compressed.JPG" width="100%" alt="Group photo Short Course 3" /> 
 
 ## Arrival into Edinburgh
 For arrivals by train into Edinburgh, the final destination will be <b>Edinburgh Waverley Train Station</b>, located in the centre of the city. If you are making your own way from Edinburgh to Pitlochry, there are connecting trains that can take you directly from Waverley. See [scotrail.co.uk](https://www.scotrail.co.uk/) for details on departures and ticket prices.
