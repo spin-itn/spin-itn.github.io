@@ -20,7 +20,7 @@ __Email__: fdervisi@bgs.ac.uk
 __Introduction__
 
 My name is Foteini (pronounced Fotiní) and I’m from Thessaloniki, Greece. I graduated from the Aristotle University of Thessaloniki with an integrated master’s degree in Electrical and Computer Engineering and I also hold a master’s degree in Artificial Intelligence and Data Analytics from the University of Macedonia. After conducting research in wireless communications, non-intrusive load monitoring and machine learning both in academic and industry environments, I joined the SPIN ITN in
-October 2022 as an early-stage researcher at the British Geological Survey in Edinburgh and a PhD student at the University of Edinburgh. My PhD project concerns the development of next-generation physics-based earthquake forecasts. I am excited to embark on this PhD project as it is a project at the intersection of machine learning, which is my area of expertise, and geosciences, which is a field that I am keep to delve into. During my free time I enjoy going for walks, playing tennis, cooking and reading.
+October 2022 as an early-stage researcher at the British Geological Survey in Edinburgh and a PhD student at the University of Edinburgh. My PhD project concerns the development of machine learning based earthquake monitoring and forecasting workflows. I am excited to embark on this PhD project as it is a project at the intersection of machine learning, which is my area of expertise, and geosciences, which is a field that I am keen to delve into. During my free time I enjoy going for walks, playing tennis, cooking and reading.
 
 ---
 __Publication__
