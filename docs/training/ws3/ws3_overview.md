@@ -48,10 +48,12 @@ Mohammad-Amin Aminian          | Paris Cité University                         
  Jean-Paul Montagner       | Paris Cité University                                       | History/Overview of Inverse problems. Legacy of A. Tarantola                      |  [Slides](https://collaboration.cen.uni-hamburg.de/download/attachments/96141455/2023_SPIN_SC3_JP_Montagner_Tarantola.pdf?api=v2)      | [Youtube]() 
  Klaus Mosegaard      |  Facing the Curse of Dimensionality                                        | University of Copenhagen                      |  [Slides](https://collaboration.cen.uni-hamburg.de/download/attachments/96141455/2023_SPIN_SC3_Klaus_Mosegaard.pdf?api=v2)      | [Youtube]()
  Thomas Bodin       | University of Lyon                                       | Reconciling Scales in Seismology                      |  [Slides](https://collaboration.cen.uni-hamburg.de/download/attachments/96141455/2023_SPIN_SC3_Thomas_Bodin_Downscaling.pdf?api=v2)      | [Youtube]() 
- Thomas Bodin       | University of Lyon                                       | Transdimentsional Inference in the Geosciences                     |  [Slides](https://collaboration.cen.uni-hamburg.de/download/attachments/96141455/2023_SPIN_SC3_Thomas_Bodin_TransDimensional.pdf?api=v2)      | [Youtube]()
-  
-
-
+ Thomas Bodin       | University of Lyon                                       | Transdimentsional Inference in the Geosciences                     |  [Slides](https://collaboration.cen.uni-hamburg.de/download/attachments/96141455/2023_SPIN_SC3_Thomas_Bodin_TransDimensional.pdf?api=v2)      | [Youtube]() 
+ Sebastian Noe       | ETH Zurich                                        | Instrumentation: Forward Modelling for a Phase Transmission Fiber Optic Cable                     |  [Slides]()      | [Youtube]() 
+ Sergio Diaz       | GFZ German Research Centre for Geosciences                                        | Distributed Dynamic Strain Sensing (DDSS) and Volcano-Seismology                     |  [Slides]()      | [Youtube]() 
+ Zihua Niu       | Ludwig Maximilian University of Munich                                       | Simulation of waves in nonlinear rocks                      |  [Slides]()      | [Youtube]() 
+ Tjeerd Kiers       | Swiss Federal Institute of Technology in Zurich                                        | Monitoring of an Alpine landslide using dense seismic observations: combining Distributed Acoustic Sensing and 1000 autonomous nodes                      |  [Slides]()      | [Youtube]() 
+ 
 ## Schedule
 [A schedule can be found here](https://docs.google.com/document/d/1Jng7qQ339FD4B1JpRUmaxh-MuBijVFSZxtEfL_H5dqE/edit#). 
 - Friday March 24th: Arrival
