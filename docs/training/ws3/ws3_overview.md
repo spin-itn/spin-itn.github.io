@@ -52,8 +52,12 @@ Mohammad-Amin Aminian          | Paris Cité University                         
  Sebastian Noe       | ETH Zurich                                        | Instrumentation: Forward Modelling for a Phase Transmission Fiber Optic Cable                     |  [Slides]()      | [Youtube]() 
  Sergio Diaz       | GFZ German Research Centre for Geosciences                                        | Distributed Dynamic Strain Sensing (DDSS) and Volcano-Seismology                     |  [Slides]()      | [Youtube]() 
  Zihua Niu       | Ludwig Maximilian University of Munich                                       | Simulation of waves in nonlinear rocks                      |  [Slides]()      | [Youtube]() 
- Tjeerd Kiers       | Swiss Federal Institute of Technology in Zurich                                        | Monitoring of an Alpine landslide using dense seismic observations: combining Distributed Acoustic Sensing and 1000 autonomous nodes                      |  [Slides]()      | [Youtube]() 
- 
+ Tjeerd Kiers       | Swiss Federal Institute of Technology in Zurich                                        | Monitoring of an Alpine landslide using dense seismic observations: combining Distributed Acoustic Sensing and 1000 autonomous nodes                      |  [Slides]()      | [Youtube]()
+ Mirko Bracale               | Grenoble Alpes University                                   | Wavefield gradient methods to monitor the Earth’s crust                                                                                                                                                                               | [Slides]()      | [Youtube]()
+ Manuel Asnar                | German Research Centre for Geosciences                      | Rock damage and healing: a laboratory perspective                                                                                                                                                   | [Slides]()       | [Youtube]()
+ Foteini Dervisi               | University of Edinburgh                      | Machine learning based earthquake monitoring and forecasting                                                                                                                                                   | [Slides]()       | [Youtube]()
+
+
 ## Schedule
 [A schedule can be found here](https://docs.google.com/document/d/1Jng7qQ339FD4B1JpRUmaxh-MuBijVFSZxtEfL_H5dqE/edit#). 
 - Friday March 24th: Arrival
