@@ -24,7 +24,8 @@ The "Interrogating the Restless Earth" short course will provide all of the math
 This Short Course is designed for post-graduate students undertaking Masters or Ph. D. level degrees, post-doctoral associates and fellows, and academic, governmental, industrial or other professional staff. Attendees will be expected to have a reasonable background in scientific mathematical methods at undergraduate level, as provided for example by an undergraduate degree in quantitative, physical scientific, engineering, mathematics or informatics. 
 {: style="text-align: justify;"}
 
-The presentations by the lecturers during the short course were uploaded to our Youtube channel (@spin-itn). {: style="text-align: justify;"}
+The presentations by the lecturers during the short course were uploaded to our Youtube channel (@spin-itn). 
+{: style="text-align: justify;"}
 
   Lecturer                    | Affiliation                                                 | Presentation Title                                                                                                                                                                                                                                  | Presentation Slides                                                                                                                         | Presentation Video 
 -----------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------
@@ -57,6 +58,9 @@ Note that the short course program in Pitlochry starts early morning on 20.03. A
 
 ## Group photo
 <img src="/assets/images/ws3/SPIN_SC3_group_photo_compressed.jpg" alt="Group photo Short Course 3" width="100%"/> 
+
+## Art
+Check out the great sketches by Francesco! [pdf 1](/assets/images/ws3/2023_SPIN_SC3_drawings_by_Francesco_2.pdf) [pdf 2](2023_SPIN_SC3_drawings_by_Francesco.pdf)
 
 ## Arrival into Edinburgh
 For arrivals by train into Edinburgh, the final destination will be <b>Edinburgh Waverley Train Station</b>, located in the centre of the city. If you are making your own way from Edinburgh to Pitlochry, there are connecting trains that can take you directly from Waverley. See [scotrail.co.uk](https://www.scotrail.co.uk/) for details on departures and ticket prices.
