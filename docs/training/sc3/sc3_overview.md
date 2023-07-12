@@ -62,6 +62,9 @@ Note that the short course program in Pitlochry starts early morning on 20.03. A
 ## Art
 Check out the great sketches by Francesco! [pdf 1](/assets/images/ws3/2023_SPIN_SC3_drawings_by_Francesco_2.pdf) [pdf 2](2023_SPIN_SC3_drawings_by_Francesco.pdf)
 
+## Climate impact
+You can find a short analysis of the climate impact of the 3rd Short course and Workshop in Pitlochry [here](https://docs.google.com/document/d/11gSv0UDrQwlvLPPiOrOfi797H5uG3ZCjq9H7tmaWM-s/edit?usp=sharing)
+
 ## Arrival into Edinburgh
 For arrivals by train into Edinburgh, the final destination will be <b>Edinburgh Waverley Train Station</b>, located in the centre of the city. If you are making your own way from Edinburgh to Pitlochry, there are connecting trains that can take you directly from Waverley. See [scotrail.co.uk](https://www.scotrail.co.uk/) for details on departures and ticket prices.
 
