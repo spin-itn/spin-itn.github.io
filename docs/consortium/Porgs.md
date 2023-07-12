@@ -21,4 +21,4 @@ nav_order: 2
 | <img src="/assets/images/partners-logos/UNantes_logo.svg" alt="drawing" width="80"/> | [University of Nantes](https://lpg-umr6112.fr/index.php?option=com_content&view=article&id=1439&Itemid=231&lang=en) (CNRS)                             | FR      | Yann Capdeville           |
 | <img src="/assets/images/partners-logos/LAUM_logo.png" alt="drawing" width="160"/> | [Laboratoire d’Acoustique de l’University de Mans](http://sciences.univ-lemans.fr/fr/recherche/les-laboratoires/laum-laboratoire-d-acoustique-de-l-universite-du-mans.html) (CNRS) | FR      | Vincent Tournat           |
 | <img src="/assets/images/partners-logos/EFEHR_logo.png" alt="drawing" width="80"/>| [European Facilities for Earthquake Hazard and Risk](http://www.efehr.org/en/home/)      | CH      | Fabrice Cotton            |
-| | [University of Padua](https://www.unipd.it/en/)      | IT      | Piero Poli            |
+|<img src="/assets/images/partners-logos/padua_logo.png" alt="drawing" width="60"/> | [University of Padua](https://www.unipd.it/en/)      | IT      | Piero Poli            |
