@@ -63,7 +63,7 @@ Note that the short course program in Pitlochry starts early morning on 20.03. A
 Check out the great sketches by Francesco! [pdf 1](/assets/images/ws3/2023_SPIN_SC3_drawings_by_Francesco_2.pdf) [pdf 2](2023_SPIN_SC3_drawings_by_Francesco.pdf)
 
 ## Climate impact
-You can find a short analysis of the climate impact of the 3rd Short course and Workshop in Pitlochry [here](https://docs.google.com/document/d/11gSv0UDrQwlvLPPiOrOfi797H5uG3ZCjq9H7tmaWM-s/edit?usp=sharing)
+You can find a short analysis of the climate impact of the 3rd Short course and Workshop in Pitlochry [here](https://docs.google.com/document/d/e/2PACX-1vR6OVIdIBMro7w9A5LN_Y76_zxcn3jPsMZnuehz0sq23GTEz1F8RpKrzpy7d8zPA9ZoCEOE6sMxJ-Wg/pub)
 
 ## Arrival into Edinburgh
 For arrivals by train into Edinburgh, the final destination will be <b>Edinburgh Waverley Train Station</b>, located in the centre of the city. If you are making your own way from Edinburgh to Pitlochry, there are connecting trains that can take you directly from Waverley. See [scotrail.co.uk](https://www.scotrail.co.uk/) for details on departures and ticket prices.
@@ -127,10 +127,8 @@ The cost of rooms for the entire short course is
 Registration will open in January 2023. Note that the number of places for the short course is limited, and will preferentially go to Early-Career Researchers (PhD or early Postdoc) who are able to provide a convincing motivation for participation. If you are selected for the short course, you will also have priority for participation in the SPIN workshop that follows on after the short course if you pre-register for both.
 {: style="text-align: justify;"}
 
-__Would you like to attend the short course?__
-Please pre-register for the short course by filling in the survey here: [https://tinyurl.com/register-spin-sc3](https://tinyurl.com/register-spin-sc3). Only pre-registered participants will receive a payment link to register and attend.
-
-_Pre-registration closes on __February 8th__, and is necessary for all attendees._
+__Would you like to attend the short course?__   
+_Pre-registration closes on __February 8th, 2023__, and is necessary for all attendees._
 
 We welcome participants from outside the SPIN network! However, note that the number of places for the short course is limited, and will preferentially go to Early-Career Researchers (PhD or early Postdoc) who are able to provide a convincing motivation for participation.
 
