@@ -63,6 +63,10 @@ Anne Mangeney                | Paris Cité University                           
 ## Group photo
 <img src="/assets/images/ws3/SPIN_WS3_group_picture_compressed.jpg" alt="Group photo Workshop 3" width="99%"  />
 
+
+## Climate impact
+You can find a short analysis of the climate impact of the 3rd Short course and Workshop in Pitlochry [here](https://docs.google.com/document/d/11gSv0UDrQwlvLPPiOrOfi797H5uG3ZCjq9H7tmaWM-s/edit?usp=sharing)
+
 ## Arrival into Edinburgh
 For arrivals by train into Edinburgh, the final destination will be <b>Edinburgh Waverley Train Station</b>, located in the centre of the city. If you are making your own way from Edinburgh to Pitlochry, there are connecting trains that can take you directly from Waverley. See [scotrail.co.uk](https://www.scotrail.co.uk/) for details on departures and ticket prices.
 
