@@ -23,8 +23,13 @@ I am from Anhui, China, a geophysics PhD student at LMU. I am very interested in
 
 ---
 __Publication__
+Tang, L., Igel, H., & Montagner, J. P. (2023). Single-point dispersion measurement of surface waves combining translation, rotation and strain in weakly anisotropic media: theory. Geophysical Journal International, 235(1), 24-47.
+
+Tang, L., Igel, H., & Montagner, J. P. (2023). Seismic anisotropy from 6c observations (No. EGU23-1069). Copernicus Meetings.
 
 Tang, L., & Fang, X. (2022). Application of six-component ambient seismic noise data for high-resolution imaging of lateral heterogeneities. Geophysical Journal International, 232(3), 1756-1784.
+
+Tang, L., Igel, H., & Montagner, J. P. (2022, December). Characteristics of Rotational Motions of Surface Waves in Weakly Anisotropic Media: Theory. In AGU Fall Meeting Abstracts (Vol. 2022, pp. S11B-03).
 
 Sun, Y., Xu, X., & Tang, L. (2022). Gradient normalized least-squares reverse-time migration imaging technology. Frontiers in Earth Science, 10, 893445.
 
