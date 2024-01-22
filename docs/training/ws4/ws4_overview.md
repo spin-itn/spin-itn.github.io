@@ -36,7 +36,7 @@ If you arrive at Zurich Airport, there are direct trains to Zurich HB every ~10 
 
 From <b>Zurich HB</b> an hourly train IC3 leaves for Chur (every hour:38). In <b>Chur</b>, you must take the train RE7 to <b>Disentis/Mustér</b>, where you change to a regional train R45 to <b>Acla da Fontuana</b>. The resort is within 8 min walking distance from the Acla da Fontuana train station. Please find an example connection for the 11th of May below. More connections can be found on <a href="https://www.sbb.ch/en">sbb.ch</a>.
 
-<img src="/assets/images/ws4/Connection_Zurich_Disentis.png" alt="Zurich-Disentis (SBB)" width="50%"/> <img src="/assets/images/ws4/Location_AclaDaFontauna_Resort.png" alt="AclaDaFontauna-Catrina Resort" width="50%"/>
+<img src="/assets/images/ws4/Connection_Zurich-Disentis.png" alt="Zurich-Disentis (SBB)" width="50%"/> <img src="/assets/images/ws4/Location_AclaDaFontauna_Resort.png" alt="AclaDaFontauna-Catrina Resort" width="50%"/>
 
 
 ## Location and Venue
