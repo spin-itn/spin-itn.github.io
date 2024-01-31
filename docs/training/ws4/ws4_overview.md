@@ -30,11 +30,11 @@ The fourth SPIN will focus on hazard monitoring strategies, environmental seismo
 
 ## Travel to Zurich and Disentis
 
-The closest train station to Catrina Experience Resort is <b>Acla da Fontuana</b>.
+The closest train station to Catrina Experience Resort is <b>Acla da Fontauna</b>.
 
 If you arrive at Zurich Airport, there are direct trains to Zurich HB every ~10 min.
 
-From <b>Zurich HB</b> an hourly train IC3 leaves for Chur (every hour:38). In <b>Chur</b>, you must take the train RE7 to <b>Disentis/Mustér</b>, where you change to a regional train R45 to <b>Acla da Fontuana</b>. The resort is within 8 min walking distance from the Acla da Fontuana train station. Please find an example connection for the 11th of May below. More connections can be found on <a href="https://www.sbb.ch/en">sbb.ch</a>.
+From <b>Zurich HB</b> an hourly train IC3 leaves for Chur (every hour:38). In <b>Chur</b>, you must take the train RE7 to <b>Disentis/Mustér</b>, where you change to a regional train R45 to <b>Acla da Fontauna</b>. The resort is within 8 min walking distance from the Acla da Fontauna train station. Please find an example connection for the 11th of May below. More connections can be found on <a href="https://www.sbb.ch/en">sbb.ch</a>.
 
 <img src="/assets/images/ws4/Connection_Zurich-Disentis.png" alt="Zurich-Disentis (SBB)" width="50%"/> <img src="/assets/images/ws4/Location_AclaDaFontauna_Resort.png" alt="AclaDaFontauna-Catrina Resort" width="50%"/>
 
@@ -50,7 +50,15 @@ To limit the carbon footprint of the meeting, we encourage you to travel by trai
 
 
 ## Excursion and activities
-An excursion will be offered during the workshop, more information will follow. 
+During the workshop, two excursions will be offered.
+The <b>Rheinschlucht</b> is one of Switzerland's most impressive natural reserves. The 13 km-long canyon is often advertised as the “Swiss Grand Canyon”. The area around the borders of the Rheinschlucht are showing various landscapes. You’ll find everything from steep mountain slopes to wide flood plains.
+
+During the second excursion, you will have the opportunity to visit the <b>Cuolm da Vi landslide</b>. Ongoing studies are currently monitoring the landslide, aiming to understand better the processes that control the landslide’s behavior.
+
+You will have some free time during the course. If you plan to explore the region during that time (or before/after the workshop), here is a link to some possible activities, such as finding crystals, visiting a monastery, or climbing: 
+<a href="https://en.catrina-experience.com/aktivitaet">activities</a>
+  
+
 {: style="text-align: justify;"}
 
 ## Accommodation
