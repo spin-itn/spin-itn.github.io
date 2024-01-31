@@ -36,7 +36,7 @@ If you arrive at Zurich Airport, there are direct trains to Zurich HB every ~10 
 
 From <b>Zurich HB</b> an hourly train IC3 leaves for Chur (every hour:38). In <b>Chur</b>, you must take the train RE7 to <b>Disentis/Mustér</b>, where you change to a regional train R45 to <b>Acla da Fontauna</b>. The resort is within 8 min walking distance from the Acla da Fontauna train station. Please find an example connection for the 11th of May below. More connections can be found on <a href="https://www.sbb.ch/en">sbb.ch</a>.
 
-<img src="/assets/images/ws4/Connection_Zurich-Disentis.png" alt="Zurich-Disentis (SBB)" width="100%"/>
+<img src="/assets/images/ws4/Connection_Zurich-Disentis.png" alt="Zurich-Disentis (SBB)" width="70%"/>
 
 
 ## Location and Venue
@@ -59,7 +59,7 @@ The <b>Rheinschlucht</b> is one of Switzerland's most impressive natural reserve
 
 During the second excursion, you will have the opportunity to visit the <b>Cuolm da Vi landslide</b>. Ongoing studies are currently monitoring the landslide, aiming to understand better the processes that control the landslide’s behavior.
 
-<img src="/assets/images/ws4/Cuolm.jpg.jpg" alt="Cuolm da Vi" width="100%"/>
+<img src="/assets/images/ws4/Cuolm.png" alt="Cuolm da Vi" width="100%"/>
 
 You will have some free time during the course. If you plan to explore the region during that time (or before/after the workshop), here is a link to some possible activities, such as finding crystals, visiting a monastery, or climbing: 
 <a href="https://en.catrina-experience.com/aktivitaet">activities</a>
