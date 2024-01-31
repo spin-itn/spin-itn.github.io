@@ -36,12 +36,14 @@ If you arrive at Zurich Airport, there are direct trains to Zurich HB every ~10 
 
 From <b>Zurich HB</b> an hourly train IC3 leaves for Chur (every hour:38). In <b>Chur</b>, you must take the train RE7 to <b>Disentis/Mustér</b>, where you change to a regional train R45 to <b>Acla da Fontauna</b>. The resort is within 8 min walking distance from the Acla da Fontauna train station. Please find an example connection for the 11th of May below. More connections can be found on <a href="https://www.sbb.ch/en">sbb.ch</a>.
 
-<img src="/assets/images/ws4/Connection_Zurich-Disentis.png" alt="Zurich-Disentis (SBB)" width="50%"/> <img src="/assets/images/ws4/Location_AclaDaFontauna_Resort.png" alt="AclaDaFontauna-Catrina Resort" width="50%"/>
+<img src="/assets/images/ws4/Connection_Zurich-Disentis.png" alt="Zurich-Disentis (SBB)" width="100%"/>
 
 
 ## Location and Venue
-The workshop will take place south of Zurich, in the Alps. The venue is located in Disentis: <a href="https://www.catrina-experience.com/">Catrina Experience Resort</a>. 
+The workshop will take place south of Zurich, in the Alps. The venue is located in Disentis: <a href="https://www.catrina-experience.com/">Catrina Experience Resort</a>. It is a modern resort in the middle of the Swiss Alps.
 {: style="text-align: justify;"}
+
+<img src="/assets/images/ws4/CatrinaResort.jpg" alt="Resort" width="50%"/>
 
 <iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/hadzii/clozt20es002a01qtcsozf6pq.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#3.9/45.13/14.11" title="SPIN-WS4" style="border:none;"></iframe>
 
@@ -53,7 +55,11 @@ To limit the carbon footprint of the meeting, we encourage you to travel by trai
 During the workshop, two excursions will be offered.
 The <b>Rheinschlucht</b> is one of Switzerland's most impressive natural reserves. The 13 km-long canyon is often advertised as the “Swiss Grand Canyon”. The area around the borders of the Rheinschlucht are showing various landscapes. You’ll find everything from steep mountain slopes to wide flood plains.
 
+<img src="/assets/images/ws4/Rheinschlucht.jpg" alt="Rheinschlucht" width="50%"/>
+
 During the second excursion, you will have the opportunity to visit the <b>Cuolm da Vi landslide</b>. Ongoing studies are currently monitoring the landslide, aiming to understand better the processes that control the landslide’s behavior.
+
+<img src="/assets/images/ws4/Cuolm.jpg.jpg" alt="Cuolm da Vi" width="100%"/>
 
 You will have some free time during the course. If you plan to explore the region during that time (or before/after the workshop), here is a link to some possible activities, such as finding crystals, visiting a monastery, or climbing: 
 <a href="https://en.catrina-experience.com/aktivitaet">activities</a>
