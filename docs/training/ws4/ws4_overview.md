@@ -68,14 +68,22 @@ You will have some free time during the course. If you plan to explore the regio
 {: style="text-align: justify;"}
 
 ## Accommodation
-During the SPIN Workshop, you will stay at the hotel rooms in the conference venue. You do not need to reserve the rooms yourself, this will be part of the registration process.<br>
-Accommodation is all full board (the price includes breakfast, lunch and dinner), and both lunch and dinner will be vegetarian for everybody to reduce the climate impact of the event. There will be an option to share a twin room or have a room to yourself. <br>
-The estimated registration fee for the short course will be added soon. 
+During the SPIN Workshop, you will stay in the hotel rooms in the conference venue. You do not need to reserve the rooms yourself, this will be part of the registration process.<br>
+Accommodation is all full board (the price includes breakfast, lunch, and dinner), and both lunch and dinner will be vegetarian for everybody to reduce the climate impact of the event. There will be an option to share a twin room or have a room to yourself. <br>
+
+You have the following accommodation options:
+
+Single room occupancy apartment full board (the price includes breakfast, lunch, and dinner)   CHF 950.00 <br>
+Double room occupancy apartment full board (the price includes breakfast, lunch, and dinner)   CHF 700.00 <br>
+Single room hostel full board (the price includes breakfast, lunch, and dinner)                CHF 545.00 <br>
+Double room hostel full board (the price includes breakfast, lunch, and dinner)                CHF 397.50 <br>
+
+The registration fee for the workshop is CHF 110.00.
 {: style="text-align: justify;"}
 
 ## Registration
 We welcome participants from outside the SPIN network!  <br>
-Registration will open in January 2024. Note that the number of places for the workshop is limited, and will preferentially go to Early-Career Researchers (PhD or early Postdoc) who are able to provide a convincing motivation for participation. If you are selected for the short course happening before the workshop, you will also have priority for participation in the workshop if you pre-register for both.
+Registration will open in January 2024. Note that the number of places for the workshop is limited, and will preferentially go to Early-Career Researchers (PhD or early Postdoc) who can provide a convincing motivation for participation. If you are selected for the short course happening before the workshop, you will also have priority for participation in the workshop if you pre-register for both.
 {: style="text-align: justify;"}
 
 __Would you like to attend the workshop?__   
