@@ -7,5 +7,5 @@ nav_order: 5
 ---
 
 # SPIN Research output
-_coming soon..._
+_coming soon...!_
 
