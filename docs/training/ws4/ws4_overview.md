@@ -29,6 +29,10 @@ The fourth SPIN will focus on hazard monitoring strategies, environmental seismo
 - May 16th: Departure
 
 ## Travel to Zurich and Disentis
+Zurich main station (Zurich HB) is well connected to other big European cities by day- and night-trains.<br>
+There is a daily night train from Berlin (leaving: 21:01) to Zurich (arriving at 9:05)<br>
+The daily night train from Hamburg (leaving 21:52) arrives at 10:05 in Zurich <br>
+Every day, 5 direct trains from Paris arrive at Zurich HB <br>
 
 The closest train station to Catrina Experience Resort is <b>Acla da Fontauna</b>.
 
@@ -76,7 +80,9 @@ You have the following accommodation options:
 Single room occupancy apartment full board (the price includes breakfast, lunch, and dinner)   CHF 950.00 <br>
 Double room occupancy apartment full board (the price includes breakfast, lunch, and dinner)   CHF 700.00 <br>
 Single room hostel full board (the price includes breakfast, lunch, and dinner)                CHF 545.00 <br>
-Double room hostel full board (the price includes breakfast, lunch, and dinner)                CHF 397.50 <br>
+Double room hostel full board (the price includes breakfast, lunch, and dinner)                CHF 397.50 <be>
+
+Each participant must pay for the accommodation after the workshop on-site by credit card. Please check with your bank that the price does not exceed your credit card limit.
 
 The registration fee for the workshop is CHF 110.00.
 {: style="text-align: justify;"}
