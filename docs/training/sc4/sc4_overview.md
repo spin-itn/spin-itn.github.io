@@ -18,7 +18,9 @@ _6-11 May, 2024_
 
 ## Scientific Program
 
-Will be added soon.
+The short course is focused on soft skills and is centered around two topics: preparing and managing (large) projects, and presenting scientific content to a broad audience.
+
+Confirmed instructors are Heiner Igel (LMU Munich) and Celine Hadziioannou (Uni Hamburg).
 {: style="text-align: justify;"}
 
 ## Schedule 
