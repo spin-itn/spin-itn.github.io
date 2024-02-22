@@ -18,7 +18,11 @@ _11-16 May, 2024_
 
 
 ## Scientific Program
-The fourth SPIN will focus on hazard monitoring strategies, environmental seismology (e.g. monitoring permafrost, landslides, glaciers..), structural health monitoring and beyond. The scientific programme will follow soon. 
+The fourth SPIN workshop is centered around the theme „New hazard monitoring strategies in Earth Sciences and beyond“. We will discuss the impact of the SPIN developments on specific applications in the fields of natural hazards at national observatories, exploration seismics, engineering, and beyond, and address questions like how can SPIN research contribute to new hazard monitoring strategies?
+
+The program includes presentations on scientific advancements, industry practices, and policy questions followed by group and panel discussions to examine the challenges and opportunities of natural hazard monitoring and mitigation that we expect for the next 5 to 10 years.
+
+Confirmed speakers are: Malgorzata Chmiel (Geoazur) Marine Denolle (UW), Eric Larose (ISTerre Grenoble), Laurent Marescot (RMS), and Yves Bonanomi (BONANOMI-GÜBELI AG).
 {: style="text-align: justify;"}
 
   
