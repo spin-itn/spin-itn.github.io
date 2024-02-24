@@ -8,8 +8,13 @@ nav_order: 5
 
 # SPIN Research output
 
+| Authors | Title | Journal | Year of publication | Link | Status |
+|:--------|:------|:--------|:--------------------|:-----|:-------|
+| <div style="width: 200px">S. Schippkus, R. Snieder, C. Hadziioannou</div> | <div style="width: 400px">Seismic interferometry in the presence of an isolated noise source</div> | <div style="width: 150px">Seismica</div> | <div style="width: 100px">2022</div> | <div style="width: 300px">[https://seismica.library.mcgill.ca/article/view/195/286](https://seismica.library.mcgill.ca/article/view/195/286)</div> | <div style="width: 100px">published</div> |
+| <div style="width: 200px">S..Diaz-Meza, P. Jousset, G. Currenti, C. Wollin, C. Krawczyk, A. Clarke A. Chalari</div> | <div style="width: 400px">On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy)</div> | <div style="width: 150px">Sensors</div> | <div style="width: 100px">2023</div> | <div style="width: 300px">[https://www.mdpi.com/1424-8220/23/7/3735](https://www.mdpi.com/1424-8220/23/7/3735)</div> | <div style="width: 100px">published</div> |
+
 |Authors|Title|Journal|Year of publication|link|Status|
-|:----|:-------|:--|:--|:----|:------|
+|:----|:----|:----|:----|:----|:----|
 |S. Schippkus, R. Snieder, C. Hadziioannou|Seismic interferometry in the presence of an isolated noise source|Seismica|2022|https://seismica.library.mcgill.ca/article/view/195/286|published|
 |S..Diaz-Meza, P. Jousset, G. Currenti, C. Wollin, C. Krawczyk, A. Clarke A. Chalari|On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy) |Sensors|2023|https://www.mdpi.com/1424-8220/23/7/3735|published|
 |L. Tang, H. Igel, J.-P. Montagner|Single-point dispersion measurement of surface waves combining translation, rotation and strain in weakly anisotropic media: theory |Geophysical Journal International|2023|https://doi.org/10.1093/gji/ggad199 |published|
