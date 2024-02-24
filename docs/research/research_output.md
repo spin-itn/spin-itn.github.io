@@ -8,9 +8,32 @@ nav_order: 5
 
 # SPIN Research output
 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Data 1   | Data 2   | Data 3   |
-| Data 4   | Data 5   | Data 6   |
+|Authors|Title|Journal|Year of publication|link|Status|
+|:----|:----|:----|:----|:----|:----|
+|S. Schippkus, R. Snieder, C. Hadziioannou|Seismic interferometry in the presence of an isolated noise source|Seismica|2022|https://seismica.library.mcgill.ca/article/view/195/286|published|
+|S..Diaz-Meza, P. Jousset, G. Currenti, C. Wollin, C. Krawczyk, A. Clarke A. Chalari|On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy) |Sensors|2023|https://www.mdpi.com/1424-8220/23/7/3735|published|
+|L. Tang, H. Igel, J.-P. Montagner|Single-point dispersion measurement of surface waves combining translation, rotation and strain in weakly anisotropic media: theory |Geophysical Journal International|2023|https://doi.org/10.1093/gji/ggad199 |published|
+|Wuestefeld A., Z. J. Spica, K. Aderhold et al. including P. Jousset, T. Kiers, S. Dias-Meza|The Global DAS Month of February 2023|Seismological Research Letters|2023|https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023|published|
+|S. Noe, D. Husmann, N. Müller, J. Morel, A. Fichtner|Long-range fiber-optic earthquake sensing by active phase noise cancellation |Scientific Reports|2023|https://www.nature.com/articles/s41598-023-41161-x|published|
+| | | | | | |
+|S. Schippkus, M. Safarkhani, C. Hadziioannou|Continuous isolated noise sources induce repeating   waves in the coda of ambient noise correlations|Seismica|2023|https://seismica.library.mcgill.ca/article/view/499/1174|published|
+| | | | | | |
+|L. Tang, H. Igel, J.-P. Montagner|Anisotropy and deformation processes in Southern California from rotational observations|Geophysical Research Letters|2023|https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970|published|
+|D. Strutz, A. Curtis|VARIATIONAL BAYESIAN EXPERIMENTAL DESIGN FOR GEOPHYSICAL APPLICATIONS|Geophysical Journal International|2023|https://doi.org/10.1093/gji/ggad492|published|
+|Z. Niu, A. A.  Gabriel, L. Seelinger, H.  Igel|Modeling and Quantifying Parameter Uncertainty of Co-seismic Non-classical Nonlinearity in Rocks|JGR: Solid Earth |2024|https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149|published|
+|J. Bott, S. Noe, et al.|Density and strength variations in the mantle lithosphere and the distribution of intraplate earthquakes|Communications Earth & Environment| | |submitted|
+|M. Bracale, H. Pedersen, R. Brossier, M. Campullo|Effect of shallow heterogeneities on wavefield gradients measurements| | | |in preparation|
+|M. Safarkhani, S. Schippkus, C. Hadziioannou|Investigation of stability of coda correlation wevefields in presence of isolated noise sources| | | |in preparation|
+|L. Tang, H. Igel, J.-P. Montagner|Seismic anisotropy from 6C ground motions of ambient seismic noise|JGR: Solid Earth| | |nearly ready for submission|
+|S. Noe et al.|The Collaborative Seismic Earth Model: Generation 2| | | |in preparation|
+|S. Noe et al.|Pyber – full-waveform inversion for Distributed acoustic sensing| | | |in preparation|
+|T. Schouten, S. Noe et al.|Full-waveform inversion reveals diverse origins of lower mantle positive wave speed anomalies| | | |in preparation|
+|J. Igel, S. Noe, et al.|Modelling Wavefield Complexity for Submarine DAS Data from Santorini (Greece)| | | |in preparation|
+|Bracale, Shapiro, Campillo, Brossier, Melnik|The Influence of Multiple Scattered Waves on the Spectral Stability of Volcanic Tremors| | | |in preparation|
+|Bracale, Brossier, Campillo|Eﬀect of shallow heterogeneites on waveﬁeld gradients measurements| | | |in preparation|
+|Bracale, Brossier, Margerin, Campillo|Scattered wave simulation and coda reliability in 3D elastic media: new insights for the advancement of inversion studies| | | |in preparation|
+|M.-A. Aminian et al.|Shear Velocity Imaging of the Indian Ocean Subsurface: A Compliance Function Analysis from Broadband Ocean-Bottom Stations from the RUM-RHUM Experiment| | | |in preparation|
+|D. Andrew et al.|Exploring the significance of higher-order harmonics in rocks| | | |in preparation|
+|F. Dervisi et al. |New trends in data acquisition, analysis and interpretation of seismicity|Journal Earth, Planets and Space, special issue | | |in preparation|
 
-edit1
+edit2
