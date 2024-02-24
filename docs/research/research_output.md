@@ -13,7 +13,7 @@ nav_order: 5
     <th>Authors</th>
     <th>Title</th>
     <th>Journal</th>
-    <th>Year<br>of<br>publication</th>
+    <th style="width: 50%;">Year<br>of<br>publication</th>
     <th>Link</th>
     <th>Status</th>
   </tr>
@@ -211,4 +211,3 @@ https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149</a></td>
   </tr>
 </table>
 
-edit5
