@@ -13,7 +13,7 @@ nav_order: 5
     <th>Authors</th>
     <th>Title</th>
     <th>Journal</th>
-    <th style="width: 50%;">Year<br>of<br>publication</th>
+    <th align="center">Year<br>of<br>publication</th>
     <th>Link</th>
     <th>Status</th>
   </tr>
@@ -21,7 +21,7 @@ nav_order: 5
     <td>S. Schippkus, R. Snieder, C. Hadziioannou</td>
     <td>Seismic interferometry in the presence of an isolated noise source</td>
     <td>Seismica</td>
-    <td>2022</td>
+    <td align="center">2022</td>
     <td><a href="https://seismica.library.mcgill.ca/article/view/195/286">https://seismica.library.mcgill.ca/article/view/195/286</a></td>
     <td>published</td>
   </tr>
@@ -29,7 +29,7 @@ nav_order: 5
     <td>S.Diaz-Meza, P. Jousset, G. Currenti, C. Wollin, C. Krawczyk, A. Clarke A. Chalari</td>
     <td>On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy)</td>
     <td>Sensors</td>
-    <td>2023</td>
+    <td align="center">2023</td>
     <td><a href="https://www.mdpi.com/1424-8220/23/7/3735">
 https://www.mdpi.com/1424-8220/23/7/3735</a></td>
     <td>published</td>
@@ -38,7 +38,7 @@ https://www.mdpi.com/1424-8220/23/7/3735</a></td>
     <td>L. Tang, H. Igel, J.-P. Montagner</td>
     <td>Single-point dispersion measurement of surface waves combining translation, rotation and strain in weakly anisotropic media: theory </td>
     <td>Geophysical Journal International</td>
-    <td>2023</td>
+    <td align="center">2023</td>
     <td><a href="https://doi.org/10.1093/gji/ggad199">
 https://doi.org/10.1093/gji/ggad199</a></td>
     <td>published</td>
@@ -47,7 +47,7 @@ https://doi.org/10.1093/gji/ggad199</a></td>
     <td>Wuestefeld A., Z. J. Spica, K. Aderhold et al. including P. Jousset, T. Kiers, S. Dias-Meza</td>
     <td>The Global DAS Month of February 2023</td>
     <td>Seismological Research Letters</td>
-    <td>2023</td>
+    <td align="center">2023</td>
     <td><a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023">
 https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023</a></td>
     <td>published</td>
@@ -56,7 +56,7 @@ https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/T
     <td>S. Noe, D. Husmann, N. Müller, J. Morel, A. Fichtner</td>
     <td>Long-range fiber-optic earthquake sensing by active phase noise cancellation</td>
     <td>Scientific Reports</td>
-    <td>2023</td>
+    <td align="center">2023</td>
     <td><a href="https://www.nature.com/articles/s41598-023-41161-x">
 https://www.nature.com/articles/s41598-023-41161-x</a></td>
     <td>published</td>
@@ -65,7 +65,7 @@ https://www.nature.com/articles/s41598-023-41161-x</a></td>
     <td>S. Schippkus, M. Safarkhani, C. Hadziioannou</td>
     <td>Continuous isolated noise sources induce repeating   waves in the coda of ambient noise correlations</td>
     <td>Seismica</td>
-    <td>2023</td>
+    <td align="center">2023</td>
     <td><a href="https://seismica.library.mcgill.ca/article/view/499/1174">
 https://seismica.library.mcgill.ca/article/view/499/1174</a></td>
     <td>published</td>
@@ -74,7 +74,7 @@ https://seismica.library.mcgill.ca/article/view/499/1174</a></td>
     <td>L. Tang, H. Igel, J.-P. Montagner</td>
     <td>Anisotropy and deformation processes in Southern California from rotational observations</td>
     <td>Geophysical Research Letters</td>
-    <td>2023</td>
+    <td align="center">2023</td>
     <td><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970">
 https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970</a></td>
     <td>published</td>
@@ -83,7 +83,7 @@ https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970</a></td>
     <td>D. Strutz, A. Curtis</td>
     <td>VARIATIONAL BAYESIAN EXPERIMENTAL DESIGN FOR GEOPHYSICAL APPLICATIONS</td>
     <td>Geophysical Journal International</td>
-    <td>2023</td>
+    <td align="center">2023</td>
     <td><a href="https://doi.org/10.1093/gji/ggad492">
 https://doi.org/10.1093/gji/ggad492</a></td>
     <td>published</td>
@@ -92,7 +92,7 @@ https://doi.org/10.1093/gji/ggad492</a></td>
     <td>Z. Niu, A. A.  Gabriel, L. Seelinger, H.  Igel</td>
     <td>Modeling and Quantifying Parameter Uncertainty of Co-seismic Non-classical Nonlinearity in Rocks</td>
     <td>JGR: Solid Earth</td>
-    <td>2024</td>
+    <td align="center">2024</td>
     <td><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149">
 https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149</a></td>
     <td>published</td>
