@@ -8,7 +8,7 @@ nav_order: 5
 
 # SPIN Research output
 
-<table style="width:100%">
+<table>
   <tr>
     <th>Authors</th>
     <th>Title</th>
