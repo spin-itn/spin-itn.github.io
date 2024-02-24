@@ -8,7 +8,7 @@ nav_order: 5
 
 # SPIN Research output
 
-<table style="width:100%">
+<table style="width:120%">
   <tr>
     <th>Authors</th>
     <th>Title</th>
@@ -25,8 +25,36 @@ nav_order: 5
     <td><a href="https://seismica.library.mcgill.ca/article/view/195/286">https://seismica.library.mcgill.ca/article/view/195/286</a></td>
     <td>published</td>
   </tr>
+  <tr>
+    <td>S.Diaz-Meza, P. Jousset, G. Currenti, C. Wollin, C. Krawczyk, A. Clarke A. Chalari</td>
+    <td>On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy)</td>
+    <td>Sensors</td>
+    <td>2023</td>
+    <td><a href="https://www.mdpi.com/1424-8220/23/7/3735">
+https://www.mdpi.com/1424-8220/23/7/3735</a></td>
+    <td>published</td>
+  </tr>
+  <tr>
+    <td>L. Tang, H. Igel, J.-P. Montagner</td>
+    <td>Single-point dispersion measurement of surface waves combining translation, rotation and strain in weakly anisotropic media: theory </td>
+    <td>Geophysical Journal International</td>
+    <td>2023</td>
+    <td><a href="https://doi.org/10.1093/gji/ggad199">
+https://doi.org/10.1093/gji/ggad199</a></td>
+    <td>published</td>
+  </tr>
+  <tr>
+    <td>Wuestefeld A., Z. J. Spica, K. Aderhold et al. including P. Jousset, T. Kiers, S. Dias-Meza</td>
+    <td>The Global DAS Month of February 2023</td>
+    <td>Seismological Research Letters</td>
+    <td>2023</td>
+    <td><a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023">
+https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023</a></td>
+    <td>published</td>
+  </tr>
   <!-- Add more rows as needed -->
 </table>
+
 
 |Authors|Title|Journal|Year of publication|link|Status|
 |:------|:----|:------|:------------------|:---|:-----|
