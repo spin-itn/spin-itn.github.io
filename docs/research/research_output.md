@@ -8,6 +8,46 @@ nav_order: 5
 
 # SPIN Research output
 
+
+<table style="width:auto;">
+  <colgroup>
+    <col style="width:20%;"> <!-- Adjust the width of the first column -->
+    <col style="width:30%;"> <!-- Adjust the width of the second column -->
+    <col style="width:15%;"> <!-- Adjust the width of the third column -->
+    <col style="width:10%;"> <!-- Adjust the width of the fourth column -->
+    <col style="width:25%;"> <!-- Adjust the width of the fifth column -->
+    <col style="width:15%;"> <!-- Adjust the width of the sixth column -->
+  </colgroup>
+  <tr>
+    <th>Authors</th>
+    <th>Title</th>
+    <th>Journal</th>
+    <th align="center">Year<br>of<br>publication</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>S. Schippkus, R. Snieder, C. Hadziioannou</td>
+    <td>Seismic interferometry in the presence of an isolated noise source</td>
+    <td>Seismica</td>
+    <td align="center">2022</td>
+    <td><a href="https://seismica.library.mcgill.ca/article/view/195/286">https://seismica.library.mcgill.ca/article/view/195/286</a></td>
+    <td>published</td>
+  </tr>
+  <tr>
+    <td>S.Diaz-Meza, P. Jousset, G. Currenti, C. Wollin, C. Krawczyk, A. Clarke A. Chalari</td>
+    <td>On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy)</td>
+    <td>Sensors</td>
+    <td align="center">2023</td>
+    <td><a href="https://www.mdpi.com/1424-8220/23/7/3735">
+https://www.mdpi.com/1424-8220/23/7/3735</a></td>
+    <td>published</td>
+  </tr>
+</table>
+
+
+
+
 <table>
   <tr>
     <th>Authors</th>
