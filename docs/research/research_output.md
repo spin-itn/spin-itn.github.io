@@ -31,72 +31,72 @@ nav_order: 5
     <td>Seismic interferometry in the presence of an isolated noise source</td>
     <td>Seismica</td>
     <td align="center">2022</td>
-    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/195/286">Link to paper</a></td>
-    <td>published</td>
+    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/195/286">link</a></td>
+    <td align="center">published</td>
   </tr>
   <tr>
     <td>S.Diaz-Meza, P. Jousset, G. Currenti, C. Wollin, C. Krawczyk, A. Clarke A. Chalari</td>
     <td>On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy)</td>
     <td>Sensors</td>
     <td align="center">2023</td>
-    <td align="center"><a href="https://www.mdpi.com/1424-8220/23/7/3735">Link to paper</a></td>
-    <td>published</td>
+    <td align="center"><a href="https://www.mdpi.com/1424-8220/23/7/3735">link</a></td>
+    <td align="center">published</td>
   </tr>
   <tr>
     <td>L. Tang, H. Igel, J.-P. Montagner</td>
     <td>Single-point dispersion measurement of surface waves combining translation, rotation and strain in weakly anisotropic media: theory </td>
     <td>Geophysical Journal International</td>
     <td align="center">2023</td>
-    <td align="center"><a href="https://doi.org/10.1093/gji/ggad199">Link to paper</a></td>
-    <td>published</td>
+    <td align="center"><a href="https://doi.org/10.1093/gji/ggad199">link</a></td>
+    <td align="center">published</td>
   </tr>
   <tr>
     <td>Wuestefeld A., Z. J. Spica, K. Aderhold et al. including P. Jousset, T. Kiers, S. Dias-Meza</td>
     <td>The Global DAS Month of February 2023</td>
     <td>Seismological Research Letters</td>
     <td align="center">2023</td>
-    <td align="center"><a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023">Link to paper</a></td>
-    <td>published</td>
+    <td align="center"><a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023">link</a></td>
+    <td align="center">published</td>
   </tr>
   <tr>
     <td>S. Noe, D. Husmann, N. Müller, J. Morel, A. Fichtner</td>
     <td>Long-range fiber-optic earthquake sensing by active phase noise cancellation</td>
     <td>Scientific Reports</td>
     <td align="center">2023</td>
-    <td align="center"><a href="https://www.nature.com/articles/s41598-023-41161-x">Link to paper</a></td>
-    <td>published</td>
+    <td align="center"><a href="https://www.nature.com/articles/s41598-023-41161-x">link</a></td>
+    <td align="center">published</td>
   </tr>
   <tr>
     <td>S. Schippkus, M. Safarkhani, C. Hadziioannou</td>
     <td>Continuous isolated noise sources induce repeating   waves in the coda of ambient noise correlations</td>
     <td>Seismica</td>
     <td align="center">2023</td>
-    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/499/1174">Link to paper</a></td>
-    <td>published</td>
+    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/499/1174">link</a></td>
+    <td align="center">published</td>
   </tr>
   <tr>
     <td>L. Tang, H. Igel, J.-P. Montagner</td>
     <td>Anisotropy and deformation processes in Southern California from rotational observations</td>
     <td>Geophysical Research Letters</td>
     <td align="center">2023</td>
-    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970">Link to paper</a></td>
-    <td>published</td>
+    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970">link</a></td>
+    <td align="center">published</td>
   </tr>
   <tr>
     <td>D. Strutz, A. Curtis</td>
     <td>Variational Bayesian experimental design for geophysical applications</td>
     <td>Geophysical Journal International</td>
     <td align="center">2023</td>
-    <td align="center"><a href="https://doi.org/10.1093/gji/ggad492">Link to paper</a></td>
-    <td>published</td>
+    <td align="center"><a href="https://doi.org/10.1093/gji/ggad492">link</a></td>
+    <td align="center">published</td>
   </tr>
   <tr>
     <td>Z. Niu, A. A.  Gabriel, L. Seelinger, H.  Igel</td>
     <td>Modeling and Quantifying Parameter Uncertainty of Co-seismic Non-classical Nonlinearity in Rocks</td>
     <td>JGR: Solid Earth</td>
     <td align="center">2024</td>
-    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149">Link to paper</a></td>
-    <td>published</td>
+    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149">link</a></td>
+    <td align="center">published</td>
   </tr>
   <tr>
     <td>J. Bott, S. Noe, et al.</td>
@@ -104,7 +104,7 @@ nav_order: 5
     <td>Communications Earth & Environment</td>
     <td> </td>
     <td><a href=""></a></td>
-    <td>submitted</td>
+    <td align="center">submitted</td>
   </tr>
   <tr>
     <td>M. Bracale, H. Pedersen, R. Brossier, M. Campullo</td>
@@ -112,7 +112,7 @@ nav_order: 5
     <td> </td>
     <td> </td>
     <td><a href=""></a></td>
-    <td>in preparation</td>
+    <td align="center">in preparation</td>
   </tr>
   <tr>
     <td>M. Safarkhani, S. Schippkus, C. Hadziioannou</td>
@@ -120,7 +120,7 @@ nav_order: 5
     <td> </td>
     <td> </td>
     <td><a href=""></a></td>
-    <td>in preparation</td>
+    <td align="center">in preparation</td>
   </tr>
   <tr>
     <td>L. Tang, H. Igel, J.-P. Montagner</td>
@@ -128,7 +128,7 @@ nav_order: 5
     <td>JGR: Solid Earth</td>
     <td> </td>
     <td><a href=""></a></td>
-    <td>nearly ready for submission</td>
+    <td align="center">nearly ready for submission</td>
   </tr>
   <tr>
     <td>S. Noe et al.</td>
@@ -136,7 +136,7 @@ nav_order: 5
     <td> </td>
     <td> </td>
     <td><a href=""></a></td>
-    <td>in preparation</td>
+    <td align="center">in preparation</td>
   </tr>
   <tr>
     <td>S. Noe et al.</td>
@@ -144,7 +144,7 @@ nav_order: 5
     <td> </td>
     <td> </td>
     <td><a href=""></a></td>
-    <td>in preparation</td>
+    <td align="center">in preparation</td>
   </tr>
   <tr>
     <td>T. Schouten, S. Noe et al.</td>
@@ -152,7 +152,7 @@ nav_order: 5
     <td> </td>
     <td> </td>
     <td><a href=""></a></td>
-    <td>in preparation</td>
+    <td align="center">in preparation</td>
   </tr>
   <tr>
     <td>J. Igel, S. Noe, et al.</td>
@@ -160,7 +160,7 @@ nav_order: 5
     <td> </td>
     <td> </td>
     <td><a href=""></a></td>
-    <td>in preparation</td>
+    <td align="center">in preparation</td>
   </tr>
   <tr>
     <td>Bracale, Shapiro, Campillo, Brossier, Melnik</td>
@@ -168,7 +168,7 @@ nav_order: 5
     <td> </td>
     <td> </td>
     <td><a href=""></a></td>
-    <td>in preparation</td>
+    <td align="center">in preparation</td>
   </tr>
   <tr>
     <td>Bracale, Brossier, Campillo</td>
@@ -176,7 +176,7 @@ nav_order: 5
     <td> </td>
     <td> </td>
     <td><a href=""></a></td>
-    <td>in preparation</td>
+    <td align="center">in preparation</td>
   </tr>
   <tr>
     <td>Bracale, Brossier, Margerin, Campillo</td>
@@ -184,7 +184,7 @@ nav_order: 5
     <td> </td>
     <td> </td>
     <td><a href=""></a></td>
-    <td>in preparation</td>
+    <td align="center">in preparation</td>
   </tr>
   <tr>
     <td>M.-A. Aminian et al.</td>
@@ -192,7 +192,7 @@ nav_order: 5
     <td> </td>
     <td> </td>
     <td><a href=""></a></td>
-    <td>in preparation</td>
+    <td align="center">in preparation</td>
   </tr>
   <tr>
     <td>D. Andrew et al.</td>
@@ -200,7 +200,7 @@ nav_order: 5
     <td> </td>
     <td> </td>
     <td><a href=""></a></td>
-    <td>in preparation</td>
+    <td align="center">in preparation</td>
   </tr>
   <tr>
     <td>F. Dervisi et al.</td>
@@ -208,7 +208,7 @@ nav_order: 5
     <td>Journal Earth, Planets and Space, special issue</td>
     <td> </td>
     <td><a href=""></a></td>
-    <td>in preparation</td>
+    <td align="center">in preparation</td>
   </tr>
 </table>
 
