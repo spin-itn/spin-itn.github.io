@@ -8,7 +8,6 @@ nav_order: 5
 
 # SPIN Research output
 
-
 <table style="width:auto;">
   <colgroup>
     <col style="width:20%;"> <!-- Adjust the width of the first column -->
@@ -211,9 +210,3 @@ nav_order: 5
     <td align="center">in preparation</td>
   </tr>
 </table>
-
-| Authors                                     | Title                                                                                     | Journal           | Year of publication | Link                                                                              | Status    |
-|---------------------------------------------|-------------------------------------------------------------------------------------------|-------------------|---------------------|-----------------------------------------------------------------------------------|----------|
-| S. Schippkus, R. Snieder, C. Hadziioannou  | Seismic interferometry in the presence of an isolated noise source                         | Seismica          | 2022                | [Link](https://seismica.library.mcgill.ca/article/view/195/286)                   | published|
-| S.Diaz-Meza, P. Jousset, G. Currenti, C. Wollin, C. Krawczyk, A. Clarke A. Chalari | On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy) | Sensors  | 2023                | [Link](https://www.mdpi.com/1424-8220/23/7/3735)                                 | published|
-
