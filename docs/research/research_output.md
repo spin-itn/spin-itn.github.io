@@ -31,7 +31,7 @@ nav_order: 5
     <td>Seismic interferometry in the presence of an isolated noise source</td>
     <td>Seismica</td>
     <td align="center">2022</td>
-    <td><a href="https://seismica.library.mcgill.ca/article/view/195/286">Press Here</a></td>
+    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/195/286">Link to paper</a></td>
     <td>published</td>
   </tr>
   <tr>
