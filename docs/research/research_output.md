@@ -84,7 +84,7 @@ nav_order: 5
   </tr>
   <tr>
     <td>D. Strutz, A. Curtis</td>
-    <td>VARIATIONAL BAYESIAN EXPERIMENTAL DESIGN FOR GEOPHYSICAL APPLICATIONS</td>
+    <td>Variational Bayesian experimental design for geophysical applications</td>
     <td>Geophysical Journal International</td>
     <td align="center">2023</td>
     <td align="center"><a href="https://doi.org/10.1093/gji/ggad492">Link to paper</a></td>
