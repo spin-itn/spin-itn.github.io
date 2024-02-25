@@ -16,7 +16,7 @@ nav_order: 5
     <col style="width:15%;"> <!-- Adjust the width of the third column -->
     <col style="width:5%;"> <!-- Adjust the width of the fourth column -->
     <col style="width:25%;"> <!-- Adjust the width of the fifth column -->
-    <col style="width:15%;"> <!-- Adjust the width of the sixth column -->
+    <col style="width:10%;"> <!-- Adjust the width of the sixth column -->
   </colgroup>
   <tr>
     <th>Authors</th>
