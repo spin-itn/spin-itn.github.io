@@ -39,8 +39,7 @@ nav_order: 5
     <td>On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy)</td>
     <td>Sensors</td>
     <td align="center">2023</td>
-    <td><a href="https://www.mdpi.com/1424-8220/23/7/3735">
-https://www.mdpi.com/1424-8220/23/7/3735</a></td>
+    <td align="center"><a href="https://www.mdpi.com/1424-8220/23/7/3735">Link to paper</a></td>
     <td>published</td>
   </tr>
   <tr>
@@ -48,8 +47,7 @@ https://www.mdpi.com/1424-8220/23/7/3735</a></td>
     <td>Single-point dispersion measurement of surface waves combining translation, rotation and strain in weakly anisotropic media: theory </td>
     <td>Geophysical Journal International</td>
     <td align="center">2023</td>
-    <td><a href="https://doi.org/10.1093/gji/ggad199">
-https://doi.org/10.1093/gji/ggad199</a></td>
+    <td align="center"><a href="https://doi.org/10.1093/gji/ggad199">Link to paper</a></td>
     <td>published</td>
   </tr>
   <tr>
@@ -57,8 +55,7 @@ https://doi.org/10.1093/gji/ggad199</a></td>
     <td>The Global DAS Month of February 2023</td>
     <td>Seismological Research Letters</td>
     <td align="center">2023</td>
-    <td><a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023">
-https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023</a></td>
+    <td align="center"><a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023">Link to paper</a></td>
     <td>published</td>
   </tr>
   <tr>
@@ -66,8 +63,7 @@ https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/T
     <td>Long-range fiber-optic earthquake sensing by active phase noise cancellation</td>
     <td>Scientific Reports</td>
     <td align="center">2023</td>
-    <td><a href="https://www.nature.com/articles/s41598-023-41161-x">
-https://www.nature.com/articles/s41598-023-41161-x</a></td>
+    <td align="center"><a href="https://www.nature.com/articles/s41598-023-41161-x">Link to paper</a></td>
     <td>published</td>
   </tr>
   <tr>
@@ -75,8 +71,7 @@ https://www.nature.com/articles/s41598-023-41161-x</a></td>
     <td>Continuous isolated noise sources induce repeating   waves in the coda of ambient noise correlations</td>
     <td>Seismica</td>
     <td align="center">2023</td>
-    <td><a href="https://seismica.library.mcgill.ca/article/view/499/1174">
-https://seismica.library.mcgill.ca/article/view/499/1174</a></td>
+    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/499/1174">Link to paper</a></td>
     <td>published</td>
   </tr>
   <tr>
@@ -84,8 +79,7 @@ https://seismica.library.mcgill.ca/article/view/499/1174</a></td>
     <td>Anisotropy and deformation processes in Southern California from rotational observations</td>
     <td>Geophysical Research Letters</td>
     <td align="center">2023</td>
-    <td><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970">
-https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970</a></td>
+    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970">Link to paper</a></td>
     <td>published</td>
   </tr>
   <tr>
@@ -93,8 +87,7 @@ https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970</a></td>
     <td>VARIATIONAL BAYESIAN EXPERIMENTAL DESIGN FOR GEOPHYSICAL APPLICATIONS</td>
     <td>Geophysical Journal International</td>
     <td align="center">2023</td>
-    <td><a href="https://doi.org/10.1093/gji/ggad492">
-https://doi.org/10.1093/gji/ggad492</a></td>
+    <td align="center"><a href="https://doi.org/10.1093/gji/ggad492">Link to paper</a></td>
     <td>published</td>
   </tr>
   <tr>
@@ -102,8 +95,7 @@ https://doi.org/10.1093/gji/ggad492</a></td>
     <td>Modeling and Quantifying Parameter Uncertainty of Co-seismic Non-classical Nonlinearity in Rocks</td>
     <td>JGR: Solid Earth</td>
     <td align="center">2024</td>
-    <td><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149">
-https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149</a></td>
+    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149">Link to paper</a></td>
     <td>published</td>
   </tr>
   <tr>
