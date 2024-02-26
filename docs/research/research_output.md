@@ -58,7 +58,7 @@ nav_order: 5
     <td align="center">Published</td>
   </tr>
   <tr>
-    <td>S. Noe, D. Husmann, N. Müller, J. Morel, A. Fichtner</td>
+    <td>J. Bott, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, D. Husmann, N. Müller, J. Morel, A. Fichtner</td>
     <td>Long-range fiber-optic earthquake sensing by active phase noise cancellation</td>
     <td align="center">Scientific Reports</td>
     <td align="center">2023</td>
@@ -90,7 +90,7 @@ nav_order: 5
     <td align="center">Published</td>
   </tr>
   <tr>
-    <td>Z. Niu, A. A. Gabriel, L. Seelinger, H. Igel</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR3_2">Z. Niu</a>, A. A. Gabriel, L. Seelinger, H. Igel</td>
     <td>Modeling and Quantifying Parameter Uncertainty of Co-seismic Non-classical Nonlinearity in Rocks</td>
     <td align="center">JGR: Solid Earth</td>
     <td align="center">2024</td>
@@ -210,5 +210,3 @@ nav_order: 5
     <td align="center">In preparation</td>
   </tr>
 </table>
-
-
