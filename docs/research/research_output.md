@@ -66,7 +66,7 @@ nav_order: 5
     <td align="center">Published</td>
   </tr>
   <tr>
-    <td><a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, M. Safarkhani, <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a></td>
+    <td><a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, <a href="https://spin-itn.eu/candidates/ESR3_4">M. Safarkhani</a>, <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a></td>
     <td>Continuous isolated noise sources induce repeating waves in the coda of ambient noise correlations</td>
     <td align="center">Seismica</td>
     <td align="center">2023</td>
