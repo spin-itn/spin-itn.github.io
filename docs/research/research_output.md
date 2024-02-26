@@ -42,7 +42,7 @@ nav_order: 5
     <td align="center">Published</td>
   </tr>
   <tr>
-    <td>L. Tang, H. Igel, J.-P. Montagner</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang, H. Igel, J.-P. Montagner</td>
     <td>Single-point dispersion measurement of surface waves combining translation, rotation and strain in weakly anisotropic media: theory </td>
     <td align="center">Geophysical Journal International</td>
     <td align="center">2023</td>
