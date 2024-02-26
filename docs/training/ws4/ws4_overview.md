@@ -32,11 +32,23 @@ Confirmed speakers are: Malgorzata Chmiel (Geoazur) Marine Denolle (UW), Eric La
 - May 12th - May 16th: Workshop program
 - May 16th: Departure
 
+
+## Location and Venue
+The workshop will take place south of Zurich, in the Alps. The venue is located in Disentis: <a href="https://www.catrina-experience.com/">Catrina Experience Resort</a>. It is a modern resort in the middle of the Swiss Alps.
+{: style="text-align: justify;"}
+
+<img src="/assets/images/ws4/CatrinaResort.jpg" alt="Resort" width="50%"/>
+
+<iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/hadzii/clozt20es002a01qtcsozf6pq.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#3.9/45.13/14.11" title="SPIN-WS4" style="border:none;"></iframe>
 ## Travel to Zurich and Disentis
+To limit the carbon footprint of the meeting, we encourage you to travel by train if possible! 
+{: style="text-align: justify;"}
+
 Zurich main station (Zurich HB) is well connected to other big European cities by day- and night-trains.<br>
 There is a daily night train from Berlin (leaving: 21:01) to Zurich (arriving at 9:05)<br>
 The daily night train from Hamburg (leaving 21:52) arrives at 10:05 in Zurich <br>
 Every day, 5 direct trains from Paris arrive at Zurich HB <br>
+A great website to find information on train (and ferry) connections from almost anywhere in Europe is <b><a href="https://www.seat61.com/">https://www.seat61.com/</a></b>. <br>
 
 The closest train station to Catrina Experience Resort is <b>Acla da Fontauna</b>.
 
@@ -46,17 +58,6 @@ From <b>Zurich HB</b> an hourly train IC3 leaves for Chur (every hour:38). In <b
 
 <img src="/assets/images/ws4/Connection_Zurich-Disentis.png" alt="Zurich-Disentis (SBB)" width="70%"/>
 
-
-## Location and Venue
-The workshop will take place south of Zurich, in the Alps. The venue is located in Disentis: <a href="https://www.catrina-experience.com/">Catrina Experience Resort</a>. It is a modern resort in the middle of the Swiss Alps.
-{: style="text-align: justify;"}
-
-<img src="/assets/images/ws4/CatrinaResort.jpg" alt="Resort" width="50%"/>
-
-<iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/hadzii/clozt20es002a01qtcsozf6pq.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#3.9/45.13/14.11" title="SPIN-WS4" style="border:none;"></iframe>
-
-To limit the carbon footprint of the meeting, we encourage you to travel by train if possible! 
-{: style="text-align: justify;"}
 
 
 ## Excursion and activities
