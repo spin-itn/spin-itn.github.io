@@ -22,7 +22,7 @@ The fourth SPIN workshop is centered around the theme „New hazard monitoring s
 
 The program includes presentations on scientific advancements, industry practices, and policy questions followed by group and panel discussions to examine the challenges and opportunities of natural hazard monitoring and mitigation that we expect for the next 5 to 10 years.
 
-Confirmed speakers are: Malgorzata Chmiel (Geoazur) Marine Denolle (UW), Eric Larose (ISTerre Grenoble), Laurent Marescot (RMS), and Yves Bonanomi (BONANOMI-GÜBELI AG).
+Confirmed speakers are: Malgorzata Chmiel (Geoazur) Marine Denolle (UW), Eric Larose (ISTerre Grenoble), Laurent Marescot (RMS), and Yves Bonanomi (BONANOMI-GÜBELI AG) and all the <a href="https://spin-itn.eu/candidates/">SPIN PhD candidates!</a> 
 {: style="text-align: justify;"}
 
   
@@ -49,6 +49,7 @@ There is a daily night train from Berlin (leaving: 21:01) to Zurich (arriving at
 The daily night train from Hamburg (leaving 21:52) arrives at 10:05 in Zurich <br>
 Every day, 5 direct trains from Paris arrive at Zurich HB <br>
 A great website to find information on train (and ferry) connections from almost anywhere in Europe is <b><a href="https://www.seat61.com/">https://www.seat61.com/</a></b>. <br>
+{: style="text-align: justify;"}
 
 The closest train station to Catrina Experience Resort is <b>Acla da Fontauna</b>.
 
