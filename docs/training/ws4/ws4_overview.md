@@ -61,14 +61,10 @@ From <b>Zurich HB</b> an hourly train IC3 leaves for Chur (every hour:38). In <b
 
 
 ## Excursion and activities
-During the workshop, two excursions will be offered.
+During the workshop, an excursion to the Rheinschlucht will be offered.
 The <b>Rheinschlucht</b> is one of Switzerland's most impressive natural reserves. The 13 km-long canyon is often advertised as the “Swiss Grand Canyon”. The area around the borders of the Rheinschlucht are showing various landscapes. You’ll find everything from steep mountain slopes to wide flood plains.
 
-<img src="/assets/images/ws4/Rheinschlucht.jpg" alt="Rheinschlucht" width="50%"/>
-
-During the second excursion, you will have the opportunity to visit the <b>Cuolm da Vi landslide</b>. Ongoing studies are currently monitoring the landslide, aiming to understand better the processes that control the landslide’s behavior.
-
-<img src="/assets/images/ws4/Cuolm.png" alt="Cuolm da Vi" width="100%"/>
+<img src="/assets/images/ws4/Rheinschlucht.jpg" alt="Rheinschlucht" width="70%"/>
 
 You will have some free time during the course. If you plan to explore the region during that time (or before/after the workshop), here is a link to some possible activities, such as finding crystals, visiting a monastery, or climbing: 
 <a href="https://en.catrina-experience.com/aktivitaet">activities</a>
