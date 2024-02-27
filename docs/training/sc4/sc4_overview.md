@@ -59,12 +59,8 @@ From <b>Zurich HB</b> an hourly train IC3 leaves for Chur (every hour:38). In <b
 
 
 ## Excursion and activities
-During the workshop, two excursions will be offered.
-The <b>Rheinschlucht</b> is one of Switzerland's most impressive natural reserves. The 13 km-long canyon is often advertised as the “Swiss Grand Canyon”. The area around the borders of the Rheinschlucht are showing various landscapes. You’ll find everything from steep mountain slopes to wide flood plains.
 
-<img src="/assets/images/ws4/Rheinschlucht.jpg" alt="Rheinschlucht" width="50%"/>
-
-During the second excursion, you will have the opportunity to visit the <b>Cuolm da Vi landslide</b>. Ongoing studies are currently monitoring the landslide, aiming to understand better the processes that control the landslide’s behavior.
+During the Short Course's excursion, you will have the opportunity to visit the <b>Cuolm da Vi landslide</b>. Ongoing studies are currently monitoring the landslide, aiming to understand better the processes that control the landslide’s behavior.
 
 <img src="/assets/images/ws4/Cuolm.png" alt="Cuolm da Vi" width="100%"/>
 
