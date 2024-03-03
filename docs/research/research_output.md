@@ -10,8 +10,8 @@ nav_order: 5
 
 <table style="width:auto;">
   <colgroup>
-    <col style="width:20%;"> <!-- Adjust the width of the first column -->
-    <col style="width:30%;"> <!-- Adjust the width of the second column -->
+    <col style="width:80%;"> <!-- Adjust the width of the first column -->
+    <col style="width:20%;"> <!-- Adjust the width of the second column -->
   </colgroup>
   <tr>
     <td><a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/schippkus-sven.html">Schippkus, Sven</a>, Roel Snieder, and <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">Céline Hadziioannou</a>. "Seismic interferometry in the presence of an isolated noise source." Seismica 1.1 (2022).</td>
