@@ -34,7 +34,7 @@ nav_order: 5
     <td align="center"><a href="https://www.nature.com/articles/s41598-023-41161-x">Link</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, <a href="https://spin-itn.eu/candidates/ESR3_4">M. Safarkhani</a>, <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou. ''Continuous isolated noise sources induce repeating   waves in the coda of ambient noise correlations.'' Seismica, 2023.</a></td>
+    <td><a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, <a href="https://spin-itn.eu/candidates/ESR3_4">M. Safarkhani</a>, <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>. ''Continuous isolated noise sources induce repeating   waves in the coda of ambient noise correlations.'' Seismica, 2023.</td>
     <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/499/1174">Link</a></td>
   </tr>
   <tr>
