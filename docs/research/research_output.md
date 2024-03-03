@@ -18,7 +18,7 @@ nav_order: 5
     <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/195/286">10.26443/seismica.v1i1.195</a></td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR4_4">Diaz-Meza</a>, Sergio, et al. "On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy)." Sensors 23.7 (2023): 3735.</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR4_4">Diaz-Meza</a>, Sergio, et al. "On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy)." Sensors 23.7 (2023).</td>
     <td align="center"><a href="https://www.mdpi.com/1424-8220/23/7/3735">10.3390/s23073735</a></td>
   </tr>
   <tr>
@@ -30,7 +30,7 @@ nav_order: 5
     <td align="center"><a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023">10.1785/0220230180</a></td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_2">Noe, Sebastian</a>, et al. "Long-range fiber-optic earthquake sensing by active phase noise cancellation." arXiv preprint arXiv:2305.01468 (2023).</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_2">Noe, Sebastian</a>, et al. "Long-range fiber-optic earthquake sensing by active phase noise cancellation."(2023).</td>
     <td align="center"><a href="https://www.nature.com/articles/s41598-023-41161-x">10.48550/arXiv.2305.01468</a></td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@ nav_order: 5
     <td align="center"><a href="https://doi.org/10.1093/gji/ggad492">10.1093/gji/ggad492</a></td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR3_2">Niu, Zihua</a>, et al. "Modeling and Quantifying Parameter Uncertainty of Co‐Seismic Non‐Classical Nonlinearity in Rocks." Journal of Geophysical Research: Solid Earth 129.1 (2024): e2023JB027149.</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR3_2">Niu, Zihua</a>, et al. "Modeling and Quantifying Parameter Uncertainty of Co‐Seismic Non‐Classical Nonlinearity in Rocks." Journal of Geophysical Research: Solid Earth 129.1 (2024).</td>
     <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149">10.1029/2023JB027149</a></td>
   </tr>
   <tr>
