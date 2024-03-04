@@ -50,7 +50,7 @@ nav_order: 5
     <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149">10.1029/2023JB027149</a></td>
   </tr>
   <tr>
-    <td>J. Bott, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, et al.. ''Density and strength variations in the mantle lithosphere and the distribution of intraplate earthquakes.'' Communications Earth & Environment.</td>
+    <td>J. Bott, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, et al. ''Density and strength variations in the mantle lithosphere and the distribution of intraplate earthquakes.'' Communications Earth & Environment.</td>
     <td align="center">Submitted</td>
   </tr>
 </table>
