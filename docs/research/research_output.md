@@ -30,7 +30,7 @@ nav_order: 5
     <td align="center"><a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023">10.1785/0220230180</a></td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_2">Noe, Sebastian</a>, et al. "Long-range fiber-optic earthquake sensing by active phase noise cancellation."(2023).</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_2">Noe, Sebastian</a>, et al. "Long-range fiber-optic earthquake sensing by active phase noise cancellation." arXiv preprint arXiv:2305.01468 (2023).</td>
     <td align="center"><a href="https://www.nature.com/articles/s41598-023-41161-x">10.48550/arXiv.2305.01468</a></td>
   </tr>
   <tr>
@@ -38,11 +38,11 @@ nav_order: 5
     <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/499/1174">10.26443/seismica.v2i2.499</a></td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_1">Tang, Le</a>, Heiner Igel, and Jean-Paul Montagner. "Single-point dispersion measurement of surface waves combining translation, rotation and strain in weakly anisotropic media: theory." Geophysical Journal International 235.1 (2023): 24-47.</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_1">Tang, Le</a>, Heiner Igel, and Jean-Paul Montagner. "Anisotropy and deformation processes in Southern California from rotational observations." Geophysical Research Letters 50.23 (2023).</td>
     <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970">10.1093/gji/ggad199</a></td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR3_1">Strutz, Dominik</a>, and Andrew Curtis. "Variational bayesian experimental design for geophysical applications." (2023).</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR3_1">Strutz, Dominik</a>, and Andrew Curtis. "Variational bayesian experimental design for geophysical applications." arXiv preprint arXiv:2307.01039 (2023).</td>
     <td align="center"><a href="https://doi.org/10.1093/gji/ggad492">10.1093/gji/ggad492</a></td>
   </tr>
   <tr>
