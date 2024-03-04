@@ -42,7 +42,7 @@ nav_order: 5
     <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970">10.1093/gji/ggad199</a></td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR3_1">Strutz, Dominik</a>, and Andrew Curtis. "Variational bayesian experimental design for geophysical applications." arXiv preprint arXiv:2307.01039 (2023).</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR3_1">Strutz, Dominik</a>, and Andrew Curtis. "Variational bayesian experimental design for geophysical applications." Geophysical Journal International (2023).</td>
     <td align="center"><a href="https://doi.org/10.1093/gji/ggad492">10.1093/gji/ggad492</a></td>
   </tr>
   <tr>
