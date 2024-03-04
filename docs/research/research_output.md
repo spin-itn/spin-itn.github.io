@@ -30,7 +30,7 @@ nav_order: 5
     <td align="center"><a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023">10.1785/0220230180</a></td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_2">Noe, Sebastian</a>, et al. "Long-range fiber-optic earthquake sensing by active phase noise cancellation." arXiv preprint arXiv:2305.01468 (2023).</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_2">Noe, Sebastian</a>, et al. "Long-range fiber-optic earthquake sensing by active phase noise cancellation." Scientific Reports (2023).</td>
     <td align="center"><a href="https://www.nature.com/articles/s41598-023-41161-x">10.48550/arXiv.2305.01468</a></td>
   </tr>
   <tr>
