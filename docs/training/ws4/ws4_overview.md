@@ -32,6 +32,8 @@ Confirmed speakers are: Malgorzata Chmiel (Geoazur) Marine Denolle (UW), Eric La
 - May 12th - May 16th: Workshop program
 - May 16th: Departure
 
+A preliminary schedule can be found here:
+<a href="https://docs.google.com/document/d/e/2PACX-1vQRqbFP7bTzfrIuNnhTY9KHn8kVyK5dh0HabauwN07SHSKRzuPq-VrO5Qa0dE5jGnPi7vZhpbGKZZJr/pub">prelimschedule</a>
 
 ## Location and Venue
 The workshop will take place south of Zurich, in the Alps. The venue is located in Disentis: <a href="https://www.catrina-experience.com/">Catrina Experience Resort</a>. It is a modern resort in the middle of the Swiss Alps.
