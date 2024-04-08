@@ -29,6 +29,9 @@ Confirmed instructors are Heiner Igel (LMU Munich), <a href="http://www.mines.ed
 - May 6th - May 11th: Short Course program
 - May 11th: Departure
 
+A preliminary schedule can be found here:
+<a href="https://docs.google.com/document/d/e/2PACX-1vTGImzhRJ3PvaokkI6jD8pQC4oxZRICynwoJMW7A48cUWBAsdN_tDldXvRaqkflTV7id75X4gDhYZvY/pub">prelimschedule</a>
+
 ## Location and Venue
 The short course will take place south of Zurich, in the Alps. The venue is located in Disentis: <a href="https://www.catrina-experience.com/">Catrina Experience Resort</a>. It is a modern resort in the middle of the Swiss Alps.
 {: style="text-align: justify;"}
