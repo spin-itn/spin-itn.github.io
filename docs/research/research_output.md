@@ -9,6 +9,7 @@ nav_order: 5
 # SPIN Research output
 
 <table style="width:auto;">
+  <caption>Publications</caption>
   <colgroup>
     <col style="width:80%;"> <!-- Adjust the width of the first column -->
     <col style="width:20%;"> <!-- Adjust the width of the second column -->
@@ -54,3 +55,9 @@ nav_order: 5
     <td align="center">Submitted</td>
   </tr>
 </table>
+
+<table>
+  <caption>Another Table Title</caption>
+  <!-- Table content here -->
+</table>
+
