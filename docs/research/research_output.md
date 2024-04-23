@@ -61,12 +61,18 @@ nav_order: 5
 <table>
   <caption>Deliverables</caption>
   <colgroup>
-    <col style="width:40%;"> <!-- Adjust the width of the column author -->
-    <col style="width:30%;"> <!-- Adjust the width of the column link to github -->
-    <col style="width:30%;"> <!-- Adjust the width of the column 1 sentence description -->
+    <col style="width:50%;"> <!-- Adjust the width of the column author -->
+    <col style="width:10%;"> <!-- Adjust the width of the column link to github -->
+    <col style="width:40%;"> <!-- Adjust the width of the column 1 sentence description -->
   </colgroup>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR1_3">Mirko Bracale</a>, Michel Campillo, Helle Pedersen</td>
     <td align="center"><a href="https://github.com/bracalem/measure_delay_CWT">github</a></td>
     <td align="center">Novel array processing approach</td>
-  </tr></table>
+  </tr>
+  <tr>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_1">Le Tang</a>, Heiner Igel</td>
+    <td align="center"><a href="https://github.com/spin-itn/6C_anisotropy">github</a></td>
+    <td align="center">Open source processing toolbox</td>
+  </tr>
+</table>
