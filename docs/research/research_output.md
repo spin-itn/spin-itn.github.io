@@ -56,8 +56,17 @@ nav_order: 5
   </tr>
 </table>
 
-<table>
-  <caption>Another Table Title</caption>
-  <!-- Table content here -->
-</table>
+<a href=""></a>
 
+<table>
+  <caption>Deliverables</caption>
+  <colgroup>
+    <col style="width:40%;"> <!-- Adjust the width of the column author -->
+    <col style="width:30%;"> <!-- Adjust the width of the column link to github -->
+    <col style="width:30%;"> <!-- Adjust the width of the column 1 sentence description -->
+  </colgroup>
+  <tr>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_3">Mirko Bracale</a>, Michel Campillo, Helle Pedersen</td>
+    <td align="center"><a href="https://github.com/bracalem/measure_delay_CWT">github</a></td>
+    <td align="center">Novel array processing approach</td>
+  </tr></table>
