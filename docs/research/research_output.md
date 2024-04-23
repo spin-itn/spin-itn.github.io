@@ -85,7 +85,7 @@ nav_order: 5
     <td align="center">Workflow for fiber- optic ground motion monitoring</td>
   </tr>
   <tr> <!-- D2.1 -->
-    <td><a href="https://spin-itn.eu/candidates/ESR2_2">https://spin-itn.eu/candidates/ESR2_2</a> and Andrew Curtis</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR2_2">Declan Andrew</a> and Andrew Curtis</td>
     <td align="center"><a href="https://github.com/Aangniu/NonlinearWave">github</a></td>
     <td align="center">Nonlinear wave propagation code</td>
   </tr>
