@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 # SPIN Research output
-
+<!-- ***********************************************Publications Table*********************************************** -->
 <table style="width:auto;">
   <caption>Publications</caption>
   <colgroup>
@@ -56,8 +56,12 @@ nav_order: 5
   </tr>
 </table>
 
+
+<a href="https://spin-itn.eu/candidates/ESR3_3">Julius Grimm</a>
 <a href=""></a>
 
+
+<!-- ***********************************************Deliverables Table*********************************************** -->
 <table>
   <caption>Deliverables</caption>
   <colgroup>
@@ -65,14 +69,69 @@ nav_order: 5
     <col style="width:10%;"> <!-- Adjust the width of the column link to github -->
     <col style="width:40%;"> <!-- Adjust the width of the column 1 sentence description -->
   </colgroup>
-  <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_3">Mirko Bracale</a>, Michel Campillo, Helle Pedersen</td>
+  <tr> <!-- D1.1 -->
+    <td><a href="https://spin-itn.eu/candidates/ESR1_3">Mirko Bracale</a>, Michel Campillo, and Helle Pedersen</td>
     <td align="center"><a href="https://github.com/bracalem/measure_delay_CWT">github</a></td>
     <td align="center">Novel array processing approach</td>
   </tr>
-  <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_1">Le Tang</a>, Heiner Igel</td>
+  <tr> <!-- D1.2 -->
+    <td><a href="https://spin-itn.eu/candidates/ESR1_1">Le Tang</a> and Heiner Igel</td>
     <td align="center"><a href="https://github.com/spin-itn/6C_anisotropy">github</a></td>
     <td align="center">Open source processing toolbox</td>
+  </tr>
+  <tr> <!-- D1.3 -->
+    <td><a href="https://spin-itn.eu/candidates/ESR1_2">Sebastian Noe</a> and Andreas Fichtner</td>
+    <td align="center"><a href=""></a></td>
+    <td align="center">Workflow for fiber- optic ground motion monitoring</td>
+  </tr>
+  <tr> <!-- D2.1 -->
+    <td><a href="https://spin-itn.eu/candidates/ESR2_2">https://spin-itn.eu/candidates/ESR2_2</a> and Andrew Curtis</td>
+    <td align="center"><a href="https://github.com/Aangniu/NonlinearWave">github</a></td>
+    <td align="center">Nonlinear wave propagation code</td>
+  </tr>
+  <tr> <!-- D2.2 -->
+    <td><a href="https://spin-itn.eu/candidates/ESR2_1">Manuel Asnar</a> and Christoph Sens-Schönfelder</td>
+    <td align="center"><a href=""></a></td>
+    <td align="center">Physical model for material response</td>
+  </tr>
+  <tr> <!-- D2.3 -->
+    <td>Christoph Sens-Schönfelder, <a href="https://spin-itn.eu/candidates/ESR2_1">Manuel Asnar</a>, and <a href='https://spin-itn.eu/candidates/ESR3_2'>Zihua Niu</a></td>
+    <td align="center"><a href=""></a></td>
+    <td align="center">Empirical description of materials under dynamic strain</td>
+  </tr>
+  <tr> <!-- D2.4 -->
+    <td><a href="https://spin-itn.eu/candidates/ESR2_3">Foteini Dervisi</a>, Margarita Segou, Brian Baptie, Ian Main and Andrew Curtis</td>
+    <td align="center"><a href=""></a></td>
+    <td align="center">Hybrid model for triggered seismicity in critical systems</td>
+  </tr>
+  <tr> <!-- D3.1 -->
+    <td><a href="https://spin-itn.eu/candidates/ESR3_3">Julius Grimm</a> and Piero Poli</td>
+    <td align="center"><a href="https://github.com/spin-itn/detect-hidden-signals">github</a></td>
+    <td align="center">Novel algorithm to detect hidden signals</td>
+  </tr>
+  <tr> <!-- D3.2 -->
+    <td><a href="https://spin-itn.eu/candidates/ESR3_1">Dominik Strutz</a> and Andrew Curtis</td>
+    <td align="center"><a href="https://github.com/spin-itn/GeoBED">github</a></td>
+    <td align="center">Open source code for irrogation theory</td>
+  </tr>
+  <tr> <!-- D3.3 -->
+    <td><a href="https://spin-itn.eu/candidates/ESR3_4">Mahsa Safarkhani</a>, <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/schippkus-sven.html">Schippkus, Sven</a>, and <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">Céline Hadziioannou</a></td>
+    <td align="center"><a href=""></a></td>
+    <td align="center">Database of multi- observable noise sources</td>
+  </tr>
+  <tr> <!-- D4.1 -->
+    <td><a href="https://spin-itn.eu/candidates/ESR4_2">Marco Dominguez-Bureos</a> and <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">Céline Hadziioannou</a></td>
+    <td align="center"><a href=""></a></td>
+    <td align="center">Dataset for transient material changes</td>
+  </tr>
+  <tr> <!-- D4.2 -->
+    <td><a href="https://spin-itn.eu/candidates/ESR4_1">Eleanor Dunn</a> and Chris Bean</td>
+    <td align="center"><a href=""></a></td>
+    <td align="center">Catalogue of Volcano Seismicity</td>
+  </tr>
+  <tr> <!-- D4.3 -->
+    <td><a href="https://spin-itn.eu/candidates/ESR4_3">Tjeerd Kiers</a> and Cedric Schmelzbach</td>
+    <td align="center"><a href=""></a></td>
+    <td align="center">Alpine permafrost monitoring tool box</td>
   </tr>
 </table>
