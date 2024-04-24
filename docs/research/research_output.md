@@ -56,11 +56,6 @@ nav_order: 5
   </tr>
 </table>
 
-
-<a href="https://spin-itn.eu/candidates/ESR3_3">Julius Grimm</a>
-<a href=""></a>
-
-
 <!-- ***********************************************Deliverables Table*********************************************** -->
 <table>
   <caption>Deliverables</caption>
