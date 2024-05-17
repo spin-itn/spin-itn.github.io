@@ -70,13 +70,13 @@ nav_order: 5
   </colgroup>
   <tr> <!-- D1.1 -->
     <td align="center">Author</td>
-    <td align="center">Type</a></td>
+    <td align="center">Type</td>
     <td align="center">Conference</td>
   </tr>
   <tr> <!-- D1.2 -->
     <td align="center">DIAS, Eleanor</td>
     <td align="center"><a href="https://wolke.geophysik.uni-muenchen.de/s/ydQgS2Eo5LQaL24?dir=undefined&path=%2FPrivate%2FAdmin%2FConferences&openfile=1857660">Abstract, <a href="https://wolke.geophysik.uni-muenchen.de/s/ydQgS2Eo5LQaL24?dir=undefined&path=%2FPrivate%2FAdmin%2FConferences&openfile=1857659">
-Poster</a></td>
+Poster</a>
     <td align="center">VMSG 2022</td>
   </tr>
   <caption>This table is being currently updated</caption>
