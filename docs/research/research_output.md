@@ -59,7 +59,6 @@ nav_order: 5
 </table>
 
 <!-- ***********************************************Presentations Table*********************************************** -->
-<a href="">
 
 <table>
   <caption>Conference Presentations</caption>
@@ -75,12 +74,15 @@ nav_order: 5
   </tr>
   <tr> <!-- D1.2 -->
     <td align="center">DIAS, Eleanor</td>
-    <td align="center"><a href="https://wolke.geophysik.uni-muenchen.de/s/ydQgS2Eo5LQaL24?dir=undefined&path=%2FPrivate%2FAdmin%2FConferences&openfile=1857660">Abstract, <a href="https://wolke.geophysik.uni-muenchen.de/s/ydQgS2Eo5LQaL24?dir=undefined&path=%2FPrivate%2FAdmin%2FConferences&openfile=1857659">
-Poster</a>
+    <td align="center">
+      <a href="https://wolke.geophysik.uni-muenchen.de/s/ydQgS2Eo5LQaL24?dir=undefined&path=%2FPrivate%2FAdmin%2FConferences&openfile=1857660">Abstract</a>, 
+      <a href="https://wolke.geophysik.uni-muenchen.de/s/ydQgS2Eo5LQaL24?dir=undefined&path=%2FPrivate%2FAdmin%2FConferences&openfile=1857659">Poster</a>
+    </td>
     <td align="center">VMSG 2022</td>
   </tr>
-  <caption>This table is being currently updated</caption>
 </table>
+<p>This table is being currently updated</p>
+
 
 <!-- ***********************************************Deliverables Table*********************************************** -->
 
