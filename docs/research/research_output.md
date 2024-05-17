@@ -61,7 +61,7 @@ nav_order: 5
 <!-- ***********************************************Presentations Table*********************************************** -->
 
 <table>
-  <caption>Conference Presentations <i>(Being Updated)</i></caption>
+  <caption>Conference Presentations <i>(currently being updated)</i></caption>
   <colgroup>
     <col style="width:33%;"> <!-- Adjust the width of the column author -->
     <col style="width:33%;"> <!-- Adjust the width of the column Type -->
