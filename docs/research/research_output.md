@@ -7,7 +7,9 @@ nav_order: 5
 ---
 
 # SPIN Research output
+
 <!-- ***********************************************Publications Table*********************************************** -->
+
 <table style="width:auto;">
   <caption>Publications</caption>
   <colgroup>
@@ -56,7 +58,32 @@ nav_order: 5
   </tr>
 </table>
 
+<!-- ***********************************************Presentations Table*********************************************** -->
+<a href="">
+
+<table>
+  <caption>Conference Presentations</caption>
+  <colgroup>
+    <col style="width:60%;"> <!-- Adjust the width of the column author -->
+    <col style="width:20%;"> <!-- Adjust the width of the column link to github -->
+    <col style="width:20%;"> <!-- Adjust the width of the column 1 sentence description -->
+  </colgroup>
+  <tr> <!-- D1.1 -->
+    <td align="center">Author</td>
+    <td align="center">Type</a></td>
+    <td align="center">Conference</td>
+  </tr>
+  <tr> <!-- D1.2 -->
+    <td align="center">DIAS, Eleanor</td>
+    <td align="center"><a href="https://wolke.geophysik.uni-muenchen.de/s/ydQgS2Eo5LQaL24?dir=undefined&path=%2FPrivate%2FAdmin%2FConferences&openfile=1857660">Abstract, <a href="https://wolke.geophysik.uni-muenchen.de/s/ydQgS2Eo5LQaL24?dir=undefined&path=%2FPrivate%2FAdmin%2FConferences&openfile=1857659">
+Poster</a></td>
+    <td align="center">VMSG 2022</td>
+  </tr>
+  <caption>This table is being currently updated</caption>
+</table>
+
 <!-- ***********************************************Deliverables Table*********************************************** -->
+
 <table>
   <caption>Deliverables</caption>
   <colgroup>
