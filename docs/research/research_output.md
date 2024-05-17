@@ -61,11 +61,11 @@ nav_order: 5
 <!-- ***********************************************Presentations Table*********************************************** -->
 
 <table>
-  <caption>Conference Presentations</caption>
+  <caption>Conference Presentations <i>(Being Updated)</i></caption>
   <colgroup>
-    <col style="width:60%;"> <!-- Adjust the width of the column author -->
-    <col style="width:20%;"> <!-- Adjust the width of the column link to github -->
-    <col style="width:20%;"> <!-- Adjust the width of the column 1 sentence description -->
+    <col style="width:33%;"> <!-- Adjust the width of the column author -->
+    <col style="width:33%;"> <!-- Adjust the width of the column Type -->
+    <col style="width:34%;"> <!-- Adjust the width of the column Conference -->
   </colgroup>
   <tr> <!-- D1.1 -->
     <td align="center">Author</td>
@@ -73,16 +73,13 @@ nav_order: 5
     <td align="center">Conference</td>
   </tr>
   <tr> <!-- D1.2 -->
-    <td align="center">DIAS, Eleanor</td>
+    <td align="center">Eleanor</td>
     <td align="center">
-      <a href="https://wolke.geophysik.uni-muenchen.de/s/ydQgS2Eo5LQaL24?dir=undefined&path=%2FPrivate%2FAdmin%2FConferences&openfile=1857660">Abstract</a>, 
-      <a href="https://wolke.geophysik.uni-muenchen.de/s/ydQgS2Eo5LQaL24?dir=undefined&path=%2FPrivate%2FAdmin%2FConferences&openfile=1857659">Poster</a>
+      <a href="">Abstract</a>, <a href="">Poster</a>
     </td>
     <td align="center">VMSG 2022</td>
   </tr>
 </table>
-<p>This table is being currently updated</p>
-
 
 <!-- ***********************************************Deliverables Table*********************************************** -->
 
