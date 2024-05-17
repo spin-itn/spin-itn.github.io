@@ -67,16 +67,14 @@ nav_order: 5
     <col style="width:33%;"> <!-- Adjust the width of the column Type -->
     <col style="width:34%;"> <!-- Adjust the width of the column Conference -->
   </colgroup>
-  <tr> <!-- D1.1 -->
+  <tr> <!-- Header -->
     <td align="center">Author</td>
     <td align="center">Type</td>
     <td align="center">Conference</td>
   </tr>
-  <tr> <!-- D1.2 -->
+  <tr> <!-- R1 -->
     <td align="center">Eleanor</td>
-    <td align="center">
-      <a href="https://wolke.geophysik.uni-muenchen.de/s/ydQgS2Eo5LQaL24?openfile=1857664">Abstract</a>, 
-      <a href="https://wolke.geophysik.uni-muenchen.de/s/ydQgS2Eo5LQaL24?openfile=1857659">Poster</a>
+    <td align="center">Abstract, Poster
     </td>
     <td align="center">VMSG 2022</td>
   </tr>
