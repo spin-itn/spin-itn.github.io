@@ -73,12 +73,65 @@ nav_order: 5
     <td align="center">Conference</td>
   </tr>
   <tr> <!-- R1 -->
-    <td align="center">Eleanor</td>
-    <td align="center">Abstract, Poster
-    </td>
-    <td align="center">VMSG 2022</td>
+    <td align="center">Tjeerd Kiers et al</td>
+    <td align="center">Abstract</td>
+    <td align="center">AGU21</td>
   </tr>
-</table>
+  <tr> <!-- R2 -->
+    <td align="center">Le Tang</td>
+    <td align="center">Poster, Abstract</td>
+    <td align="center">AGU22</td>
+  </tr>
+  <tr> <!-- R3 -->
+    <td align="center">Manuel Asnar</td>
+    <td align="center">Abstract</td>
+    <td align="center">AGU22</td>
+  </tr>
+  <tr> <!-- R4 -->
+    <td align="center">Edme et al</td>
+    <td align="center">Abstract</td>
+    <td align="center">EAGE22</td>
+  </tr>
+  <tr> <!-- R5 -->
+    <td align="center">Julius Grimm</td>
+    <td align="center">Presentation</td>
+    <td align="center">EGU 2022</td>
+  </tr>
+  <tr> <!-- R6 -->
+    <td align="center">Eleanor Dunn</td>
+    <td align="center">Abstract, Presentation</td>
+    <td align="center">EGU22</td>
+  </tr>
+  <tr> <!-- R7 -->
+    <td align="center">Julius Grimm</td>
+    <td align="center">Abstract, Presentation</td>
+    <td align="center">EGU22</td>
+  </tr>
+  <tr> <!-- R8 -->
+    <td align="center">Julius Grimm</td>
+    <td align="center">Abstract</td>
+    <td align="center">EGU22</td>
+  </tr>
+  <tr> <!-- R9 -->
+    <td align="center">Philippe</td>
+    <td align="center">Abstract</td>
+    <td align="center">EGU22</td>
+  </tr>
+  <tr> <!-- R10 -->
+    <td align="center">Sergio Diaz-Meza</td>
+    <td align="center">Abstract</td>
+    <td align="center">EGU22</td>
+  </tr>
+  <tr> <!-- R11 -->
+    <td align="center">Zihua Niu</td>
+    <td align="center">Abstract, Presentation</td>
+    <td align="center">EGU22</td>
+  </tr>
+  <tr> <!-- R12 -->
+    <td align="center">Eleanor Dunn</td>
+    <td align="center">Abstract, Poster</td>
+    <td align="center">VMSG 2022</td>
+  </tr></table>
 
 <!-- ***********************************************Deliverables Table*********************************************** -->
 
