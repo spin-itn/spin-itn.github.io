@@ -68,6 +68,7 @@ nav_order: 5
     <col style="width:34%;"> <!-- Adjust the width of the column Conference -->
   </colgroup>
   <tr> <!-- Header -->
+  <tr> <!-- Header -->
     <td align="center">Author</td>
     <td align="center">Type</td>
     <td align="center">Conference</td>
@@ -93,45 +94,56 @@ nav_order: 5
     <td align="center">EAGE22</td>
   </tr>
   <tr> <!-- R5 -->
-    <td align="center">Julius Grimm</td>
-    <td align="center">Presentation</td>
-    <td align="center">EGU 2022</td>
+    <td align="center">Eleanor Dunn</td>
+    <td align="center">Abstract, Presentation</td>
+    <td align="center">EGU22</td>
   </tr>
   <tr> <!-- R6 -->
-    <td align="center">Eleanor Dunn</td>
+    <td align="center">Julius Grimm</td>
     <td align="center">Abstract, Presentation</td>
     <td align="center">EGU22</td>
   </tr>
   <tr> <!-- R7 -->
-    <td align="center">Julius Grimm</td>
-    <td align="center">Abstract, Presentation</td>
-    <td align="center">EGU22</td>
-  </tr>
-  <tr> <!-- R8 -->
-    <td align="center">Julius Grimm</td>
-    <td align="center">Abstract</td>
-    <td align="center">EGU22</td>
-  </tr>
-  <tr> <!-- R9 -->
     <td align="center">Philippe</td>
     <td align="center">Abstract</td>
     <td align="center">EGU22</td>
   </tr>
-  <tr> <!-- R10 -->
+  <tr> <!-- R8 -->
     <td align="center">Sergio Diaz-Meza</td>
     <td align="center">Abstract</td>
     <td align="center">EGU22</td>
   </tr>
-  <tr> <!-- R11 -->
+  <tr> <!-- R9 -->
     <td align="center">Zihua Niu</td>
     <td align="center">Abstract, Presentation</td>
     <td align="center">EGU22</td>
   </tr>
-  <tr> <!-- R12 -->
+  <tr> <!-- R10 -->
     <td align="center">Eleanor Dunn</td>
     <td align="center">Abstract, Poster</td>
     <td align="center">VMSG 2022</td>
-  </tr></table>
+  </tr>
+  <tr> <!-- R11 -->
+    <td align="center">Julius Grimm</td>
+    <td align="center">Abstract</td>
+    <td align="center">AGU23</td>
+  </tr>
+  <tr> <!-- R12 -->
+    <td align="center">Le Tang</td>
+    <td align="center">Abstract 1, 2</td>
+    <td align="center">AGU23</td>
+  </tr>
+  <tr> <!-- R13 -->
+    <td align="center">Mirko Bracale</td>
+    <td align="center">Abstract</td>
+    <td align="center">AGU23</td>
+  </tr>
+  <tr> <!-- R14 -->
+    <td align="center">Mohammad Aminian</td>
+    <td align="center">Abstract</td>
+    <td align="center">AGU23</td>
+  </tr>
+</table>
 
 <!-- ***********************************************Deliverables Table*********************************************** -->
 
