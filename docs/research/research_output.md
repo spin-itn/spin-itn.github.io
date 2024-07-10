@@ -73,75 +73,67 @@ nav_order: 5
     <td align="center">Type</td>
     <td align="center">Conference</td>
   </tr>
-  <tr> <!-- R1 -->
+    </tr>
+  <tr> <!-- AGU21 -->
     <td align="center">Tjeerd Kiers et al</td>
     <td align="center">Abstract</td>
-    <td align="center">AGU21</td>
+    <td align="center" rowspan="1">AGU21</td>
   </tr>
-  <tr> <!-- R2 -->
+  <tr> <!-- AGU22 -->
     <td align="center">Le Tang</td>
     <td align="center">Poster, Abstract</td>
-    <td align="center">AGU22</td>
+    <td align="center" rowspan="3">AGU22</td>
   </tr>
-  <tr> <!-- R3 -->
+  <tr>
     <td align="center">Manuel Asnar</td>
     <td align="center">Abstract</td>
-    <td align="center">AGU22</td>
   </tr>
-  <tr> <!-- R4 -->
-    <td align="center">Edme et al</td>
-    <td align="center">Abstract</td>
-    <td align="center">EAGE22</td>
-  </tr>
-  <tr> <!-- R5 -->
+  <tr>
     <td align="center">Eleanor Dunn</td>
     <td align="center">Abstract, Presentation</td>
-    <td align="center">EGU22</td>
   </tr>
-  <tr> <!-- R6 -->
+  <tr>
     <td align="center">Julius Grimm</td>
     <td align="center">Abstract, Presentation</td>
-    <td align="center">EGU22</td>
   </tr>
-  <tr> <!-- R7 -->
+  <tr>
     <td align="center">Philippe</td>
     <td align="center">Abstract</td>
-    <td align="center">EGU22</td>
   </tr>
-  <tr> <!-- R8 -->
+  <tr>
     <td align="center">Sergio Diaz-Meza</td>
     <td align="center">Abstract</td>
-    <td align="center">EGU22</td>
   </tr>
-  <tr> <!-- R9 -->
+  <tr>
     <td align="center">Zihua Niu</td>
     <td align="center">Abstract, Presentation</td>
-    <td align="center">EGU22</td>
   </tr>
-  <tr> <!-- R10 -->
+  <tr>
     <td align="center">Eleanor Dunn</td>
     <td align="center">Abstract, Poster</td>
-    <td align="center">VMSG 2022</td>
+    <td align="center" rowspan="1">VMSG 2022</td>
   </tr>
-  <tr> <!-- R11 -->
+  <tr> <!-- AGU23 -->
     <td align="center">Julius Grimm</td>
     <td align="center">Abstract</td>
-    <td align="center">AGU23</td>
+    <td align="center" rowspan="4">AGU23</td>
   </tr>
-  <tr> <!-- R12 -->
+  <tr>
     <td align="center">Le Tang</td>
     <td align="center">Abstract 1, 2</td>
-    <td align="center">AGU23</td>
   </tr>
-  <tr> <!-- R13 -->
+  <tr>
     <td align="center">Mirko Bracale</td>
     <td align="center">Abstract</td>
-    <td align="center">AGU23</td>
   </tr>
-  <tr> <!-- R14 -->
+  <tr>
     <td align="center">Mohammad Aminian</td>
     <td align="center">Abstract</td>
-    <td align="center">AGU23</td>
+  </tr>
+  <tr> <!-- EAGE22 -->
+    <td align="center">Edme et al</td>
+    <td align="center">Abstract</td>
+    <td align="center" rowspan="1">EAGE22</td>
   </tr>
 </table>
 
