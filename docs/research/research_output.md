@@ -82,73 +82,135 @@ nav_order: 5
 <table>
   <caption>Deliverables</caption>
   <colgroup>
+    <col style="width:5%;"> <!-- Adjust the width of the column author -->
     <col style="width:50%;"> <!-- Adjust the width of the column author -->
     <col style="width:10%;"> <!-- Adjust the width of the column link to github -->
-    <col style="width:40%;"> <!-- Adjust the width of the column 1 sentence description -->
+    <col style="width:35%;"> <!-- Adjust the width of the column 1 sentence description -->
   </colgroup>
   <tr> <!-- D1.1 -->
+    <td align="center">D1.1</td>
     <td><a href="https://spin-itn.eu/candidates/ESR1_3">Mirko Bracale</a>, Michel Campillo, and Helle Pedersen</td>
     <td align="center"><a href="https://github.com/bracalem/measure_delay_CWT">github</a></td>
     <td align="center">Novel array processing approach</td>
   </tr>
   <tr> <!-- D1.2 -->
+    <td align="center">D1.2</td>
     <td><a href="https://spin-itn.eu/candidates/ESR1_1">Le Tang</a> and Heiner Igel</td>
     <td align="center"><a href="https://github.com/spin-itn/6C_anisotropy">github</a></td>
-    <td align="center">Open source processing toolbox</td>
+    <td align="center">Open source processing toolbox + Jupyter notebooks</td>
   </tr>
   <tr> <!-- D1.3 -->
+    <td align="center">D1.3</td>
     <td><a href="https://spin-itn.eu/candidates/ESR1_2">Sebastian Noe</a> and Andreas Fichtner</td>
     <td align="center"><a href=""></a></td>
     <td align="center">Workflow for fiber- optic ground motion monitoring</td>
   </tr>
+  <tr> <!-- D1.4 -->
+    <td align="center">D1.4</td>
+    <td><a href="[https://spin-itn.eu/candidates/ESR1_2](https://spin-itn.eu/candidates/ESR1_4)">Mohammad Amin Aminian</a></td>
+    <td align="center"><a href=""></a></td>
+    <td align="center">Database of cleaned OBS data, to be integrated in EPOS</td>
+  </tr>
   <tr> <!-- D2.1 -->
+    <td align="center">D2.1</td>
     <td><a href="https://spin-itn.eu/candidates/ESR2_2">Declan Andrew</a> and Andrew Curtis</td>
     <td align="center"><a href="https://github.com/Aangniu/NonlinearWave">github</a></td>
-    <td align="center">Nonlinear wave propagation code</td>
+    <td align="center">SPIN Nonlinear wave propagation code</td>
   </tr>
   <tr> <!-- D2.2 -->
+    <td align="center">D2.2</td>
     <td><a href="https://spin-itn.eu/candidates/ESR2_1">Manuel Asnar</a> and Christoph Sens-Schönfelder</td>
     <td align="center"><a href=""></a></td>
     <td align="center">Physical model for material response</td>
   </tr>
   <tr> <!-- D2.3 -->
+    <td align="center">D2.3</td>
     <td>Christoph Sens-Schönfelder, <a href="https://spin-itn.eu/candidates/ESR2_1">Manuel Asnar</a>, and <a href='https://spin-itn.eu/candidates/ESR3_2'>Zihua Niu</a></td>
     <td align="center"><a href=""></a></td>
     <td align="center">Empirical description of materials under dynamic strain</td>
   </tr>
   <tr> <!-- D2.4 -->
+    <td align="center">D2.4</td>
     <td><a href="https://spin-itn.eu/candidates/ESR2_3">Foteini Dervisi</a>, Margarita Segou, Brian Baptie, Ian Main and Andrew Curtis</td>
     <td align="center"><a href=""></a></td>
     <td align="center">Hybrid model for triggered seismicity in critical systems</td>
   </tr>
   <tr> <!-- D3.1 -->
+    <td align="center">D3.1</td>
     <td><a href="https://spin-itn.eu/candidates/ESR3_3">Julius Grimm</a> and Piero Poli</td>
     <td align="center"><a href="https://github.com/spin-itn/detect-hidden-signals">github</a></td>
     <td align="center">Novel algorithm to detect hidden signals</td>
   </tr>
   <tr> <!-- D3.2 -->
+    <td align="center">D3.2</td>
     <td><a href="https://spin-itn.eu/candidates/ESR3_1">Dominik Strutz</a> and Andrew Curtis</td>
     <td align="center"><a href="https://github.com/spin-itn/GeoBED">github</a></td>
     <td align="center">Open source code for irrogation theory</td>
   </tr>
   <tr> <!-- D3.3 -->
+    <td align="center">D3.3</td>
     <td><a href="https://spin-itn.eu/candidates/ESR3_4">Mahsa Safarkhani</a>, <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/schippkus-sven.html">Schippkus, Sven</a>, and <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">Céline Hadziioannou</a></td>
     <td align="center"><a href=""></a></td>
     <td align="center">Database of multi- observable noise sources</td>
   </tr>
+  <tr> <!-- D3.4 -->
+    <td align="center">D3.4</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR3_2">Zihua Niu</a></td>
+    <td align="center"><a href="https://github.com/SeisSol/SeisSol/tree/damaged-material-nonlinear-drB">github</a></td>
+    <td align="center">Open source solver for nonlinear wave propagation</td>
+  </tr>
   <tr> <!-- D4.1 -->
+    <td align="center">D4.1</td>
     <td><a href="https://spin-itn.eu/candidates/ESR4_2">Marco Dominguez-Bureos</a> and <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">Céline Hadziioannou</a></td>
     <td align="center"><a href=""></a></td>
     <td align="center">Dataset for transient material changes</td>
   </tr>
   <tr> <!-- D4.2 -->
+    <td align="center">D4.2</td>
     <td><a href="https://spin-itn.eu/candidates/ESR4_1">Eleanor Dunn</a> and Chris Bean</td>
     <td align="center"><a href=""></a></td>
     <td align="center">Catalogue of Volcano Seismicity</td>
   </tr>
   <tr> <!-- D4.3 -->
+    <td align="center">D4.3</td>
     <td><a href="https://spin-itn.eu/candidates/ESR4_3">Tjeerd Kiers</a> and Cedric Schmelzbach</td>
     <td align="center"><a href=""></a></td>
     <td align="center">Alpine permafrost monitoring tool box</td>
+  </tr>
+  <tr> <!-- D4.4 -->
+    <td align="center">D4.4</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR4_4">Sergio Diaz-Meza</a>, Philippe Jousset, Charlotte Krawczyk</td>
+    <td align="center"><a href=""></a></td>
+    <td align="center">Subsurface response of volcanoes to volcanic excitation</td>
+  </tr>
+  <tr> <!-- D5.1 -->
+    <td align="center">D5.1</td>
+    <td></td>
+    <td></td>
+    <td align="center">Secondment management</td>
+  </tr>
+  <tr> <!-- D5.2 -->
+    <td align="center">D5.2</td>
+    <td></td>
+    <td></td>
+    <td align="center">Practical training material on-line</td>
+  </tr>
+  <tr> <!-- D5.3 -->
+    <td align="center">D5.3</td>
+    <td></td>
+    <td></td>
+    <td align="center">Diversity awareness</td>
+  </tr>
+  <tr> <!-- D6.1 -->
+    <td align="center">D6.1</td>
+    <td></td>
+    <td></td>
+    <td align="center">SPIN Website Description</td>
+  </tr>
+  <tr> <!-- D6.2 -->
+    <td align="center">D6.2</td>
+    <td></td>
+    <td></td>
+    <td align="center">Communication & Dissemination Plan</td>
   </tr>
 </table>
