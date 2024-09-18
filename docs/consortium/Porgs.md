@@ -10,7 +10,8 @@ nav_order: 2
 
 | | Partner Organisation                                   | Country | Scientist(s) in charge    |
 |----|:----------------------------------------------------|:-------:|:---------------------------|
-| <img src="/assets/images/partners-logos/Ixblue_logo.png" alt="drawing" width="70"/>| [iXBlue](https://www.ixblue.com/)                                                  | FR      | Frederic Guattari         |
+| <img src="/assets/images/partners-logos/MAAGM_logo.png" alt="drawing" width="70"/>| [MAÅGM]((https://maagm.org/))                                                  | FR      | Frederic Guattari         |
+
 | <img src="/assets/images/partners-logos/LSBB_logo.jpg" alt="drawing" width="90"/> | [Laboratoire Souterrain à Bas Bruit](https://lsbb.cnrs.fr/recherche/) (CNRS)               | FR      | Stephane Gaffet           |
 | <img src="/assets/images/partners-logos/Realtimeseismic_logo.jpg" alt="drawing" width="50"/>| [realtimeseismic](https://www.realtimeseismic.com/)                                         | FR      | Claudio Strobbia          |
 | <img src="/assets/images/partners-logos/Kinemetrics_logo.png" alt="drawing" width="80"/>| [Kinemetrics](https://kinemetrics.com/)                                             | US      | Edelvays N. Spassov       |
