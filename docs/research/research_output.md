@@ -183,34 +183,5 @@ nav_order: 5
     <td align="center"><a href=""></a></td>
     <td align="center">Subsurface response of volcanoes to volcanic excitation</td>
   </tr>
-  <tr> <!-- D5.1 -->
-    <td align="center">D5.1</td>
-    <td></td>
-    <td></td>
-    <td align="center">Secondment management</td>
-  </tr>
-  <tr> <!-- D5.2 -->
-    <td align="center">D5.2</td>
-    <td></td>
-    <td></td>
-    <td align="center">Practical training material on-line</td>
-  </tr>
-  <tr> <!-- D5.3 -->
-    <td align="center">D5.3</td>
-    <td></td>
-    <td></td>
-    <td align="center">Diversity awareness</td>
-  </tr>
-  <tr> <!-- D6.1 -->
-    <td align="center">D6.1</td>
-    <td></td>
-    <td></td>
-    <td align="center">SPIN Website Description</td>
-  </tr>
-  <tr> <!-- D6.2 -->
-    <td align="center">D6.2</td>
-    <td></td>
-    <td></td>
-    <td align="center">Communication & Dissemination Plan</td>
-  </tr>
+<!-- D5.1 and later not included -->
 </table>
