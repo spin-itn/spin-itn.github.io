@@ -82,7 +82,7 @@ nav_order: 5
 <table>
   <caption>Deliverables</caption>
   <colgroup>
-    <col style="width:5%;"> <!-- Adjust the width of the column author -->
+    <col style="width:30px; white-space: nowrap;"> <!-- Tighter first column -->
     <col style="width:50%;"> <!-- Adjust the width of the column author -->
     <col style="width:10%;"> <!-- Adjust the width of the column link to github -->
     <col style="width:35%;"> <!-- Adjust the width of the column 1 sentence description -->
