@@ -42,7 +42,7 @@ nav_order: 5
   </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR1_1">Tang, Le</a>, Heiner Igel, and Jean-Paul Montagner. "Anisotropy and deformation processes in Southern California from rotational observations." Geophysical Research Letters 50.23 (2023).</td>
-    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970">10.1093/gji/ggad199</a></td>
+    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970">10.1029/2023GL105970</a></td>
   </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR3_1">Strutz, Dominik</a>, and Andrew Curtis. "Variational bayesian experimental design for geophysical applications." Geophysical Journal International (2023).</td>
@@ -54,21 +54,26 @@ nav_order: 5
   </tr>
   <tr>
     <td>J. Bott, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, et al. ''Density and strength variations in the mantle lithosphere and the distribution of intraplate earthquakes.'' Communications Earth & Environment. (2024)</td>
-    <td align="center"> <a href= 'file:///D:/UNI_WORK/Download_PDFs/s43247-024-01417-4.pdf'>10.1038/s43247-024-01417-4</a></td>
+    <td align="center"><a href="file:///D:/UNI_WORK/Download_PDFs/s43247-024-01417-4.pdf">10.1038/s43247-024-01417-4</a></td>
   </tr>
-    <td>L. Tang, H. Igel, J.-P. Montagner ''Seismic anisotropy from 6C ground motions of ambient seismic noise'' JGR: Solid Earth (2024)</td>
-    <td align="center"> <a href= '[file:///D:/UNI_WORK/Download_PDFs/s43247-024-01417-4.pdf](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB028959)'>10.1029/2024JB028959</a></td>
+  <tr>
+    <td>L. Tang, H. Igel, J.-P. Montagner. ''Seismic anisotropy from 6C ground motions of ambient seismic noise.'' JGR: Solid Earth (2024)</td>
+    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB028959">10.1029/2024JB028959</a></td>
   </tr>
-    <td>N. Müller, S. Noe et al. ''Earthquake source inversion by integrated fiber-optic sensing'' Seismica (2024)</td>
-    <td align="center"> <a href= '[[file:///D:/UNI_WORK/Download_PDFs/s43247-024-01417-4.pdf](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB028959)](https://seismica.library.mcgill.ca/article/view/1405/1569)'>10.26443/seismica.v3i2.1405</a></td>
+  <tr>
+    <td>N. Müller, S. Noe, et al. ''Earthquake source inversion by integrated fiber-optic sensing.'' Seismica (2024)</td>
+    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/1405/1569">10.26443/seismica.v3i2.1405</a></td>
   </tr>
-    <td>S. Thrastarson, D.-P. van Herwaarden, S. Noe, C. J.Schiller, A. Fichtner ''REVEAL: A Global Full-Waveform Inversion Model'' Bulletin of the Seismological Society of America (2024)</td>
-    <td align="center"> <a href= '[[[file:///D:/UNI_WORK/Download_PDFs/s43247-024-01417-4.pdf](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB028959)](https://seismica.library.mcgill.ca/article/view/1405/1569)](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/114/3/1392/637892/REVEAL-A-Global-Full-Waveform-Inversion-Model?redirectedFrom=PDF)'>10.1785/0120230273</a></td>
+  <tr>
+    <td>S. Thrastarson, D.-P. van Herwaarden, S. Noe, C. J. Schiller, A. Fichtner. ''REVEAL: A Global Full-Waveform Inversion Model.'' Bulletin of the Seismological Society of America (2024)</td>
+    <td align="center"><a href="https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/114/3/1392/637892/REVEAL-A-Global-Full-Waveform-Inversion-Model?redirectedFrom=PDF">10.1785/0120230273</a></td>
   </tr>
-    <td>S. Noe et al. ''The Collaborative Seismic Earth Model: Generation 2'' JGR: Solid Earth (2024)</td>
+  <tr>
+    <td>S. Noe et al. ''The Collaborative Seismic Earth Model: Generation 2.'' JGR: Solid Earth (2024)</td>
     <td align="center">Submitted</td>
   </tr>
 </table>
+
 
 <!-- ***********************************************Presentations Table*********************************************** -->
 
