@@ -54,7 +54,7 @@ nav_order: 5
   </tr>
   <tr>
     <td>J. Bott, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, et al. ''Density and strength variations in the mantle lithosphere and the distribution of intraplate earthquakes.'' Communications Earth & Environment. (2024)</td>
-    <td align="center"><a href="file:///D:/UNI_WORK/Download_PDFs/s43247-024-01417-4.pdf">10.1038/s43247-024-01417-4</a></td>
+    <td align="center"><a href="[file:///D:/UNI_WORK/Download_PDFs/s43247-024-01417-4.pdf](https://doi.org/10.1038/s43247-024-01417-4 )">10.1038/s43247-024-01417-4</a></td>
   </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>, H. Igel, J.-P. Montagner. ''Seismic anisotropy from 6C ground motions of ambient seismic noise.'' JGR: Solid Earth (2024)</td>
