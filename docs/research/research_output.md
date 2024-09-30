@@ -73,7 +73,6 @@ nav_order: 5
     <td align="center">Submitted</td>
   </tr>
   <tr>
-  <tr>
     <td>J. Igel, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, et al. "Challenges in submarine fiber-optic earthquake monitoring." JGR: Solid Earth (2024)</td>
     <td align="center">Submitted</td>
   </tr>
@@ -97,7 +96,7 @@ nav_order: 5
 
 <!-- ***********************************************Presentations Table*********************************************** -->
 
-
+<br>
 
 <!-- ***********************************************Deliverables Table*********************************************** -->
 
