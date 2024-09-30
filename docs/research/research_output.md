@@ -21,7 +21,7 @@ nav_order: 5
     <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/195/286">10.26443/seismica.v1i1.195</a></td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR4_4">S. Diaz-Meza</a>, P. Jousset, G. Currenti, C. Wollin, C. Krawczyk, A. Clarke A. Chalari "On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy)." Sensors (2023).</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR4_4">S. Diaz-Meza</a>, P. Jousset, G. Currenti, C. Wollin, C. Krawczyk, A. Clarke, A. Chalari "On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy)." Sensors (2023).</td>
     <td align="center"><a href="https://www.mdpi.com/1424-8220/23/7/3735">10.3390/s23073735</a></td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@ nav_order: 5
     <td align="center"><a href="https://www.nature.com/articles/s41598-023-41161-x">10.48550/arXiv.2305.01468</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, <a href="https://spin-itn.eu/candidates/ESR3_4">M. Safarkhani</a>, and <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a> "Continuous isolated noise sources induce repeating waves in the coda of ambient noise correlations." Seismica 2.2 (2023).</td>
+    <td><a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, <a href="https://spin-itn.eu/candidates/ESR3_4">M. Safarkhani</a>, and <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>. "Continuous isolated noise sources induce repeating waves in the coda of ambient noise correlations." Seismica 2.2 (2023).</td>
     <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/499/1174">10.26443/seismica.v2i2.499</a></td>
   </tr>
   <tr>
@@ -73,20 +73,16 @@ nav_order: 5
     <td align="center">Submitted</td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a> et al. ''The Collaborative Seismic Earth Model: Generation 2.'' JGR: Solid Earth (2024)</td>
-    <td align="center">Submitted</td>
-  </tr>
-  <tr>
   <tr>
     <td>J. Igel, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, et al. "Challenges in submarine fiber-optic earthquake monitoring." JGR: Solid Earth (2024)</td>
     <td align="center">Submitted</td>
   </tr>
   <tr>
-    <td>F. Dervisi, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting." Journal Earth, Planets and Space (2024)</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR2_3">F. Dervisi</a>, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting." Journal Earth, Planets and Space (2024)</td>
     <td align="center">Submitted</td>
   </tr>
   <tr>
-    <td>M.-A. Aminian et al. "Shallow Crustal Structures of the Indian Ocean Derived from Compliance Function Analysis." Geophysical Journal International (2024)</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_4">M.-A. Aminian</a> et al. "Shallow Crustal Structures of the Indian Ocean Derived from Compliance Function Analysis." Geophysical Journal International (2024)</td>
     <td align="center">Submitted</td>
   </tr>
   <tr>
