@@ -174,8 +174,8 @@ nav_order: 5
     <td align="center">D3.2</td>
     <td><a href="https://spin-itn.eu/candidates/ESR3_1">Dominik Strutz</a> and Andrew Curtis</td>
     <td align="center"><a href="https://github.com/spin-itn/GeoBED">github</a></td>
-    <td align="center"><a href='https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5f8546d82&appId=PPGMS'>Open source code for irrogation theory</td>
-    </a></tr>
+    <td align="center"><a href='https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5f8546d82&appId=PPGMS'>Open source code for irrogation theory</a></td>
+  </tr>
   <tr> <!-- D3.3 -->
     <td align="center">D3.3</td>
     <td><a href="https://spin-itn.eu/candidates/ESR3_4">Mahsa Safarkhani</a>, <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/schippkus-sven.html">Schippkus, Sven</a>, and <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">Céline Hadziioannou</a></td>
