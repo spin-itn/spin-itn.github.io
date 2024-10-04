@@ -69,6 +69,14 @@ nav_order: 5
     <td align="center"><a href="https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/114/3/1392/637892/REVEAL-A-Global-Full-Waveform-Inversion-Model?redirectedFrom=PDF">10.1785/0120230273</a></td>
   </tr>
   <tr>
+    <td>A. Fichtner, S. Thrastarson, D.P. van Herwaarden, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>. "An illustrated guide to: Parsimonious multi-scale full-waveform inversion." Earthquake Science, 2024</td>
+    <td align="center"><a href="https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.07.004">10.1016/j.eqs.2024.07.004</a></td>
+  </tr>
+  <tr>
+    <td>A. Fichtner, F. Walter, P. Paitz, S. Klaasen, D.C. Bowden, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, N. Müller, D. Husmann, J. Morel. "An illustrated guide to: Distributed and integrated fiber-optic sensing in seismology." Earthquake Science, 2025</td>
+    <td align="center"><a href="https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.09.006">10.1016/j.eqs.2024.09.006</a></td>
+  </tr>  
+  <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a> et al. ''The Collaborative Seismic Earth Model: Generation 2.'' JGR: Solid Earth (2024)</td>
     <td align="center">Submitted</td>
   </tr>
