@@ -120,7 +120,7 @@ nav_order: 5
     <td align="center">D1.1</td>
     <td><a href="https://spin-itn.eu/candidates/ESR1_3">Mirko Bracale</a>, Michel Campillo, and Helle Pedersen</td>
     <td align="center"><a href="https://github.com/bracalem/measure_delay_CWT">github</a></td>
-    <td align="center">Novel array processing approach</td>
+    <td align="center"><a href='https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5ed43cbe9&appId=PPGMS'>Novel array processing approach</a></td>
   </tr>
   <tr> <!-- D1.2 -->
     <td align="center">D1.2</td>
@@ -144,7 +144,7 @@ nav_order: 5
     <td align="center">D2.1</td>
     <td><a href="https://spin-itn.eu/candidates/ESR2_2">Declan Andrew</a> and Andrew Curtis</td>
     <td align="center"><a href="https://github.com/Aangniu/NonlinearWave">github</a></td>
-    <td align="center">SPIN Nonlinear wave propagation code</td>
+    <td align="center"><a href='https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5f8546d81&appId=PPGMS'>SPIN Nonlinear wave propagation code</a></td>
   </tr>
   <tr> <!-- D2.2 -->
     <td align="center">D2.2</td>
@@ -168,14 +168,14 @@ nav_order: 5
     <td align="center">D3.1</td>
     <td><a href="https://spin-itn.eu/candidates/ESR3_3">Julius Grimm</a> and Piero Poli</td>
     <td align="center"><a href="https://github.com/spin-itn/detect-hidden-signals">github</a></td>
-    <td align="center">Novel algorithm to detect hidden signals</td>
+    <td align="center"><a href='https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5e8e78ccc&appId=PPGMS'>Novel algorithm to detect hidden signals</a></td>
   </tr>
   <tr> <!-- D3.2 -->
     <td align="center">D3.2</td>
     <td><a href="https://spin-itn.eu/candidates/ESR3_1">Dominik Strutz</a> and Andrew Curtis</td>
     <td align="center"><a href="https://github.com/spin-itn/GeoBED">github</a></td>
-    <td align="center">Open source code for irrogation theory</td>
-  </tr>
+    <td align="center"><a href='https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5f8546d82&appId=PPGMS'>Open source code for irrogation theory</td>
+    </a></tr>
   <tr> <!-- D3.3 -->
     <td align="center">D3.3</td>
     <td><a href="https://spin-itn.eu/candidates/ESR3_4">Mahsa Safarkhani</a>, <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/schippkus-sven.html">Schippkus, Sven</a>, and <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">Céline Hadziioannou</a></td>
