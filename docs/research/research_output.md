@@ -9,6 +9,111 @@ nav_order: 5
 # SPIN Research output
 
 <!-- ***********************************************Publications Table*********************************************** -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications Table</title>
+    <style>
+        /* Basic table styling */
+        table {
+            width: auto;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        caption {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        .hidden-row {
+            display: none;
+        }
+        button {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+<table style="width:auto;">
+  <caption>Publications</caption>
+  <colgroup>
+    <col style="width:80%;">
+    <col style="width:20%;">
+  </colgroup>
+  <tr>
+    <td><a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, R. Snieder, and <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>. "Seismic interferometry in the presence of an isolated noise source." Seismica 1.1 (2022).</td>
+    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/195/286">10.26443/seismica.v1i1.195</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://spin-itn.eu/candidates/ESR4_4">S. Diaz-Meza</a>, P. Jousset, G. Currenti, C. Wollin, C. Krawczyk, A. Clarke, A. Chalari "On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy)." Sensors (2023).</td>
+    <td align="center"><a href="https://www.mdpi.com/1424-8220/23/7/3735">10.3390/s23073735</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>, H. Igel, and J.-P. Montagner. "Single-point dispersion measurement of surface waves combining translation, rotation and strain in weakly anisotropic media: theory." Geophysical Journal International 235.1 (2023): 24-47.</td>
+    <td align="center"><a href="https://doi.org/10.1093/gji/ggad199">10.1093/gji/ggad199</a></td>
+  </tr>
+  <tr>
+    <td>Wuestefeld, Andreas, Z. J. Spica, K. Aderhold et al. including P. Jousset, T. Kiers, <a href="https://spin-itn.eu/candidates/ESR4_4">S. Diaz-Meza</a> "The Global DAS Month of February 2023." Seismological Research Letters (2023).</td>
+    <td align="center"><a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023">10.1785/0220230180</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, D. Husmann, N. Müller, J. Morel, A. Fichtner "Long-range fiber-optic earthquake sensing by active phase noise cancellation." Scientific Reports (2023).</td>
+    <td align="center"><a href="https://www.nature.com/articles/s41598-023-41161-x">10.48550/arXiv.2305.01468</a></td>
+  </tr>
+  <tr class="hidden-row">
+    <td><a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, <a href="https://spin-itn.eu/candidates/ESR3_4">M. Safarkhani</a>, and <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>. "Continuous isolated noise sources induce repeating waves in the coda of ambient noise correlations." Seismica 2.2 (2023).</td>
+    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/499/1174">10.26443/seismica.v2i2.499</a></td>
+  </tr>
+  <tr class="hidden-row">
+    <td><a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>, H. Igel, and J.-P. Montagner. "Anisotropy and deformation processes in Southern California from rotational observations." Geophysical Research Letters 50.23 (2023).</td>
+    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970">10.1029/2023GL105970</a></td>
+  </tr>
+  <tr class="hidden-row">
+    <td><a href="https://spin-itn.eu/candidates/ESR3_1">D. Strutz</a>, and A. Curtis. "Variational bayesian experimental design for geophysical applications." Geophysical Journal International (2023).</td>
+    <td align="center"><a href="https://doi.org/10.1093/gji/ggad492">10.1093/gji/ggad492</a></td>
+  </tr>
+  <tr class="hidden-row">
+    <td><a href="https://spin-itn.eu/candidates/ESR3_2">Z. Niu</a>, A. A. Gabriel, L. Seelinger, H.  Igel "Modeling and Quantifying Parameter Uncertainty of Co‐Seismic Non‐Classical Nonlinearity in Rocks." Journal of Geophysical Research: Solid Earth 129.1 (2024).</td>
+    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149">10.1029/2023JB027149</a></td>
+  </tr>
+  <tr class="hidden-row">
+    <td>J. Bott, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, et al. ''Density and strength variations in the mantle lithosphere and the distribution of intraplate earthquakes.'' Communications Earth & Environment. (2024)</td>
+    <td align="center"><a href="https://www.nature.com/articles/s43247-024-01417-4">10.1038/s43247-024-01417-4</a></td>
+  </tr>
+  <!-- Add additional rows here, ensuring each has the class "hidden-row" if initially hidden -->
+</table>
+
+<!-- Button to toggle the visibility of additional table rows -->
+<button id="toggleButton" onclick="toggleRows()">Show more</button>
+
+<script>
+    function toggleRows() {
+        const button = document.getElementById('toggleButton');
+        const hiddenRows = document.querySelectorAll('.hidden-row');
+
+        hiddenRows.forEach(row => {
+            row.style.display = row.style.display === 'table-row' ? 'none' : 'table-row';
+        });
+
+        // Change button text to "Show less" or "Show more"
+        button.textContent = button.textContent === 'Show more' ? 'Show less' : 'Show more';
+    }
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
 
 <table style="width:auto;">
   <caption>Publications</caption>
