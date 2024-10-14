@@ -9,7 +9,6 @@ nav_order: 5
 # SPIN Research output
 
 <!-- ***********************************************Publications Table*********************************************** -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
