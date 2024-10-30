@@ -164,19 +164,19 @@ nav_order: 5
         <td>DIAS, Eleanor</td>
         <td>Oral</td>
         <td>IAVCEI</td>
-        <td>Jan, 2023</td>
+        <td>Jan-Feb, 2023</td>
     </tr>
     <tr>
         <td>GFZ, Sergio</td>
         <td>Poster</td>
         <td>IAVCEI</td>
-        <td>Jan, 2023</td>
+        <td>Jan-Feb, 2023</td>
     </tr>
     <tr>
         <td>IPGP, Mohammad Amin</td>
         <td>No Presentation</td>
         <td>VMSG</td>
-        <td>Feb, 2023</td>
+        <td>Feb-Mar, 2023</td>
     </tr>
     <tr>
         <td>UHAM, Marco</td>
@@ -344,7 +344,7 @@ nav_order: 5
         <td>ETH, Sebastian</td>
         <td>Poster</td>
         <td>Physics-Based Ground Motion Modeling</td>
-        <td>Sep, 2023</td>
+        <td>Oct, 2023</td>
     </tr>
     <tr>
         <td>LMU, Le</td>
@@ -418,7 +418,7 @@ nav_order: 5
         <td>4th British Seismology Meeting</td>
         <td>Apr, 2024</td>
     </tr>
-    <tr>
+     <tr>
       <td>ETH, Tjeerd <em>(invited presentation)</em></td>
       <td>Oral</td>
       <td>EGU</td>
@@ -500,49 +500,49 @@ nav_order: 5
         <td>GFZ, Manuel</td>
         <td>Oral</td>
         <td>ICNEM</td>
-        <td>Apr, 2024</td>
+        <td>Jun, 2024</td>
     </tr>
     <tr>
         <td>UHAM, Marco</td>
         <td>Oral</td>
         <td>ICNEM</td>
-        <td>Apr, 2024</td>
+        <td>Jun, 2024</td>
     </tr>
     <tr>
         <td>UEDIN, Declan</td>
         <td>Oral</td>
         <td>ICNEM</td>
-        <td>Apr, 2024</td>
+        <td>Jun, 2024</td>
     </tr>
     <tr>
         <td>ETH, Tjeerd</td>
         <td>Oral</td>
         <td>EAGE</td>
-        <td>Apr, 2024</td>
+        <td>Jun, 2024</td>
     </tr>
     <tr>
         <td>GFZ, Sergio</td>
         <td>Oral</td>
         <td>12 EGU Galileo Conference</td>
-        <td>Apr, 2024</td>
+        <td>Jun, 2024</td>
     </tr>
     <tr>
         <td>GFZ, Sergio</td>
         <td>Poster</td>
         <td>12 EGU Galileo Conference</td>
-        <td>Apr, 2024</td>
+        <td>Jun, 2024</td>
     </tr>
     <tr>
         <td>UGA, Julius</td>
         <td>Oral</td>
         <td>12 EGU Galileo Conference</td>
-        <td>Apr, 2024</td>
+        <td>Jun, 2024</td>
     </tr>
     <tr>
         <td>ETH, Sebastian</td>
         <td>Oral</td>
         <td>IEEE Summer Topicals Meeting Series</td>
-        <td>Apr, 2024</td>
+        <td>Jul, 2024</td>
     </tr>
   </tbody>
 </table>
