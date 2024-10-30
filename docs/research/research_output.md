@@ -106,443 +106,443 @@ nav_order: 5
 <table>
   <caption>Conference Presentations</caption>
   <colgroup>
-    <col style="width:25%; white-space: nowrap;"> <!-- Tighter first column -->
-    <col style="width:25%;"> <!-- Adjust the width of the column author -->
-    <col style="width:25%;"> <!-- Adjust the width of the column link to github -->
-    <col style="width:25%;"> <!-- Adjust the width of the column 1 sentence description -->
+    <col style="width:30%; white-space: nowrap;"> <!-- Author names -->
+    <col style="width:10%;"> <!-- Presentation type -->
+    <col style="width:40%;"> <!-- Conference title -->
+    <col style="width:20%;"> <!-- Conference year -->
   </colgroup>
   <tbody>
     <tr>
-        <td>Jan, 2022</td>
-        <td>VMSG 2022</td>
         <td>DIAS, Eleanor</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>VMSG</td>
+        <td>2022</td>
     </tr>
     <tr>
-        <td>May, 2022</td>
-        <td>EGU 2022</td>
         <td>LMU, Zihua</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2022</td>
     </tr>
     <tr>
-        <td>May, 2022</td>
-        <td>EGU 2022</td>
         <td>UGA, Julius</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2022</td>
     </tr>
     <tr>
-        <td>May, 2022</td>
-        <td>EGU 2022</td>
         <td>DIAS, Eleanor</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2022</td>
     </tr>
     <tr>
-        <td>May, 2022</td>
-        <td>EGU 2022</td>
         <td>GFZ, Sergio Philippe</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2022</td>
     </tr>
     <tr>
-        <td>Oct, 2022</td>
-        <td>SSA Seismic Tomography 2022</td>
         <td>ETH, Sebastian</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>SSA Seismic Tomography</td>
+        <td>2022</td>
     </tr>
     <tr>
-        <td>Dec, 2022</td>
-        <td>AGU 2022</td>
         <td>LMU, Le</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>AGU</td>
+        <td>2022</td>
     </tr>
     <tr>
-        <td>Dec, 2022</td>
-        <td>AGU 2022</td>
         <td>GFZ, Manuel Christoph</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>AGU</td>
+        <td>2022</td>
     </tr>
     <tr>
-        <td>Feb, 2023</td>
-        <td>IAVCEI 2023</td>
         <td>DIAS, Eleanor</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>IAVCEI</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Feb, 2023</td>
-        <td>IAVCEI 2023</td>
         <td>GFZ, Sergio</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>IAVCEI</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Mar, 2023</td>
-        <td>VMSG 2023</td>
         <td>IPGP, Mohammad Amin</td>
-        <td>no presentation</td>
+        <td>No Presentation</td>
+        <td>VMSG</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Apr, 2023</td>
-        <td>EGU 2023</td>
         <td>UHAM, Marco</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>EGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Apr, 2023</td>
-        <td>EGU 2023</td>
         <td>ETH, Tjeerd</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>EGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Apr, 2023</td>
-        <td>EGU 2023</td>
         <td>ETH, Tjeerd</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Apr, 2023</td>
-        <td>EGU 2023</td>
         <td>IPGP, Mohammad Amin</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>EGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Apr, 2023</td>
-        <td>EGU 2023</td>
         <td>UHM, Mahsa</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>EGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Apr, 2023</td>
-        <td>EGU 2023</td>
         <td>UHM, Mahsa</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>EGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Apr, 2023</td>
-        <td>EGU 2023</td>
         <td>UGA, Mirko</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>EGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Apr, 2023</td>
-        <td>EGU 2023</td>
         <td>UGA, Julius</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Apr, 2023</td>
-        <td>EGU 2023</td>
         <td>DIAS, Eleanor</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Apr, 2023</td>
-        <td>EGU 2023</td>
         <td>LMU, Zihua</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Apr, 2023</td>
-        <td>EGU 2023</td>
         <td>GFZ, Manuel</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Apr, 2023</td>
-        <td>EGU 2023</td>
         <td>LMU, Le</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Apr, 2023</td>
-        <td>EGU 2023</td>
         <td>GFZ, Sergio</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Apr, 2023</td>
-        <td>EGU 2023</td>
         <td>UEDIN, Dominik</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>May, 2023</td>
-        <td>GeoSciences PGR Conference 2023</td>
         <td>UKRI, Foteini</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>GeoSciences PGR Conference</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>May, 2023</td>
-        <td>11 EGU Galileo Conference 2023</td>
         <td>ETH, Sebastian</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>11 EGU Galileo Conference</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Jun, 2023</td>
-        <td>ICNEM 2023</td>
         <td>UHAM, Marco</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>ICNEM</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Jun, 2023</td>
-        <td>ICNEM 2023</td>
         <td>LMU, Zihua</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>ICNEM</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Jun, 2023</td>
-        <td>ICNEM 2023</td>
         <td>GFZ, Manuel</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>ICNEM</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Jul, 2023</td>
-        <td>IUGG 2023</td>
         <td>GFZ, Manuel</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>IUGG</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Jul, 2023</td>
-        <td>IUGG 2023</td>
         <td>GFZ, Sergio</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>IUGG</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Jul, 2023</td>
-        <td>IUGG 2023</td>
         <td>GFZ, Philippe, Sergio</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>IUGG</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Jul, 2023</td>
-        <td>IUGG 2023</td>
         <td>ETH, Sebastian</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>IUGG</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Sep, 2023</td>
-        <td>BGA PGRiP 2023</td>
         <td>UEDIN, Declan</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>BGA PGRiP</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Sep, 2023</td>
-        <td>BGA PGRiP 2023</td>
         <td>UKRI, Foteini</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>BGA PGRiP</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Sep, 2023</td>
-        <td>Machine Learning Geophysics 2023</td>
         <td>UKRI, Foteini</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>Machine Learning Geophysics</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Sep, 2023</td>
-        <td>Machine Learning Geophysics 2023</td>
         <td>UEDIN, Dominik</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>Machine Learning Geophysics</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Oct, 2023</td>
-        <td>Physics-Based Ground Motion Modeling – SSA, Vancouver</td>
         <td>ETH, Sebastian</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>Physics-Based Ground Motion Modeling</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Dec, 2023</td>
-        <td>AGU 2023</td>
         <td>LMU, Le</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>AGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Dec, 2023</td>
-        <td>AGU 2023</td>
         <td>LMU, Le</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>AGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Dec, 2023</td>
-        <td>AGU 2023</td>
         <td>IPGP, Mohammad Amin</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>AGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Dec, 2023</td>
-        <td>AGU 2023</td>
         <td>UGA, Mirko</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>AGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Dec, 2023</td>
-        <td>AGU 2023</td>
         <td>LMU, Zihua</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>AGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Dec, 2023</td>
-        <td>AGU 2023</td>
         <td>ETH, Sebastian</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>AGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Dec, 2023</td>
-        <td>AGU 2023</td>
         <td>ETH, Sebastian</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>AGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Dec, 2023</td>
-        <td>AGU 2023</td>
         <td>UGA, Julius</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>AGU</td>
+        <td>2023</td>
     </tr>
     <tr>
-        <td>Mar, 2024</td>
-        <td>84. Jahrestagung DGG</td>
         <td>UHAM, Marco</td>
-        <td>oral</td>
-    </tr>
-    <tr>
-        <td>Mar, 2024</td>
+        <td>Oral</td>
         <td>84. Jahrestagung DGG</td>
-        <td>UHAM, Mahsa</td>
-        <td>poster</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Mar, 2024</td>
+        <td>UHAM, Mahsa</td>
+        <td>Poster</td>
         <td>84. Jahrestagung DGG</td>
-        <td>UHAM, Mahsa</td>
-        <td>poster</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Mar, 2024</td>
+        <td>UHAM, Mahsa</td>
+        <td>Poster</td>
+        <td>84. Jahrestagung DGG</td>
+        <td>2024</td>
+    </tr>
+    <tr>
+        <td>UKRI, Foteini</td>
+        <td>Poster</td>
         <td>4th British Seismology Meeting</td>
-        <td>UKRI, Foteini</td>
-        <td>poster</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Apr, 2024</td>
-        <td>EGU 2024</td>
-        <td>ETH, Tjeerd</td>
-        <td>oral</td>
+      <td>ETH, Tjeerd <em>(invited presentation)</em></td>
+      <td>Oral</td>
+      <td>EGU</td>
+      <td>2024</td>
     </tr>
     <tr>
-        <td>Apr, 2024</td>
-        <td>EGU 2024</td>
         <td>LMU, Le</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>EGU</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Apr, 2024</td>
-        <td>EGU 2024</td>
-        <td>ETH, Sebastian</td>
-        <td>oral</td>
+      <td>ETH, Sebastian <em>(invited presentation)</em></td>
+      <td>Oral</td>
+      <td>EGU</td>
+      <td>2024</td>
     </tr>
     <tr>
-        <td>Apr, 2024</td>
-        <td>EGU 2024</td>
         <td>UHAM, Mahsa</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>EGU</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Apr, 2024</td>
-        <td>EGU 2024</td>
         <td>IPGP, Mohammad Amin</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Apr, 2024</td>
-        <td>EGU 2024</td>
         <td>UGA, Mirko</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>EGU</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Apr, 2024</td>
-        <td>EGU 2024</td>
         <td>UKRI, Foteini</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>EGU</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Apr, 2024</td>
-        <td>EGU 2024</td>
         <td>DIAS, Eleanor</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>EGU</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Apr, 2024</td>
-        <td>EGU 2024</td>
         <td>GFZ, Manuel</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Apr, 2024</td>
-        <td>EGU 2024</td>
         <td>GFZ, Sergio</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Apr, 2024</td>
-        <td>EGU 2024</td>
         <td>GFZ, Sergio</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>EGU</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Apr, 2024</td>
-        <td>EGU 2024</td>
         <td>UEDIN, Dominik</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EGU</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Apr, 2024</td>
-        <td>EGU 2024</td>
         <td>UHAM, Marco</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>EGU</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Jun, 2024</td>
-        <td>ICNEM 2024</td>
         <td>GFZ, Manuel</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>ICNEM</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Jun, 2024</td>
-        <td>ICNEM 2024</td>
         <td>UHAM, Marco</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>ICNEM</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Jun, 2024</td>
-        <td>ICNEM 2024</td>
         <td>UEDIN, Declan</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>ICNEM</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Jun, 2024</td>
-        <td>EAGE 2024</td>
         <td>ETH, Tjeerd</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>EAGE</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Jun, 2024</td>
-        <td>12 EGU Galileo Conference 2024</td>
         <td>GFZ, Sergio</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>12 EGU Galileo Conference</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Jun, 2024</td>
-        <td>12 EGU Galileo Conference 2024</td>
         <td>GFZ, Sergio</td>
-        <td>poster</td>
+        <td>Poster</td>
+        <td>12 EGU Galileo Conference</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Jun, 2024</td>
-        <td>12 EGU Galileo Conference 2024</td>
         <td>UGA, Julius</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>12 EGU Galileo Conference</td>
+        <td>2024</td>
     </tr>
     <tr>
-        <td>Jul, 2024</td>
-        <td>IEEE Summer Topicals Meeting Series</td>
         <td>ETH, Sebastian</td>
-        <td>oral</td>
+        <td>Oral</td>
+        <td>IEEE Summer Topicals Meeting Series</td>
+        <td>2024</td>
     </tr>
   </tbody>
 </table>
