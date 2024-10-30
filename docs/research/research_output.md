@@ -103,7 +103,41 @@ nav_order: 5
 
 <!-- ***********************************************Presentations Table*********************************************** -->
 
-<br>
+<table>
+  <caption>Conference Presentations</caption>
+  <colgroup>
+    <col style="width:25%; white-space: nowrap;"> <!-- Tighter first column -->
+    <col style="width:25%;"> <!-- Adjust the width of the column author -->
+    <col style="width:25%;"> <!-- Adjust the width of the column link to github -->
+    <col style="width:25%;"> <!-- Adjust the width of the column 1 sentence description -->
+  </colgroup>
+  <thead>
+    <tr>
+        <th>Date</th>
+        <th>Conference</th>
+        <th>Institution and Name</th>
+        <th>Presentation Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Apr 2023</td>
+        <td>Geophysics Conference</td>
+        <td>LMU, Zihua</td>
+        <td>oral</td>
+    </tr>
+    <tr>
+        <td>May 2023</td>
+        <td>Geophysics Symposium</td>
+        <td>Uni Hamburg, Hans</td>
+        <td>poster</td>
+    </tr>
+    <tr>
+        <td>Jun 2023</td>
+        <td>Seismology Workshop</td>
+        <td>ETH Zurich, Lina</td>
+        <td>no presentation</td>
+    </tr>
 
 <!-- ***********************************************Deliverables Table*********************************************** -->
 
