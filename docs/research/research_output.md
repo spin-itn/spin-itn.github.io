@@ -6,8 +6,6 @@ permalink: /output/
 nav_order: 5
 ---
 
-<a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>
-
 # SPIN Research output
 
 <!-- ***********************************************Publications Table*********************************************** -->
@@ -30,7 +28,7 @@ nav_order: 5
     <td align="center"><a href="https://doi.org/10.1093/gji/ggad199">https://doi.org/10.1093/gji/ggad199</a></td>
   </tr>
   <tr>
-    <td>Wuestefeld A., Z. J. Spica, K. Aderhold et al. including P. Jousset, T. Kiers, S. Dias-Meza. "The Global DAS Month of February 2023." Seismological Research Letters (2023)</td>
+    <td>Wuestefeld A., Z. J. Spica, K. Aderhold et al. including P. Jousset, <a href="https://spin-itn.eu/candidates/ESR4_3">T. Kiers</a>, <a href="https://spin-itn.eu/candidates/ESR4_4">S. Diaz-Meza</a>. "The Global DAS Month of February 2023." Seismological Research Letters (2023)</td>
     <td align="center"><a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023">https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023</a></td>
   </tr>
   <tr>
@@ -38,7 +36,7 @@ nav_order: 5
     <td align="center"><a href="https://www.nature.com/articles/s41598-023-41161-x">https://www.nature.com/articles/s41598-023-41161-x</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.geo.uni-hamburg.de/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, M. Safarkhani, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>. "Continuous isolated noise sources induce repeating waves in the coda of ambient noise correlations." Seismica (2023)</td>
+    <td><a href="https://www.geo.uni-hamburg.de/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, <a href="https://spin-itn.eu/candidates/ESR3_4">M. Safarkhani</a>, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>. "Continuous isolated noise sources induce repeating waves in the coda of ambient noise correlations." Seismica (2023)</td>
     <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/499/1174">https://seismica.library.mcgill.ca/article/view/499/1174</a></td>
   </tr>
   <tr>
@@ -46,11 +44,11 @@ nav_order: 5
     <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970">https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970</a></td>
   </tr>
   <tr>
-    <td>D. Strutz, A. Curtis. "VARIATIONAL BAYESIAN EXPERIMENTAL DESIGN FOR GEOPHYSICAL APPLICATIONS." Geophysical Journal International (2023)</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR3_1">D. Strutz</a>, A. Curtis. "Variational Bayesian Experimental Design for Geophysical Applications." Geophysical Journal International (2023)</td>
     <td align="center"><a href="https://doi.org/10.1093/gji/ggad492">https://doi.org/10.1093/gji/ggad492</a></td>
   </tr>
   <tr>
-    <td>Z. Niu, A. A. Gabriel, L. Seelinger, H. Igel. "Modeling and Quantifying Parameter Uncertainty of Co-seismic Non-classical Nonlinearity in Rocks." JGR: Solid Earth (2024)</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR3_2">Z. Niu</a>, A. A. Gabriel, L. Seelinger, H. Igel. "Modeling and Quantifying Parameter Uncertainty of Co-seismic Non-classical Nonlinearity in Rocks." JGR: Solid Earth (2024)</td>
     <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149">https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149</a></td>
   </tr>
   <tr>
