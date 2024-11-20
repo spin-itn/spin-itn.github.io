@@ -64,45 +64,18 @@ nav_order: 5
     <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/1405/1569">10.26443/seismica.v3i2.1405</a></td>
   </tr>
   <tr>
-    <td>S. Thrastarson, D.-P. van Herwaarden, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, C. J. Schiller, A. Fichtner. ''REVEAL: A Global Full-Waveform Inversion Model.'' Bulletin of the Seismological Society of America (2024)</td>
-    <td align="center"><a href="https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/114/3/1392/637892/REVEAL-A-Global-Full-Waveform-Inversion-Model?redirectedFrom=PDF">10.1785/0120230273</a></td>
-  </tr>
-  <tr>
-    <td>A. Fichtner, S. Thrastarson, D.P. van Herwaarden, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>. "An illustrated guide to: Parsimonious multi-scale full-waveform inversion." Earthquake Science (2024)</td>
-    <td align="center"><a href="https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.07.004">10.1016/j.eqs.2024.07.004</a></td>
-  </tr>
-  <tr>
-    <td>A. Fichtner, F. Walter, P. Paitz, S. Klaasen, D.C. Bowden, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, N. Müller, D. Husmann, J. Morel. "An illustrated guide to: Distributed and integrated fiber-optic sensing in seismology." Earthquake Science (2025)</td>
-    <td align="center"><a href="https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.09.006">10.1016/j.eqs.2024.09.006</a></td>
-  </tr>  
-  <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a> et al. ''The Collaborative Seismic Earth Model: Generation 2.'' JGR: Solid Earth (2024)</td>
-    <td align="center">Submitted</td>
-  </tr>
-  <tr>
-    <td>J. Igel, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, et al. "Challenges in submarine fiber-optic earthquake monitoring." JGR: Solid Earth (2024)</td>
-    <td align="center">Submitted</td>
-  </tr>
-  <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR2_3">F. Dervisi</a>, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting." Journal Earth, Planets and Space (2024)</td>
-    <td align="center">Submitted</td>
-  </tr>
-  <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_4">M.-A. Aminian</a> et al. "Shallow Crustal Structures of the Indian Ocean Derived from Compliance Function Analysis." Geophysical Journal International (2024)</td>
-    <td align="center">Submitted</td>
-  </tr>
-  <tr>
-    <td>T. Schouten, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>. "Full-waveform inversion reveals diverse origins of lower mantle positive wave speed anomalies." Scientific Reports (2024)</td>
-    <td align="center">Submitted</td>
-  </tr>
-  <tr>
-    <td>R. Maass et al. "Stacking of distributed dynamic strain reveals link between seismic velocity changes and the 2020 unrest in Reykjanes." JGR: Solid Earth (2024)</td>
-    <td align="center">Submitted</td>
-  </tr>
-  <tr>
-    <td>T.L.A. Schouten, L. Gebraad, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, A.J.P. Gülcher, S. Thrastarson, D.-P. van Herwaarden, A. Fichtner. "Full-waveform inversion reveals diverse origins of lower mantle positive wave speed anomalies." Scientific reports (2024)</td>
-    <td align="center"><a href="https://doi.org/10.1038/s41598-024-77399-2">10.1038/s41598-024-77399-2</a></td>
+<tr>
+    <td>S. Thrastarson, D.-P. van Herwaarden, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, C. J. Schiller, A. Fichtner. "REVEAL: A Global Full-Waveform Inversion Model." Bulletin of the Seismological Society of America (2024)</td>
+    <td align="center"><a href="http://pubs.geoscienceworld.org/ssa/bssa/article-pdf/114/3/1392/6445281/bssa-2023273.1.pdf">10.1785/0120230273</a></td>
 </tr>
+<tr>
+    <td>A. Fichtner, S. Thrastarson, D.P. van Herwaarden, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>. "An illustrated guide to: Parsimonious multi-scale full-waveform inversion." Earthquake Science (2024)</td>
+    <td align="center"><a href="http://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.07.004">10.1016/j.eqs.2024.07.004</a></td>
+</tr>
+<tr>
+    <td>A. Fichtner, F. Walter, P. Paitz, S. Klaasen, D.C. Bowden, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, N. Müller, D. Husmann, J. Morel. "An illustrated guide to: Distributed and integrated fiber-optic sensing in seismology." Earthquake Science (2025)</td>
+    <td align="center"><a href="http://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.09.006">10.1016/j.eqs.2024.09.006</a></td>
+</tr>  
 <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a> et al. "The Collaborative Seismic Earth Model: Generation 2." JGR: Solid Earth (2024)</td>
     <td align="center">Submitted</td>
@@ -118,6 +91,14 @@ nav_order: 5
 <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR1_4">M.-A. Aminian</a> et al. "Shallow Crustal Structures of the Indian Ocean Derived from Compliance Function Analysis." Geophysical Journal International (2024)</td>
     <td align="center">Submitted</td>
+</tr>
+<tr>
+    <td>T. Schouten, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>. "Full-waveform inversion reveals diverse origins of lower mantle positive wave speed anomalies." Scientific Reports (2024)</td>
+    <td align="center"><a href="https://doi.org/10.1038/s41598-024-77399-2">10.1038/s41598-024-77399-2</a></td>
+</tr>
+<tr>
+    <td>R. Maass et al. "Stacking of distributed dynamic strain reveals link between seismic velocity changes and the 2020 unrest in Reykjanes." JGR: Solid Earth (2024)</td>
+    <td align="center"><a href="https://doi.org/10.1029/2023JB028320">10.1029/2023JB028320</a></td>
 </tr>
 </table>
 
