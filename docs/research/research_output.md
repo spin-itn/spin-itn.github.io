@@ -553,6 +553,6 @@ nav_order: 5
 </head>
 <body>
     <p>
-        To download the Deliverables: <a href="https://github.com/spin-itn/spin-itn.github.io/raw/refs/heads/main/files/logos/Deliverables.docx" download>Download</a>
+        <a href="https://github.com/spin-itn/spin-itn.github.io/raw/refs/heads/main/files/logos/Deliverables.docx" download>Download the Deliverables file</a>
     </p>
 </body>
