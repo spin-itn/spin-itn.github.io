@@ -6,7 +6,7 @@ permalink: /output/
 nav_order: 5
 ---
 
-<a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>
+<a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>
 
 # SPIN Research output
 
@@ -22,11 +22,11 @@ nav_order: 5
     <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/195/286">https://seismica.library.mcgill.ca/article/view/195/286</a></td>
   </tr>
   <tr>
-    <td>S. Diaz-Meza, P. Jousset, G. Currenti, C. Wollin, C. Krawczyk, A. Clarke, A. Chalari. "On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy)." Sensors (2023)</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR4_4">S. Diaz-Meza</a>, P. Jousset, G. Currenti, C. Wollin, C. Krawczyk, A. Clarke, A. Chalari. "On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy)." Sensors (2023)</td>
     <td align="center"><a href="https://www.mdpi.com/1424-8220/23/7/3735">https://www.mdpi.com/1424-8220/23/7/3735</a></td>
   </tr>
   <tr>
-    <td>L. Tang, H. Igel, J.-P. Montagner. "Single-point dispersion measurement of surface waves combining translation, rotation and strain in weakly anisotropic media: theory." Geophysical Journal International (2023)</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>, H. Igel, J.-P. Montagner. "Single-point dispersion measurement of surface waves combining translation, rotation and strain in weakly anisotropic media: theory." Geophysical Journal International (2023)</td>
     <td align="center"><a href="https://doi.org/10.1093/gji/ggad199">https://doi.org/10.1093/gji/ggad199</a></td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@ nav_order: 5
     <td align="center"><a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023">https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023</a></td>
   </tr>
   <tr>
-    <td>S. Noe, D. Husmann, N. Müller, J. Morel, A. Fichtner. "Long-range fiber-optic earthquake sensing by active phase noise cancellation." Scientific Reports (2023)</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, D. Husmann, N. Müller, J. Morel, A. Fichtner. "Long-range fiber-optic earthquake sensing by active phase noise cancellation." Scientific Reports (2023)</td>
     <td align="center"><a href="https://www.nature.com/articles/s41598-023-41161-x">https://www.nature.com/articles/s41598-023-41161-x</a></td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@ nav_order: 5
     <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/499/1174">https://seismica.library.mcgill.ca/article/view/499/1174</a></td>
   </tr>
   <tr>
-    <td>L. Tang, H. Igel, J.-P. Montagner. "Anisotropy and deformation processes in Southern California from rotational observations." Geophysical Research Letters (2023)</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>, H. Igel, J.-P. Montagner. "Anisotropy and deformation processes in Southern California from rotational observations." Geophysical Research Letters (2023)</td>
     <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970">https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970</a></td>
   </tr>
   <tr>
@@ -54,11 +54,11 @@ nav_order: 5
     <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149">https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149</a></td>
   </tr>
   <tr>
-    <td>J. Bott, S. Noe, et al. "Density and strength variations in the mantle lithosphere and the distribution of intraplate earthquakes." Communications Earth & Environment (2024)</td>
+    <td>J. Bott, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, et al. "Density and strength variations in the mantle lithosphere and the distribution of intraplate earthquakes." Communications Earth & Environment (2024)</td>
     <td align="center"><a href="https://doi.org/10.1038/s43247-024-01417-4">https://doi.org/10.1038/s43247-024-01417-4</a></td>
   </tr>
   <tr>
-    <td>L. Tang, H. Igel, J.-P. Montagner. "Seismic anisotropy from 6C ground motions of ambient seismic noise." JGR: Solid Earth (2024)</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>, H. Igel, J.-P. Montagner. "Seismic anisotropy from 6C ground motions of ambient seismic noise." JGR: Solid Earth (2024)</td>
     <td align="center"><a href="https://doi.org/10.1029/2024JB028959">https://doi.org/10.1029/2024JB028959</a></td>
   </tr>
   <tr>
