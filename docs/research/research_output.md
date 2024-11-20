@@ -547,122 +547,12 @@ nav_order: 5
   </tbody>
 </table>
 
-<!-- ***********************************************Deliverables Table*********************************************** -->
-
-<table>
-  <caption>Deliverables</caption>
-  <colgroup>
-    <col style="width:20px; white-space: nowrap;"> <!-- Tighter first column -->
-    <col style="width:50%;"> <!-- Adjust the width of the column author -->
-    <col style="width:10%;"> <!-- Adjust the width of the column link to github -->
-    <col style="width:35%;"> <!-- Adjust the width of the column 1 sentence description -->
-  </colgroup>
-  <tr> <!-- D1.1 -->
-    <td align="center">D1.1</td>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_3">Mirko Bracale</a>, Michel Campillo, and Helle Pedersen</td>
-    <td align="center"><a href="https://github.com/bracalem/measure_delay_CWT">github</a></td>
-    <td align="center"><a href='https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5ed43cbe9&appId=PPGMS'>Novel array processing approach</a></td>
-  </tr>
-  <tr> <!-- D1.2 -->
-    <td align="center">D1.2</td>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_1">Le Tang</a> and Heiner Igel</td>
-    <td align="center"><a href="https://github.com/spin-itn/6C_anisotropy">github</a></td>
-    <td align="center">Open source processing toolbox + Jupyter notebooks</td>
-  </tr>
-  <tr> <!-- D1.3 -->
-    <td align="center">D1.3</td>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_2">Sebastian Noe</a> and Andreas Fichtner</td>
-    <td align="center"><a href=""></a></td>
-    <td align="center">Workflow for fiber- optic ground motion monitoring</td>
-  </tr>
-  <tr> <!-- D1.4 -->
-    <td align="center">D1.4</td>
-    <td><a href="[https://spin-itn.eu/candidates/ESR1_2](https://spin-itn.eu/candidates/ESR1_4)">Mohammad Amin Aminian</a></td>
-    <td align="center"><a href=""></a></td>
-    <td align="center">Database of cleaned OBS data, to be integrated in EPOS</td>
-  </tr>
-  <tr> <!-- D2.1 -->
-    <td align="center">D2.1</td>
-    <td><a href="https://spin-itn.eu/candidates/ESR2_2">Declan Andrew</a> and Andrew Curtis</td>
-    <td align="center"><a href="https://github.com/Aangniu/NonlinearWave">github</a></td>
-    <td align="center"><a href='https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5f8546d81&appId=PPGMS'>SPIN Nonlinear wave propagation code</a></td>
-  </tr>
-  <tr> <!-- D2.2 -->
-    <td align="center">D2.2</td>
-    <td><a href="https://spin-itn.eu/candidates/ESR2_1">Manuel Asnar</a> and Christoph Sens-Schönfelder</td>
-    <td align="center"><a href=""></a></td>
-    <td align="center">Physical model for material response</td>
-  </tr>
-  <tr> <!-- D2.3 -->
-    <td align="center">D2.3</td>
-    <td>Christoph Sens-Schönfelder, <a href="https://spin-itn.eu/candidates/ESR2_1">Manuel Asnar</a>, and <a href='https://spin-itn.eu/candidates/ESR3_2'>Zihua Niu</a></td>
-    <td align="center"><a href=""></a></td>
-    <td align="center">Empirical description of materials under dynamic strain</td>
-  </tr>
-  <tr> <!-- D2.4 -->
-    <td align="center">D2.4</td>
-    <td><a href="https://spin-itn.eu/candidates/ESR2_3">Foteini Dervisi</a>, Margarita Segou, Brian Baptie, Ian Main and Andrew Curtis</td>
-    <td align="center"><a href=""></a></td>
-    <td align="center">Hybrid model for triggered seismicity in critical systems</td>
-  </tr>
-  <tr> <!-- D3.1 -->
-    <td align="center">D3.1</td>
-    <td><a href="https://spin-itn.eu/candidates/ESR3_3">Julius Grimm</a> and Piero Poli</td>
-    <td align="center"><a href="https://github.com/spin-itn/detect-hidden-signals">github</a></td>
-    <td align="center"><a href='https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5e8e78ccc&appId=PPGMS'>Novel algorithm to detect hidden signals</a></td>
-  </tr>
-  <tr> <!-- D3.2 -->
-    <td align="center">D3.2</td>
-    <td><a href="https://spin-itn.eu/candidates/ESR3_1">Dominik Strutz</a> and Andrew Curtis</td>
-    <td align="center"><a href="https://github.com/spin-itn/GeoBED">github</a></td>
-    <td align="center"><a href='https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5f8546d82&appId=PPGMS'>Open source code for irrogation theory</a></td>
-  </tr>
-  <tr> <!-- D3.3 -->
-    <td align="center">D3.3</td>
-    <td><a href="https://spin-itn.eu/candidates/ESR3_4">Mahsa Safarkhani</a>, <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/schippkus-sven.html">Schippkus, Sven</a>, and <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">Céline Hadziioannou</a></td>
-    <td align="center"><a href=""></a></td>
-    <td align="center">Database of multi- observable noise sources</td>
-  </tr>
-  <tr> <!-- D3.4 -->
-    <td align="center">D3.4</td>
-    <td><a href="https://spin-itn.eu/candidates/ESR3_2">Zihua Niu</a></td>
-    <td align="center"><a href="https://github.com/SeisSol/SeisSol/tree/damaged-material-nonlinear-drB">github</a></td>
-    <td align="center">Open source solver for nonlinear wave propagation</td>
-  </tr>
-  <tr> <!-- D4.1 -->
-    <td align="center">D4.1</td>
-    <td><a href="https://spin-itn.eu/candidates/ESR4_2">Marco Dominguez-Bureos</a> and <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">Céline Hadziioannou</a></td>
-    <td align="center"><a href=""></a></td>
-    <td align="center">Dataset for transient material changes</td>
-  </tr>
-  <tr> <!-- D4.2 -->
-    <td align="center">D4.2</td>
-    <td><a href="https://spin-itn.eu/candidates/ESR4_1">Eleanor Dunn</a> and Chris Bean</td>
-    <td align="center"><a href=""></a></td>
-    <td align="center">Catalogue of Volcano Seismicity</td>
-  </tr>
-  <tr> <!-- D4.3 -->
-    <td align="center">D4.3</td>
-    <td><a href="https://spin-itn.eu/candidates/ESR4_3">Tjeerd Kiers</a> and Cedric Schmelzbach</td>
-    <td align="center"><a href=""></a></td>
-    <td align="center">Alpine permafrost monitoring tool box</td>
-  </tr>
-  <tr> <!-- D4.4 -->
-    <td align="center">D4.4</td>
-    <td><a href="https://spin-itn.eu/candidates/ESR4_4">Sergio Diaz-Meza</a>, Philippe Jousset, Charlotte Krawczyk</td>
-    <td align="center"><a href=""></a></td>
-    <td align="center">Subsurface response of volcanoes to volcanic excitation</td>
-  </tr>
-<!-- D5.1 and later not included -->
-</table>
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
     <p>
-        To download the file, <a href="https://github.com/spin-itn/spin-itn.github.io/raw/refs/heads/main/files/logos/Deliverables.docx" download>Download the file</a>.
+        To download the Deliverables: <a href="https://github.com/spin-itn/spin-itn.github.io/raw/refs/heads/main/files/logos/Deliverables.docx" download>Download</a>
     </p>
 </body>
-</html>
