@@ -655,3 +655,14 @@ nav_order: 5
   </tr>
 <!-- D5.1 and later not included -->
 </table>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <p>
+        To download the file, <a href="https://github.com/spin-itn/spin-itn.github.io/raw/refs/heads/main/files/logos/Deliverables.docx" download>Download the file</a>.
+    </p>
+</body>
+</html>
