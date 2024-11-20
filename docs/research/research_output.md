@@ -6,6 +6,8 @@ permalink: /output/
 nav_order: 5
 ---
 
+<a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>
+
 # SPIN Research output
 
 <!-- ***********************************************Publications Table*********************************************** -->
@@ -16,7 +18,7 @@ nav_order: 5
     <col style="width:20%;"> <!-- Adjust the width of the second column -->
   </colgroup>
   <tr>
-    <td>S. Schippkus, R. Snieder, C. Hadziioannou. "Seismic interferometry in the presence of an isolated noise source." Seismica (2022)</td>
+    <td><a href="https://www.geo.uni-hamburg.de/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, R. Snieder, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>. "Seismic interferometry in the presence of an isolated noise source." Seismica (2022)</td>
     <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/195/286">https://seismica.library.mcgill.ca/article/view/195/286</a></td>
   </tr>
   <tr>
@@ -36,7 +38,7 @@ nav_order: 5
     <td align="center"><a href="https://www.nature.com/articles/s41598-023-41161-x">https://www.nature.com/articles/s41598-023-41161-x</a></td>
   </tr>
   <tr>
-    <td>S. Schippkus, M. Safarkhani, C. Hadziioannou. "Continuous isolated noise sources induce repeating waves in the coda of ambient noise correlations." Seismica (2023)</td>
+    <td><a href="https://www.geo.uni-hamburg.de/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, M. Safarkhani, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>. "Continuous isolated noise sources induce repeating waves in the coda of ambient noise correlations." Seismica (2023)</td>
     <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/499/1174">https://seismica.library.mcgill.ca/article/view/499/1174</a></td>
   </tr>
   <tr>
