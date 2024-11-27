@@ -108,7 +108,7 @@ nav_order: 5
 </head>
 <body>
     <p>
-        <a href="https://github.com/spin-itn/spin-itn.github.io/raw/refs/heads/main/files/logos/Conference_Presentations.docx" download>Download the Conference Presentations file</a>
+        <a href="https://github.com/spin-itn/spin-itn.github.io/raw/refs/heads/main/files/logos/Conference_Presentations.pdf" download>Download the Conference Presentations file</a>
     </p>
 </body>
 
@@ -118,6 +118,6 @@ nav_order: 5
 </head>
 <body>
     <p>
-        <a href="https://github.com/spin-itn/spin-itn.github.io/raw/refs/heads/main/files/logos/Deliverables.docx" download>Download the Deliverables file</a>
+        <a href="https://github.com/spin-itn/spin-itn.github.io/raw/refs/heads/main/files/logos/Deliverables.pdf" download>Download the Deliverables file</a>
     </p>
 </body>
