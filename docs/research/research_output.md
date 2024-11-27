@@ -17,71 +17,71 @@ nav_order: 5
   </colgroup>
   <tr>
     <td><a href="https://www.geo.uni-hamburg.de/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, R. Snieder, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>. "Seismic interferometry in the presence of an isolated noise source." Seismica (2022)</td>
-    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/195/286">https://seismica.library.mcgill.ca/article/view/195/286</a></td>
+    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/195/286">195/286</a></td>
   </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR4_4">S. Diaz-Meza</a>, P. Jousset, G. Currenti, C. Wollin, C. Krawczyk, A. Clarke, A. Chalari. "On the Comparison of Records from Standard and Engineered Fiber Optic Cables at Etna Volcano (Italy)." Sensors (2023)</td>
-    <td align="center"><a href="https://www.mdpi.com/1424-8220/23/7/3735">https://www.mdpi.com/1424-8220/23/7/3735</a></td>
+    <td align="center"><a href="https://www.mdpi.com/1424-8220/23/7/3735">1424-8220/23/7/3735</a></td>
   </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>, H. Igel, J.-P. Montagner. "Single-point dispersion measurement of surface waves combining translation, rotation and strain in weakly anisotropic media: theory." Geophysical Journal International (2023)</td>
-    <td align="center"><a href="https://doi.org/10.1093/gji/ggad199">https://doi.org/10.1093/gji/ggad199</a></td>
+    <td align="center"><a href="https://doi.org/10.1093/gji/ggad199">10.1093/gji/ggad199</a></td>
   </tr>
   <tr>
     <td>Wuestefeld A., Z. J. Spica, K. Aderhold et al. including P. Jousset, <a href="https://spin-itn.eu/candidates/ESR4_3">T. Kiers</a>, <a href="https://spin-itn.eu/candidates/ESR4_4">S. Diaz-Meza</a>. "The Global DAS Month of February 2023." Seismological Research Letters (2023)</td>
-    <td align="center"><a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023">https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023</a></td>
+    <td align="center"><a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023">10.1785/0220230180/629787</a></td>
   </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, D. Husmann, N. Müller, J. Morel, A. Fichtner. "Long-range fiber-optic earthquake sensing by active phase noise cancellation." Scientific Reports (2023)</td>
-    <td align="center"><a href="https://www.nature.com/articles/s41598-023-41161-x">https://www.nature.com/articles/s41598-023-41161-x</a></td>
+    <td align="center"><a href="https://www.nature.com/articles/s41598-023-41161-x">s41598-023-41161-x</a></td>
   </tr>
   <tr>
     <td><a href="https://www.geo.uni-hamburg.de/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, <a href="https://spin-itn.eu/candidates/ESR3_4">M. Safarkhani</a>, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>. "Continuous isolated noise sources induce repeating waves in the coda of ambient noise correlations." Seismica (2023)</td>
-    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/499/1174">https://seismica.library.mcgill.ca/article/view/499/1174</a></td>
+    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/499/1174">499/1174</a></td>
   </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>, H. Igel, J.-P. Montagner. "Anisotropy and deformation processes in Southern California from rotational observations." Geophysical Research Letters (2023)</td>
-    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970">https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970</a></td>
+    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105970">10.1029/2023GL105970</a></td>
   </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR3_1">D. Strutz</a>, A. Curtis. "Variational Bayesian Experimental Design for Geophysical Applications." Geophysical Journal International (2023)</td>
-    <td align="center"><a href="https://doi.org/10.1093/gji/ggad492">https://doi.org/10.1093/gji/ggad492</a></td>
+    <td align="center"><a href="https://doi.org/10.1093/gji/ggad492">10.1093/gji/ggad492</a></td>
   </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR3_2">Z. Niu</a>, A. A. Gabriel, L. Seelinger, H. Igel. "Modeling and Quantifying Parameter Uncertainty of Co-seismic Non-classical Nonlinearity in Rocks." JGR: Solid Earth (2024)</td>
-    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149">https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149</a></td>
+    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149">10.1029/2023JB027149</a></td>
   </tr>
   <tr>
     <td>J. Bott, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, et al. "Density and strength variations in the mantle lithosphere and the distribution of intraplate earthquakes." Communications Earth & Environment (2024)</td>
-    <td align="center"><a href="https://doi.org/10.1038/s43247-024-01417-4">https://doi.org/10.1038/s43247-024-01417-4</a></td>
+    <td align="center"><a href="https://doi.org/10.1038/s43247-024-01417-4">10.1038/s43247-024-01417-4</a></td>
   </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>, H. Igel, J.-P. Montagner. "Seismic anisotropy from 6C ground motions of ambient seismic noise." JGR: Solid Earth (2024)</td>
-    <td align="center"><a href="https://doi.org/10.1029/2024JB028959">https://doi.org/10.1029/2024JB028959</a></td>
+    <td align="center"><a href="https://doi.org/10.1029/2024JB028959">10.1029/2024JB028959</a></td>
   </tr>
   <tr>
     <td>N. Müller, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a> et al. "Earthquake source inversion by integrated fiber-optic sensing." Seismica (2024)</td>
-    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/1405/1569">https://seismica.library.mcgill.ca/article/view/1405/1569</a></td>
+    <td align="center"><a href="https://seismica.library.mcgill.ca/article/view/1405/1569">1405/1569</a></td>
   </tr>
   <tr>
     <td>S. Thrastarson, D.-P. van Herwaarden, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, C. J. Schiller, A. Fichtner. "REVEAL: A Global Full-Waveform Inversion Model." Bulletin of the Seismological Society of America (2024)</td>
-    <td align="center"><a href="http://pubs.geoscienceworld.org/ssa/bssa/article-pdf/114/3/1392/6445281/bssa-2023273.1.pdf">http://pubs.geoscienceworld.org/ssa/bssa/article-pdf/114/3/1392/6445281/bssa-2023273.1.pdf</a></td>
+    <td align="center"><a href="http://pubs.geoscienceworld.org/ssa/bssa/article-pdf/114/3/1392/6445281/bssa-2023273.1.pdf">114/3/1392/6445281/bssa-2023273.1</a></td>
   </tr>
   <tr>
     <td>A. Fichtner, S. Thrastarson, D.P. van Herwaarden, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>. "An illustrated guide to: Parsimonious multi-scale full-waveform inversion." Earthquake Science (2024)</td>
-    <td align="center"><a href="http://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.07.004">http://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.07.004</a></td>
+    <td align="center"><a href="http://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.07.004">10.1016/j.eqs.2024.07.004</a></td>
   </tr>
   <tr>
     <td>A. Fichtner, F. Walter, P. Paitz, S. Klaasen, D.C. Bowden, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, N. Müller, D. Husmann, J. Morel. "An illustrated guide to: Distributed and integrated fiber-optic sensing in seismology." Earthquake Science (2025)</td>
-    <td align="center"><a href="http://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.09.006">http://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.09.006</a></td>
+    <td align="center"><a href="http://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.09.006">10.1016/j.eqs.2024.09.006</a></td>
   </tr>
   <tr>
     <td>R. Maass et al. "Stacking of distributed dynamic strain reveals link between seismic velocity changes and the 2020 unrest in Reykjanes." JGR: Solid Earth (2024)</td>
-    <td align="center"><a href="https://doi.org/10.1029/2023JB028320">https://doi.org/10.1029/2023JB028320</a></td>
+    <td align="center"><a href="https://doi.org/10.1029/2023JB028320">10.1029/2023JB028320</a></td>
   </tr>
   <tr>
     <td>T.L.A. Schouten, L. Gebraad, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, A.J.P. Gülcher, S. Thrastarson, D.-P. van Herwaarden, A. Fichtner. "Full-waveform inversion reveals diverse origins of lower mantle positive wave speed anomalies." Scientific Reports (2024)</td>
-    <td align="center"><a href="https://doi.org/10.1038/s41598-024-77399-2">https://doi.org/10.1038/s41598-024-77399-2</a></td>
+    <td align="center"><a href="https://doi.org/10.1038/s41598-024-77399-2">10.1038/s41598-024-77399-2</a></td>
   </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a> et al. "The Collaborative Seismic Earth Model: Generation 2." JGR: Solid Earth (2024)</td>
