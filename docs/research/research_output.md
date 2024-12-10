@@ -89,7 +89,7 @@ nav_order: 5
   </tr>
   <tr>
     <td>J. Igel, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, et al. "Challenges in submarine fiber-optic earthquake monitoring." JGR: Solid Earth (2024)</td>
-    <td align="center">Submitted</td>
+    <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB029556">10.1029/2024JB029556</a></td>
   </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR2_3">F. Dervisi</a>, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting." Journal Earth, Planets and Space (2024)</td>
@@ -97,6 +97,10 @@ nav_order: 5
   </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR1_4">M.-A. Aminian</a> et al. "Shallow Crustal Structures of the Indian Ocean Derived from Compliance Function Analysis." Geophysical Journal International (2024)</td>
+    <td align="center">Submitted</td>
+  </tr>
+  <tr>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>, H. Igel, J.P. Montagner, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>, <a href="https://spin-itn.eu/candidates/ESR3_4">M. Safarkhani</a>, F. Vernon. "Seasonality of microseisms in southern California from 6C ground motions." GRL (2024)</td>
     <td align="center">Submitted</td>
   </tr>
 </table>
