@@ -84,12 +84,12 @@ nav_order: 5
     <td align="center"><a href="https://doi.org/10.1038/s41598-024-77399-2">10.1038/s41598-024-77399-2</a></td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a> et al. "The Collaborative Seismic Earth Model: Generation 2." JGR: Solid Earth (2024)</td>
-    <td align="center">Submitted</td>
-  </tr>
-  <tr>
     <td>J. Igel, <a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, et al. "Challenges in submarine fiber-optic earthquake monitoring." JGR: Solid Earth (2024)</td>
     <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB029556">10.1029/2024JB029556</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a> et al. "The Collaborative Seismic Earth Model: Generation 2." JGR: Solid Earth (2024)</td>
+    <td align="center">Submitted</td>
   </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR2_3">F. Dervisi</a>, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting." Journal Earth, Planets and Space (2024)</td>
