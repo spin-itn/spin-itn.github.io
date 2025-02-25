@@ -88,20 +88,32 @@ nav_order: 5
     <td align="center"><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB029556">10.1029/2024JB029556</a></td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a> et al. "The Collaborative Seismic Earth Model: Generation 2." JGR: Solid Earth (2024)</td>
-    <td align="center">Submitted</td>
+    <td>S. Noe, et al. "The Collaborative Seismic Earth Model: Generation 2" JGR: Solid Earth (2024)</td>
+    <td align="center"><a href="https://doi.org/10.1029/2024JB029656">10.1029/2024JB029656</a></td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR2_3">F. Dervisi</a>, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting." Journal Earth, Planets and Space (2024)</td>
-    <td align="center">Submitted</td>
+    <td>D. Strutz, A. Curtis. "Near-real-time design of experiments for seismic monitoring of volcanoes" Seismica (2025)</td>
+    <td align="center"><a href="https://doi.org/10.26443/seismica.v4i1.1452">10.26443/seismica.v4i1.1452</a></td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_4">M.-A. Aminian</a> et al. "Shallow Crustal Structures of the Indian Ocean Derived from Compliance Function Analysis." Geophysical Journal International (2024)</td>
-    <td align="center">Submitted</td>
+    <td>F. Dervisi, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting" Journal Earth, Planets and Space (2024)<td>
+    <td align="center">submitted</td>
   </tr>
   <tr>
-    <td><a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>, H. Igel, J.P. Montagner, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>, <a href="https://spin-itn.eu/candidates/ESR3_4">M. Safarkhani</a>, F. Vernon. "Seasonality of microseisms in southern California from 6C ground motions." GRL (2024)</td>
-    <td align="center">Submitted</td>
+    <td>M.-A. Aminian et al. "Shallow Crustal Structures of the Indian Ocean Derived from Compliance Function Analysis" Geophysical Journal International (2024)</td>
+    <td align="center">submitted</td>
+  </tr>
+  <tr>
+    <td>Tang, L., Igel, H., Montagner, J. P., Hadziioannou, C., Safarkhani, M. & Vernon, F. "Seasonality of microseisms in southern California from 6C ground motions" GRL (2024)</td>
+    <td align="center">submitted</td>
+  </tr>
+  <tr>
+    <td>Dunn, E.A., Roche, J. "Are You Ready For It? Harnessing Celebrity Influence for Science Communication and Seismology - The Taylor Swift Effect" (2025)</td>
+    <td align="center">submitted</td>
+  </tr>
+  <tr>
+    <td>Dunn, E.A., Illingworth, S., Orsi, J.P. "Leveraging Social Media for Geoscience Communication: Insights from the British Geological Survey’s Multi-Hazard and Resilience Campaigns" (2025)</td>
+    <td align="center">submitted</td>
   </tr>
 </table>
 
