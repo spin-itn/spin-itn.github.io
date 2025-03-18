@@ -28,6 +28,8 @@ I’m really looking forward to further continuing my landslide monitoring proje
 ---
 __Publication__
 
+Wuestefeld A., Z. J. Spica, K. Aderhold et al. including P. Jousset, T. Kiers, S. Dias-Meza, The Global DAS Month of February 2023, Seismological Research Letters, 2023, doi/10.1785/0220230180/629787/The-Global-DAS-Month-of-February-2023
+
 Buisman, M., Martuganova, E., Kiers, T., Draganov, D., & Kirichek, A. (2022). Continuous monitoring of the depth of the water-mud interface using distributed acoustic sensing. Journal of Soils and Sediments, 1–7.
 
 Edme, P., Kiers, T., Paitz, P., & Robertsson, J. (2022). Distributed Fiber-Optic Sensing for Local Ground-Roll Estimation and Attenuation. In 83rd EAGE Annual Conference & Exhibition (pp. 1–5).
