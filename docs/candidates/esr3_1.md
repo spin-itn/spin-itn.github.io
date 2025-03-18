@@ -36,6 +36,9 @@ For more information about me you can also visit my [academic webpage](https://d
 ---
 __Publication__
 
+D. Strutz, A. Curtis, Near-real-time design of experiments for seismic monitoring of volcanoes, Seismica, 2025, doi:10.26443/seismica.v4i1.1452
+
+D. Strutz, A. Curtis, Variational Bayesian experimental design for geophysical applications, Geophysical Journal International, 2023, https://doi.org/10.1093/gji/ggad492
 
 ---
 __Research progress__
