@@ -10,11 +10,14 @@ has_children: false
 ## SPIN ESR 1.4: Ocean floor seismological and environmental monitoring
 
 ---
+
 __Name__: Mohammad Amin Aminian        <img src="/candidates/files/esr1_4_1.jpg" alt="drawing" width="300" style="float:right"/>   
 
 __Institution__: Institut de Physique du Globe de Paris (IPGP)
 
 __Email__: aminian@ipgp.fr
+
+__PhD title and defense date__: Quantitative Analysis of Oceanic Crust Shear Velocity Structure Using Seafloor Compliance Measurement Data, December 11, 2024.
 
 ---
 __Introduction__
