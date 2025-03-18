@@ -16,6 +16,7 @@ __Institution__: Ludwig-Maximilians-University of Munich (Germany)
 
 __Email__: ltang@geophysik.uni-muenchen.de
 
+__PhD title and defense date__: Seismic anisotropy of surface waves from 6C ground motions, February 7, 2025.
 ---
 __Introduction__
 
