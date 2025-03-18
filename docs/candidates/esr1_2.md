@@ -24,13 +24,13 @@ My name is Sebastian and I am a PhD-student at the Swiss Federal Institute for T
 ---
 __Publication__
 
+A. Fichtner, F. Walter, P. Paitz, S. Klaasen, D.C. Bowden, S. Noe, N. Müller, D. Husmann, J. Morel, An illustrated guide to: Distributed and integrated fiber-optic sensing in seismology, Earthquake Science, 2025, http://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.09.006
+
 S. Noe et al., The Collaborative Seismic Earth Model: Generation 2, JGR: Solid Earth, 2024, https://doi.org/10.1029/
 2024JB029656
 J. Igel, S. Noe, et al., Challenges in submarine fiber-optic earthquake monitoring, JGR: Solid Earth, 2024, https://doi.org/10.1029/2024JB029556
 
 T.L.A. Schouten, L. Gebraad, S. Noe, A.J.P.Gülcher, S. Thrastarson, D.-P. van Herwaarden, A. Fichtner, Full-waveform inversion reveals diverse origins of lower mantle positive wave speed anomalies, Scientific reports, 2024, https://doi.org/10.1038/s41598-024-77399-2
-
-A. Fichtner, F. Walter, P. Paitz, S. Klaasen, D.C. Bowden, S. Noe, N. Müller, D. Husmann, J. Morel, An illustrated guide to: Distributed and integrated fiber-optic sensing in seismology, Earthquake Science, 2025, http://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.09.006
 
 A. Fichtner, S. Thrastarson, D.P. van Herwaarden, S. Noe, An illustrated guide to: Parsimonious multi-scale full-waveform inversion, Earthquake Science, 2024, http://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.07.004
 
