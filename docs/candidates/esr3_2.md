@@ -28,6 +28,8 @@ I joined LMU Munich in 2021 as a PhD student in Computational Seismology under t
 ---
 __Publication__
 
+Z. Niu, A. A.  Gabriel, L. Seelinger, H.  Igel, Modeling and Quantifying Parameter Uncertainty of Co-seismic Non-classical Nonlinearity in Rocks, JGR: Solid Earth, 2024, https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027149
+
 Niu, Z., Gabriel, A. A., & Igel, H. (2023). Numerical Simulation and Uncertainty Quantification of Models for Coseismic Damage and Healing of Rocks in 1D, 2D and 3D (No. EGU23-4450). Copernicus Meetings.
 
 Niu, Z., Li, B. Q., & Moradian, O. (2023). Moment tensor and stress inversion solutions of acoustic emissions during compression and tensile fracturing in crystalline rocks. Journal of Rock Mechanics and Geotechnical Engineering.
