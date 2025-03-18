@@ -24,6 +24,16 @@ My name is Sebastian and I am a PhD-student at the Swiss Federal Institute for T
 ---
 __Publication__
 
+S. Noe et al., The Collaborative Seismic Earth Model: Generation 2, JGR: Solid Earth, 2024, https://doi.org/10.1029/
+2024JB029656
+J. Igel, S. Noe, et al., Challenges in submarine fiber-optic earthquake monitoring, JGR: Solid Earth, 2024, https://doi.org/10.1029/2024JB029556
+T.L.A. Schouten, L. Gebraad, S. Noe, A.J.P.Gülcher, S. Thrastarson, D.-P. van Herwaarden, A. Fichtner, Full-waveform inversion reveals diverse origins of lower mantle positive wave speed anomalies, Scientific reports, 2024, https://doi.org/10.1038/s41598-024-77399-2
+A. Fichtner, F. Walter, P. Paitz, S. Klaasen, D.C. Bowden, S. Noe, N. Müller, D. Husmann, J. Morel, An illustrated guide to: Distributed and integrated fiber-optic sensing in seismology, Earthquake Science, 2025, http://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.09.006
+A. Fichtner, S. Thrastarson, D.P. van Herwaarden, S. Noe, An illustrated guide to: Parsimonious multi-scale full-waveform inversion, Earthquake Science, 2024, http://www.equsci.org.cn/article/doi/10.1016/j.eqs.2024.07.004
+S. Thrastarson, D.-P. van Herwaarden, S. Noe, C. J.Schiller, A. Fichtner, REVEAL: A Global Full-Waveform Inversion Model, Bulletin of the Seismological Society of America, 2024, http://pubs.geoscienceworld.org/ssa/bssa/article-pdf/114/3/1392/6445281/bssa-2023273.1.pdf 
+N. Müller, S. Noe et al., Earthquake source inversion by integrated fiber-optic sensing, Seismica, 2024, https://seismica.library.mcgill.ca/article/view/1405/1569
+J. Bott, S. Noe, et al., Density and strength variations in the mantle lithosphere and the distribution of intraplate earthquakes, Communications Earth & Environment, 2024, https://doi.org/10.1038/s43247-024-01417-4
+S. Noe, D. Husmann, N. Müller, J. Morel, A. Fichtner, Long-range fiber-optic earthquake sensing by active phase noise cancellation, Scientific Reports, 2023, https://www.nature.com/articles/s41598-023-41161-x
 S Noe, S Yuan, J-P Montagner, H Igel, Anisotropic elastic parameter estimation from multicomponent ground-motion observations: a theoretical study, Geophysical Journal International, Volume 229, Issue 2, May 2022, Pages 1462–1473, https://doi.org/10.1093/gji/ggac006
 
 ---
