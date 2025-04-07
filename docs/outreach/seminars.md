@@ -23,6 +23,11 @@ If you wish to receive announcements for upcoming seminars, please [subscribe to
 
 ## SPIN Friday Seminar Series
 
+This is a list of the bi-weekly seminars organized by the **SPIN-ITN** PhD fellows. The seminars take place at **16:00 – 16:30 CEST** every second Friday.  
+Recordings of the seminars are posted on the <a href="https://www.youtube.com/@spin-itn" target="_blank"><strong>SPIN YouTube channel</strong></a> (<a href="https://www.youtube.com/@spin-itn?sub_confirmation=1" target="_blank">Subscribe!</a>).  
+If you wish to receive announcements for upcoming seminars, please <a href="https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info" target="_blank"><strong>subscribe to the SPIN-info mailing list here</strong></a>.
+
+
 <ul>
   <li><strong>21.01.2022</strong>: Sven Schippkus (University of Hamburg) – Introduction to Git</li>
   <li><strong>04.02.2022</strong>: Fabian Lindner (LMU Munich) – Permafrost monitoring on Mt. Zugspitze (Germany) with passive seismology and wavefield gradients</li>
