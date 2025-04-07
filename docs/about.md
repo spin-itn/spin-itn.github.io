@@ -51,7 +51,7 @@ solid Earth processes, how we interrogate the Earth’s geomechanical behavior, 
 SPIN will, for the first time, focus on [training](/training/) [15 Early-Stage Researchers](/recruitment/) (ESRs) in emerging measurement technologies, and the design of monitoring systems for precursory changes in material properties, all while optimizing observation strategies. The unique interdisciplinary and inter-sectoral [network](/consortium/) will enable ESRs to gain international expertise at excellent [research institutions](/beneficiaries/), with meaningful exposure of each ESR to [other disciplines and sectors](/partners/), thus going far beyond the education at a single PhD programme. 
 {: style="text-align: justify;"}
 
-SPIN started on 01.03.2021 and runs for 4 years, until 28.02.2025. 
+SPIN began on 01.03.2021 and will run for four and a half years, ending on 31.08.2025. 
 The network is coordinated by Prof. Dr. C. Hadziioannou at the <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hadziioannou-celine.html">University of Hamburg</a>. 
 {: style="text-align: justify;"}
 
