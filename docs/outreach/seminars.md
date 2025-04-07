@@ -24,9 +24,6 @@ If you wish to receive announcements for upcoming seminars, please [subscribe to
 ## SPIN Friday Seminar Series
 
 This is a list of the bi-weekly seminars organized by the **SPIN-ITN** PhD fellows. The seminars take place at **16:00 – 16:30 CEST** every second Friday.  
-Recordings of the seminars are posted on the <a href="https://www.youtube.com/@spin-itn" target="_blank"><strong>SPIN YouTube channel</strong></a> (<a href="https://www.youtube.com/@spin-itn?sub_confirmation=1" target="_blank">Subscribe!</a>).  
-If you wish to receive announcements for upcoming seminars, please <a href="https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info" target="_blank"><strong>subscribe to the SPIN-info mailing list here</strong></a>.
-
 
 <ul>
   <li><strong>21.01.2022</strong>: Sven Schippkus (University of Hamburg) – Introduction to Git</li>
@@ -52,4 +49,7 @@ If you wish to receive announcements for upcoming seminars, please <a href="http
   <li><strong>05.04.2024</strong>: Jean-Baptiste Tary (DIAS) – Analysis of Bryde's whale calls using ocean bottom data from the Costa Rica rift, Panama basin</li>
   <li><strong>05.07.2024</strong>: Tatiana Kartseva (ISTerre, UGA) – Source Spectra Parameters of Volcano-Tectonic and Laboratory Earthquakes</li>
 </ul>
+
+Recordings of the seminars are posted on the <a href="https://www.youtube.com/@spin-itn" target="_blank"><strong>SPIN YouTube channel</strong></a> (<a href="https://www.youtube.com/@spin-itn?sub_confirmation=1" target="_blank">Subscribe!</a>).  
+If you wish to receive announcements for upcoming seminars, please <a href="https://mailman.rrz.uni-hamburg.de/mailman/listinfo/spin-info" target="_blank"><strong>subscribe to the SPIN-info mailing list here</strong></a>.
 
