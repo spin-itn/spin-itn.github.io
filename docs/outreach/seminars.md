@@ -6,9 +6,9 @@ permalink: /outreach/seminars/
 nav_order: 1
 ---
 
-# SPIN weekly Friday seminars
+# SPIN Friday Seminars
 
-The SPIN-ITN PhD fellows organize a weekly seminar, with topics ranging from recent scientific results to scientific and transferable skills. A schedule of the seminars can be found [here](https://docs.google.com/document/d/1RG_EKlTnwqeV1ovWvbaG3KaZY_bVY0-tuwZmxSet3Pg/edit?usp=sharing), or seen below.  
+The SPIN-ITN PhD fellows organize a Friday seminar, with topics ranging from recent scientific results to scientific and transferable skills. A schedule of the seminars can be found [here](https://docs.google.com/document/d/1RG_EKlTnwqeV1ovWvbaG3KaZY_bVY0-tuwZmxSet3Pg/edit?usp=sharing), or seen below.  
 {: style="text-align: justify;"}
 
 Recordings of the seminars are posted on the [SPIN Youtube](https://www.youtube.com/@spin-itn) channel (please subscribe!)  
@@ -23,7 +23,7 @@ If you wish to receive announcements for upcoming seminars, please [subscribe to
 
 ## SPIN Friday Seminar Series
 
-This is a list of the weekly seminars organized by the **SPIN-ITN** PhD fellows. The seminars take place at **16:00 – 16:30 CEST** every Friday.  
+This is a list of the seminars organized by the **SPIN-ITN** PhD fellows. The seminars take place at **16:00 – 16:30 CEST** on Fridays.  
 
 <ul>
   <li><strong>21.01.2022</strong>: Sven Schippkus (University of Hamburg) – Introduction to Git</li>
