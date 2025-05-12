@@ -115,8 +115,16 @@ nav_order: 5
     <td>Dunn, E.A., Illingworth, S., Orsi, J.P. "Leveraging Social Media for Geoscience Communication: Insights from the British Geological Survey’s Multi-Hazard and Resilience Campaigns" (2025)</td>
     <td align="center">submitted</td>
   </tr>
-  </table>
-
+  <tr>
+  <td>Noe, S., Tuinstra, K., Klaasen, S., Krischer, L., & Fichtner, A. "Theoretical background for full-waveform inversion with Distributed Acoustic Sensing and integrated strain sensing" <i>Geophysical Journal International</i> (2025)  
+  </td>
+  <td align="center">submitted</td>
+  </tr>
+  <tr>
+  <td>Dominguez Bureos, M., Hadziioannou, C., Sens-Schönfelder, C., Niederleithinger, E. "Stress- and time-dependent variations of elastic properties for integrity assessment in a reinforced concrete test bridge" <i>Journal of Nondestructive Evaluation</i></td>
+  <td align="center">submitted</td>
+  </tr>
+</table>
 
 <head>
     <meta charset="UTF-8">
