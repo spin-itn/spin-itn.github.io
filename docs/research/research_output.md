@@ -116,12 +116,12 @@ nav_order: 5
     <td align="center">submitted</td>
   </tr>
   <tr>
-  <td>Noe, S., Tuinstra, K., Klaasen, S., Krischer, L., & Fichtner, A. "Theoretical background for full-waveform inversion with Distributed Acoustic Sensing and integrated strain sensing" <i>Geophysical Journal International</i> (2025)  
+  <td>Noe, S., Tuinstra, K., Klaasen, S., Krischer, L., & Fichtner, A. "Theoretical background for full-waveform inversion with Distributed Acoustic Sensing and integrated strain sensing" Geophysical Journal International (2025)  
   </td>
   <td align="center">submitted</td>
   </tr>
   <tr>
-  <td>Dominguez Bureos, M., Hadziioannou, C., Sens-Schönfelder, C., Niederleithinger, E. "Stress- and time-dependent variations of elastic properties for integrity assessment in a reinforced concrete test bridge" <i>Journal of Nondestructive Evaluation</i></td>
+  <td>Dominguez Bureos, M., Hadziioannou, C., Sens-Schönfelder, C., Niederleithinger, E. "Stress- and time-dependent variations of elastic properties for integrity assessment in a reinforced concrete test bridge" Journal of Nondestructive Evaluation</td>
   <td align="center">submitted</td>
   </tr>
 </table>
