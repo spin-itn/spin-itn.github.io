@@ -121,7 +121,19 @@ nav_order: 5
   <td align="center">submitted</td>
   </tr>
   <tr>
-  <td>Dominguez Bureos, M., Hadziioannou, C., Sens-Schönfelder, C., Niederleithinger, E. "Stress- and time-dependent variations of elastic properties for integrity assessment in a reinforced concrete test bridge" Journal of Nondestructive Evaluation</td>
+  <td>Dominguez Bureos, M., Hadziioannou, C., Sens-Schönfelder, C., Niederleithinger, E. "Stress- and time-dependent variations of elastic properties for integrity assessment in a reinforced concrete test bridge" Journal of Nondestructive Evaluation (2025)</td>
+  <td align="center">submitted</td>
+  </tr>
+  <tr>
+  <td>R. Esfahani, M. Bracale, L. Seygoux, M. Campillo, "Learning wave scattering properties from seismograms" JGR: Machine Learning and Computation (2025)</td>
+  <td align="center">submitted</td>
+  </tr>
+  <tr>
+  <td>M. Bracale, M. Campillo, N. M. Shapiro, R. Brossier, O. Melnik, "Multiple scattering of seismic waves in a heterogeneous magmatic system and spectral characteristic of long period volcanic earthquakes" JGR: Solid Earth (2025)</td>
+  <td align="center">submitted</td>
+  </tr>
+  <tr>
+  <td>M. Safarkhani, S. Schippkus, C. Hadziioannou, "Imprints of Time-Dependent Microseism Source Distributions on the Coda of Correlations" Geophysical Journal International (2025)</td>
   <td align="center">submitted</td>
   </tr>
 </table>
