@@ -9,6 +9,9 @@ nav_order: 5
 # SPIN Research output
 
 <!-- ***********************************************Publications Table*********************************************** -->
+<details>
+  <summary><strong>Click to expand the full table</strong></summary>
+
 <table style="width:100%; table-layout: fixed;">
   <caption>Publications</caption>
   <colgroup>
@@ -137,6 +140,8 @@ nav_order: 5
   <td align="center">submitted</td>
   </tr>
 </table>
+
+</details>
 
 <head>
     <meta charset="UTF-8">
