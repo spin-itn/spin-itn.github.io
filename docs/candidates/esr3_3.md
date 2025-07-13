@@ -17,6 +17,8 @@ __Institution__: ISTerre, University of Grenoble Alpes (UGA)
 
 __Email__: julius.grimm@univ-grenoble-alpes.fr
 
+__PhD title and defense date__: Detection and Characterization of Seismic Signals with Distributed Acoustic Sensing (DAS), June 16, 2025.
+
 ---
 __Introduction__
 
