@@ -16,6 +16,8 @@ __Institution__: ETH Zürich
 
 __Email__: sebastian.noe@erdw.ethz.ch
 
+__PhD title and defense date__: Frontiers of full-waveform seismology: From global tomography to distributed and integrated fibre-optic sensing, June 26, 2025.
+
 ---
 __Introduction__
 
