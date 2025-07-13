@@ -97,7 +97,7 @@ nav_order: 5
   </tr>
   <tr>
     <td>F. Dervisi, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting" Journal Earth, Planets and Space (2024)</td>
-    <td align="center">submitted</td>
+    <td align="center">accepted</td>
   </tr>
   <tr>
     <td>M.-A. Aminian et al. "Shallow Crustal Structures of the Indian Ocean Derived from Compliance Function Analysis" Geophysical Journal International (2024)</td>
