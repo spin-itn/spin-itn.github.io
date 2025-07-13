@@ -18,6 +18,10 @@ __Email__: Mirko.Bracale@univ-grenoble-alpes.fr
 
 __PhD title and defense date__: The Seismic Wavefield and Its Gradients in Complex Scattering Media: Numerical Simulations with Applications to Shallow Heterogeneity Detection and In-Situ Characterization of a Volcanic Magmatic Structure, June 13, 2025.
 
+__Postdoc__ at UGA until 13.10.2025. 
+
+__Postdoc__ at OGS, Italy from 01.11.2025.  
+
 ---
 __Introduction__
 
