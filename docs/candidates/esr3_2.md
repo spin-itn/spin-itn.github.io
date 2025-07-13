@@ -16,6 +16,8 @@ __Institution__: Ludwig-Maximilian-University Munich, Germany (LMU)
 
 __Email__: zniu@geophysik.uni-muenchen.de
 
+__PhD title and defense date__: Regional-scale forward modeling and inversion of 3D wave propagation and dynamic rupture processes with nonlinear mechanical models of rocks and soils, June 5, 2025.
+
 ---
 __Introduction__
 
