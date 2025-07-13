@@ -16,6 +16,8 @@ __Institution__: University of Hamburg (UHH)
 
 __Email__: mahsa.safarkhani@uni-hamburg.de
 
+__PhD title and defense date__: Seasonal Variability of Microseism Sources: Characterization and Impact on Noise Correlation, July 2, 2025.
+
 ---
 __Introduction__
 
