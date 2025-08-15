@@ -96,12 +96,24 @@ nav_order: 5
     <td align="center"><a href="https://doi.org/10.26443/seismica.v4i1.1452">10.26443/seismica.v4i1.1452</a></td>
   </tr>
   <tr>
-    <td>F. Dervisi, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting" Journal Earth, Planets and Space (2024)</td>
-    <td align="center">accepted</td>
+  <td>Z. Niu, A.-A. Gabriel, S. Wolf, T. Ulrich, V. Lyakhovsky, H. Igel. "A Discontinuous Galerkin method for simulating 3D seismic wave propagation in nonlinear rock models: verification and application to the Mw 7.8 2015 Gorkha, Nepal earthquake." JGR: Solid Earth (2025)</td>
+  <td align="center"><a href="https://doi.org/10.1029/2025JB031378">10.1029/2025JB031378</a></td>
   </tr>
   <tr>
-    <td>M.-A. Aminian et al. "Shallow Crustal Structures of the Indian Ocean Derived from Compliance Function Analysis" Geophysical Journal International (2024)</td>
-    <td align="center">submitted</td>
+  <td>M.-A. Aminian, W. Crawford, E. Stutzmann, J.-P. Montagner, M. Cannat, C. Hadziioannou. "Shallow Crustal Structures of the Indian Ocean Derived from Compliance Function Analysis." Geophysical Journal International (2025)</td>
+  <td align="center"><a href="https://doi.org/10.1093/gji/ggaf253">10.1093/gji/ggaf253</a></td>
+  </tr>
+  <tr>
+  <td>M. Kruse, Z. Niu, S. Wolf, M. B. Lykkegaard, M. Bader, A.-A. Gabriel, L. Seelinger. "Scalable Bayesian Inference of Large Simulations via Asynchronous Prefetching Multilevel Delayed Acceptance." Platform for Advanced Scientific Computing Conference (PASC ’25) (2025)</td>
+  <td align="center"><a href="https://doi.org/10.1145/3732775.3733581">10.1145/3732775.3733581</a></td>
+  </tr>
+  <tr>
+  <td>J. Klinge, S. Schippkus, J. Walda, C. Hadziioannou, D. Gajewski. "Predictive modelling of seismic wave fields: learning the transfer function using encoder–decoder networks." Geophysical Journal International (2025)</td>
+  <td align="center"><a href="https://doi.org/10.1093/gji/ggaf004">10.1093/gji/ggaf004</a></td>
+  </tr>
+  <tr>
+    <td>F. Dervisi, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting" Journal Earth, Planets and Space (2024)</td>
+    <td align="center">accepted</td>
   </tr>
   <tr>
     <td>Tang, L., Igel, H., Montagner, J. P., Hadziioannou, C., Safarkhani, M. & Vernon, F. "Seasonality of microseisms in southern California from 6C ground motions" GRL (2024)</td>
