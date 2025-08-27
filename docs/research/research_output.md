@@ -112,6 +112,10 @@ nav_order: 5
   <td align="center"><a href="https://doi.org/10.1093/gji/ggaf004">10.1093/gji/ggaf004</a></td>
   </tr>
   <tr>
+  <td>M. Asnar, C. Sens-Schönfelder, A. Bonnelye, A. Curtis, G. Dresen, M. Bohnhoff. "Anisotropy reveals contact sliding and aging as a cause of post-seismic velocity changes." Nature Communications (2025)</td>
+  <td align="center"><a href="https://doi.org/10.1038/s41467-025-62667-0">10.1038/s41467-025-62667-0</a></td>
+  </tr>
+  <tr>
     <td>F. Dervisi, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting" Journal Earth, Planets and Space (2024)</td>
     <td align="center">accepted</td>
   </tr>
@@ -146,6 +150,10 @@ nav_order: 5
   </tr>
   <tr>
   <td>M. Safarkhani, S. Schippkus, C. Hadziioannou, "Imprints of Time-Dependent Microseism Source Distributions on the Coda of Correlations" Geophysical Journal International (2025)</td>
+  <td align="center">submitted</td>
+  </tr>
+  <tr>
+  <td>T. Kiers et al. "Imaging one of the largest Alpine slope instabilities with 3D seismic first-arrival traveltime tomography." Journal of Applied Geophysics (2025)</td>
   <td align="center">submitted</td>
   </tr>
 </table>
