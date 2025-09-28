@@ -116,15 +116,19 @@ nav_order: 5
   <td align="center"><a href="https://doi.org/10.1038/s41467-025-62667-0">10.1038/s41467-025-62667-0</a></td>
   </tr>
   <tr>
+  <td>Dominguez Bureos, M., Hadziioannou, C., Sens-Schönfelder, C., Niederleithinger, E. "Stress- and time-dependent variations of elastic properties for integrity assessment in a reinforced concrete test bridge" Journal of Nondestructive Evaluation (2025)</td>
+  <td align="center"><a href='https://doi.org/10.1007/s10921-025-01257-y'>s10921-025-01257-y</a></td>
+  </tr>
+  <tr>
+  <td>Dunn, E.A., Roche, J. "Are You Ready For It? Harnessing Celebrity Influence for Science Communication and Seismology - The Taylor Swift Effect" International Journal of Science Education, Part B (2025)</td>
+  <td align="center"><a href='https://doi.org/10.1080/21548455.2025.2534042'>10.1080/21548455.2025.2534042</a></td>
+  </tr>  
+  <tr>
     <td>F. Dervisi, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting" Journal Earth, Planets and Space (2024)</td>
     <td align="center">accepted</td>
   </tr>
   <tr>
     <td>Tang, L., Igel, H., Montagner, J. P., Hadziioannou, C., Safarkhani, M. & Vernon, F. "Seasonality of microseisms in southern California from 6C ground motions" GRL (2024)</td>
-    <td align="center">submitted</td>
-  </tr>
-  <tr>
-    <td>Dunn, E.A., Roche, J. "Are You Ready For It? Harnessing Celebrity Influence for Science Communication and Seismology - The Taylor Swift Effect" (2025)</td>
     <td align="center">submitted</td>
   </tr>
   <tr>
@@ -134,10 +138,6 @@ nav_order: 5
   <tr>
   <td>Noe, S., Tuinstra, K., Klaasen, S., Krischer, L., & Fichtner, A. "Theoretical background for full-waveform inversion with Distributed Acoustic Sensing and integrated strain sensing" Geophysical Journal International (2025)  
   </td>
-  <td align="center">submitted</td>
-  </tr>
-  <tr>
-  <td>Dominguez Bureos, M., Hadziioannou, C., Sens-Schönfelder, C., Niederleithinger, E. "Stress- and time-dependent variations of elastic properties for integrity assessment in a reinforced concrete test bridge" Journal of Nondestructive Evaluation (2025)</td>
   <td align="center">submitted</td>
   </tr>
   <tr>
