@@ -123,6 +123,12 @@ nav_order: 5
   <td>Dunn, E.A., Roche, J. "Are You Ready For It? Harnessing Celebrity Influence for Science Communication and Seismology - The Taylor Swift Effect" International Journal of Science Education, Part B (2025)</td>
   <td align="center"><a href='https://doi.org/10.1080/21548455.2025.2534042'>10.1080/21548455.2025.2534042</a></td>
   </tr>  
+
+  <tr>
+  <td>Niu, Z., Gabriel, A.-A., Ben-Zion, Y. "Delayed Dynamic Triggering and Enhanced High-Frequency Seismic Radiation From Brittle Rock Damage in 3D Dynamic Rupture Simulations" JGR: Solid Earth (2025)</td>
+  <td align="center"><a href='https://doi.org/10.1029/2025JB031632'>10.1029/2025JB031632</a></td>
+  </tr>
+
   <tr>
     <td>F. Dervisi, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting" Journal Earth, Planets and Space (2024)</td>
     <td align="center">accepted</td>
