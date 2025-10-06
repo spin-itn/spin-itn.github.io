@@ -116,16 +116,16 @@ nav_order: 5
   <td align="center"><a href="https://doi.org/10.1038/s41467-025-62667-0">10.1038/s41467-025-62667-0</a></td>
   </tr>
   <tr>
-  <td>Dominguez Bureos, M., Hadziioannou, C., Sens-Schönfelder, C., Niederleithinger, E. "Stress- and time-dependent variations of elastic properties for integrity assessment in a reinforced concrete test bridge" Journal of Nondestructive Evaluation (2025)</td>
+  <td>M. Dominguez Bureos, C. Hadziioannou, C. Sens-Schönfelder, E. Niederleithinger "Stress- and time-dependent variations of elastic properties for integrity assessment in a reinforced concrete test bridge" Journal of Nondestructive Evaluation (2025)</td>
   <td align="center"><a href='https://doi.org/10.1007/s10921-025-01257-y'>s10921-025-01257-y</a></td>
   </tr>
   <tr>
-  <td>Dunn, E.A., Roche, J. "Are You Ready For It? Harnessing Celebrity Influence for Science Communication and Seismology - The Taylor Swift Effect" International Journal of Science Education, Part B (2025)</td>
+  <td>E.A. Dunn, J. Roche "Are You Ready For It? Harnessing Celebrity Influence for Science Communication and Seismology - The Taylor Swift Effect" International Journal of Science Education, Part B (2025)</td>
   <td align="center"><a href='https://doi.org/10.1080/21548455.2025.2534042'>10.1080/21548455.2025.2534042</a></td>
   </tr>  
 
   <tr>
-  <td>Niu, Z., Gabriel, A.-A., Ben-Zion, Y. "Delayed Dynamic Triggering and Enhanced High-Frequency Seismic Radiation From Brittle Rock Damage in 3D Dynamic Rupture Simulations" JGR: Solid Earth (2025)</td>
+  <td>Z. Niu, A.-A. Gabriel, Y. Ben-Zion "Delayed Dynamic Triggering and Enhanced High-Frequency Seismic Radiation From Brittle Rock Damage in 3D Dynamic Rupture Simulations" JGR: Solid Earth (2025)</td>
   <td align="center"><a href='https://doi.org/10.1029/2025JB031632'>10.1029/2025JB031632</a></td>
   </tr>
   <tr>
@@ -137,11 +137,11 @@ nav_order: 5
     <td align="center">accepted</td>
   </tr>
   <tr>
-    <td>Tang, L., Igel, H., Montagner, J. P., Hadziioannou, C., Safarkhani, M. & Vernon, F. "Seasonality of microseisms in southern California from 6C ground motions" GRL (2024)</td>
+    <td>L. Tang, H. Igel, J. P. Montagner, C. Hadziioannou, M. Safarkhani, F. Vernon "Seasonality of microseisms in southern California from 6C ground motions" GRL (2024)</td>
     <td align="center">submitted</td>
   </tr>
   <tr>
-    <td>Dunn, E.A., Illingworth, S., Orsi, J.P. "Leveraging Social Media for Geoscience Communication: Insights from the British Geological Survey’s Multi-Hazard and Resilience Campaigns" (2025)</td>
+    <td>E.A. Dunn, S. Illingworth, J.P. Orsi "Leveraging Social Media for Geoscience Communication: Insights from the British Geological Survey’s Multi-Hazard and Resilience Campaigns" (2025)</td>
     <td align="center">submitted</td>
   </tr>
   <tr>
@@ -159,6 +159,10 @@ nav_order: 5
   </tr>
   <tr>
   <td>T. Kiers et al. "Imaging one of the largest Alpine slope instabilities with 3D seismic first-arrival traveltime tomography." Journal of Applied Geophysics (2025)</td>
+  <td align="center">submitted</td>
+  </tr>
+  <tr>
+  <td>Strutz, D., T. Kiers, A. Curtis. "Single and Multi-Objective Optimization of Distributed Acoustic Sensing Cable Layouts for Geophysical Applications" Geophysical Journal International (2025)</td>
   <td align="center">submitted</td>
   </tr>
 </table>
