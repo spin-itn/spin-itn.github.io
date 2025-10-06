@@ -177,6 +177,19 @@ nav_order: 5
   <td>D. Strutz, T. Kiers, A. Curtis. "Single and Multi-Objective Optimization of Distributed Acoustic Sensing Cable Layouts for Geophysical Applications" Geophysical Journal International (2025)</td>
   <td align="center">submitted</td>
   </tr>
+  <tr>
+  <td>Bracale, M., L. Margerin, R. Brossier, M. Campillo. "Simulation of Multiple Scattering of Seismic Waves: Energy, Displacement and its Gradients" Geophysical Journal International (2025)</td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td>Bracale, M., R. Brossier, M. Campillo. "Local Subsurface Characterization with Seismic Wavefield Gradients" Geophysical Journal International (2025)</td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td>Klinge, J., S. Schippkus, C. Hadziioannou. "Unlocking the potential of single stations to replace seismic arrays" Geophysical Journal International (2025)</td>
+  <td align="center"></td>
+  </tr>
+
 </table>
 
 
