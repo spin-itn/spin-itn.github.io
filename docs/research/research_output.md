@@ -100,7 +100,7 @@ nav_order: 5
   <td align="center"><a href="https://doi.org/10.1029/2025JB031378">10.1029/2025JB031378</a></td>
   </tr>
   <tr>
-  <td>M.-A. Aminian, W. Crawford, E. Stutzmann, J.-P. Montagner, M. Cannat, C. Hadziioannou. "Shallow Crustal Structures of the Indian Ocean Derived from Compliance Function Analysis" Geophysical Journal International (2025)</td>
+  <td>M.-A. Aminian, W. Crawford, E. Stutzmann, J.-P. Montagner, M. Cannat, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>. "Shallow Crustal Structures of the Indian Ocean Derived from Compliance Function Analysis" Geophysical Journal International (2025)</td>
   <td align="center"><a href="https://doi.org/10.1093/gji/ggaf253">10.1093/gji/ggaf253</a></td>
   </tr>
   <tr>
@@ -116,7 +116,7 @@ nav_order: 5
   <td align="center"><a href="https://doi.org/10.1038/s41467-025-62667-0">10.1038/s41467-025-62667-0</a></td>
   </tr>
   <tr>
-  <td>M. Dominguez Bureos, C. Hadziioannou, C. Sens-Schönfelder, E. Niederleithinger. "Stress- and time-dependent variations of elastic properties for integrity assessment in a reinforced concrete test bridge" Journal of Nondestructive Evaluation (2025)</td>
+  <td>M. Dominguez Bureos, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>, C. Sens-Schönfelder, E. Niederleithinger. "Stress- and time-dependent variations of elastic properties for integrity assessment in a reinforced concrete test bridge" Journal of Nondestructive Evaluation (2025)</td>
   <td align="center"><a href='https://doi.org/10.1007/s10921-025-01257-y'>s10921-025-01257-y</a></td>
   </tr>
   <tr>
@@ -129,7 +129,7 @@ nav_order: 5
   <td align="center"><a href='https://doi.org/10.1029/2025JB031632'>10.1029/2025JB031632</a></td>
   </tr>
   <tr>
-  <td>M. Safarkhani, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, C. Hadziioannou. "Imprints of Time-Dependent Microseism Source Distributions on the Coda of Correlations" Geophysical Journal International (2025)</td>
+  <td>M. Safarkhani, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>. "Imprints of Time-Dependent Microseism Source Distributions on the Coda of Correlations" Geophysical Journal International (2025)</td>
   <td align="center"><a href='https://doi.org/10.1093/gji/ggaf358'>10.1093/gji/ggaf358</a></td>
   </tr>
   <tr>
@@ -137,7 +137,7 @@ nav_order: 5
     <td align="center">accepted</td>
   </tr>
   <tr>
-    <td>L. Tang, H. Igel, J. P. Montagner, C. Hadziioannou, M. Safarkhani, F. Vernon. "Seasonality of microseisms in southern California from 6C ground motions" GRL (2024)</td>
+    <td><a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>, H. Igel, J. P. Montagner, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>, M. Safarkhani, F. Vernon. "Seasonality of microseisms in southern California from 6C ground motions" GRL (2024)</td>
     <td align="center">submitted</td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ nav_order: 5
     <td align="center">submitted</td>
   </tr>
   <tr>
-  <td>S. Noe, K. Tuinstra, S. Klaasen, L. Krischer, A. Fichtner. "Theoretical background for full-waveform inversion with Distributed Acoustic Sensing and integrated strain sensing" Geophysical Journal International (2025)  
+  <td><a href="https://spin-itn.eu/candidates/ESR1_2">S. Noe</a>, K. Tuinstra, S. Klaasen, L. Krischer, A. Fichtner. "Theoretical background for full-waveform inversion with Distributed Acoustic Sensing and integrated strain sensing" Geophysical Journal International (2025)  
   </td>
   <td align="center">submitted</td>
   </tr>
