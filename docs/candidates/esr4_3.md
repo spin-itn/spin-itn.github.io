@@ -16,6 +16,8 @@ __Institution__: ETH Zürich (ETHZ), Department of Earth Sciences
 
 __Email__: tjeerd.kiers@erdw.ethz.ch
 
+__PhD title and defense date__: Listening to Unstable Slopes: Seismic Characterization and Monitoring of an Alpine Slope Instability Using Fibre-Optic Techniques and Dense Nodal Networks, September 26, 2025.
+
 ---
 __Introduction__
 
