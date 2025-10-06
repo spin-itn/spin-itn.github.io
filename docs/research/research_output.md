@@ -129,9 +129,21 @@ nav_order: 5
   <td align="center"><a href='https://doi.org/10.1029/2025JB031632'>10.1029/2025JB031632</a></td>
   </tr>
   <tr>
+  <td>Dias-Meza, S., P. Jousset, G. Currenti, L. Costes, C. M. Krawczyk. "Insights in nonlinear ground response in volcanic environments from distributed dynamic strain sensing" Scientific Reports (2025)</td>
+  <td align="center"><a href='https://doi.org/10.1038/s41598-025-20368-0'>10.1038/s41598-025-20368-0</a></td>
+  </tr>  
+  <tr>
   <td>M. Safarkhani, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/schippkus-sven.html">S. Schippkus</a>, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>. "Imprints of Time-Dependent Microseism Source Distributions on the Coda of Correlations" Geophysical Journal International (2025)</td>
   <td align="center"><a href='https://doi.org/10.1093/gji/ggaf358'>10.1093/gji/ggaf358</a></td>
   </tr>
+  <tr>
+  <td>Jousset, P. et al. "Fiber optic sensing for volcano monitoring and imaging volcanic processes" Chapter in Modern Volcanic Monitoring — IAVCEI Book Series: Advances in Volcanology / Active Volcanoes of the World (Springer) (2025)</td>
+  <td align="center"><a href='https://eartharxiv.org/repository/view/7083/'>EarthArXiv</a></td>
+  </tr>
+
+
+
+  
   <tr>
     <td>F. Dervisi, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting" Journal Earth, Planets and Space (2024)</td>
     <td align="center">accepted</td>
