@@ -16,6 +16,9 @@ __Institution__: University of Hamburg (UHH)
 
 __Email__: marco.dominguez.bureos@uni-hamburg.de
 
+__PhD title and defense date__: Nonlinear Elasticity in Concrete Structures: Toward In-Situ Methods for Integrity Assessment, September 11, 2025.
+
+__Postdoc__: TU Delft, The Netherlands.
 ---
 __Introduction__
 
