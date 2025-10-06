@@ -178,15 +178,15 @@ nav_order: 5
   <td align="center">submitted</td>
   </tr>
   <tr>
-  <td>Bracale, M., L. Margerin, R. Brossier, M. Campillo. "Simulation of Multiple Scattering of Seismic Waves: Energy, Displacement and its Gradients" Geophysical Journal International (2025)</td>
+  <td>M. Bracale, L. Margerin, R. Brossier, M. Campillo. "Simulation of Multiple Scattering of Seismic Waves: Energy, Displacement and its Gradients" Geophysical Journal International (2025)</td>
   <td align="center"></td>
   </tr>
   <tr>
-  <td>Bracale, M., R. Brossier, M. Campillo. "Local Subsurface Characterization with Seismic Wavefield Gradients" Geophysical Journal International (2025)</td>
+  <td>M. Bracale, R. Brossier, M. Campillo. "Local Subsurface Characterization with Seismic Wavefield Gradients" Geophysical Journal International (2025)</td>
   <td align="center"></td>
   </tr>
   <tr>
-  <td>Klinge, J., S. Schippkus, C. Hadziioannou. "Unlocking the potential of single stations to replace seismic arrays" Geophysical Journal International (2025)</td>
+  <td>J. Klinge, S. Schippkus, C. Hadziioannou. "Unlocking the potential of single stations to replace seismic arrays" Geophysical Journal International (2025)</td>
   <td align="center"></td>
   </tr>
 
