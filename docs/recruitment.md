@@ -37,7 +37,7 @@ Candidates __must not have resided__ or carried out their main activity (work, s
 | [SPIN ESR 1.4](/esr14/)   | IPGP Paris (F) | Ocean floor seismological and environmental monitoring                                              | filled |
 | [SPIN ESR 2.1](/esr21/)   | GFZ Potsdam (D) | Rock mechanics and Seismology                                                                       | filled |
 | [SPIN ESR 2.2](/esr22/)   | University of Edinburgh (UK)    | Understanding Earthquake-Induced Damage & Healing of Crustal Rocks                                  | filled |
-| [SPIN ESR 2.3](/esr23/)   | British Geological Service (UK) | Next-Generation Physics-based earthquake forecasts                                                  | filled|
+| [SPIN ESR 2.3](/esr23/)   | British Geological Survey (UK) | Next-Generation Physics-based earthquake forecasts                                                  | filled|
 | [SPIN ESR 3.1](/esr31/)   | University of Edinburgh (UK)    | Optimal Design of Experiments and Surveys for Scientific Interrogation                              | filled |
 | [SPIN ESR 3.2](/esr32/)   | LMU Munich (D) | Numerical models across the scales                                                                  | filled |
 | [SPIN ESR 3.3](/esr33/)   | Universit&eacute; Grenoble Alpes (F) | Detection and characterization of seismic signals with dense arrays of new seismological instruments | filled |

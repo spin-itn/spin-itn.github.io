@@ -67,7 +67,7 @@ Partners and associated institutes:
 | SPIN ESR 1.4| IPGP Paris (F) | Ocean floor seismological and environmental monitoring                                              | 
 | SPIN ESR 2.1| GFZ Potsdam (D) | Rock mechanics and Seismology                                                                       | 
 | SPIN ESR 2.2| University of Edinburgh (UK)    | Understanding Earthquake-Induced Damage & Healing of Crustal Rocks                                  | 
-| SPIN ESR 2.3| British Geological Service (UK) | Next-Generation Physics-based earthquake forecasts                                                  |
+| SPIN ESR 2.3| British Geological Survey (UK) | Next-Generation Physics-based earthquake forecasts                                                  |
 | SPIN ESR 3.1| University of Edinburgh (UK)    | Optimal Design of Experiments and Surveys for Scientific Interrogation                              | 
 | SPIN ESR 3.2| LMU Munich (D) | Numerical models across the scales                                                                  | 
 | SPIN ESR 3.3| Universit&eacute; Grenoble Alpes (F) | Detection and characterization of seismic signals with dense arrays of new seismological instruments | 
