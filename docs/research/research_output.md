@@ -140,14 +140,14 @@ nav_order: 5
   <td>Jousset, P. et al. "Fiber optic sensing for volcano monitoring and imaging volcanic processes" Chapter in Modern Volcanic Monitoring — IAVCEI Book Series: Advances in Volcanology / Active Volcanoes of the World (Springer) (2025)</td>
   <td align="center"><a href='https://eartharxiv.org/repository/view/7083/'>EarthArXiv</a></td>
   </tr>
+  <tr>
+    <td><a href="https://spin-itn.eu/candidates/ESR2_3">F. Dervisi</a>, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting" Earth, Planets and Space (2025)</td>
+    <td align="center"><a href='https://doi.org/10.1186/s40623-025-02241-6'>10.1186/s40623-025-02241-6</a></td>
+  </tr>
 
 
 
   
-  <tr>
-    <td>F. Dervisi, M. Segou, P. Poli, B. Baptie, I. Main, A. Curtis. "Towards a deep learning approach for short-term data-driven spatiotemporal seismicity rate forecasting" Journal Earth, Planets and Space (2024)</td>
-    <td align="center">accepted</td>
-  </tr>
   <tr>
     <td><a href="https://spin-itn.eu/candidates/ESR1_1">L. Tang</a>, H. Igel, J. P. Montagner, <a href="https://www.geo.uni-hamburg.de/geophysik/personen/hadziioannou-celine.html">C. Hadziioannou</a>, M. Safarkhani, F. Vernon. "Seasonality of microseisms in southern California from 6C ground motions" GRL (2024)</td>
     <td align="center">submitted</td>
